@@ -129,6 +129,62 @@ Many professional studios work with 24- or 32-bit audio at 192000 samples per se
 
 - dynamic range = 144/192 dB, N = 96000
 
-Higher sample rates/bit depths consume significantly more memory.
+Higher sample rates/bit depths consume significantly more memory. Are the higher specs worth it?
 
-- Are the higher specs worth it?
+- Debatable, considering that pro-quality audio is often downsampled to 44.1/16 for physical media production/mass distribution
+- Consumer listening often occurs in sub-ideal listening environments, with consumer-grade equipment, etc.
+
+## File Formats
+
+Digital audio samples are stored in a standardized file format, which determines what information is stored. Two broad categories:
+
+1. **Uncompressed**: data stored in full resolution
+2. **Compressed**: data size is reduced
+   1. **Lossless compression**: original uncompressed data is recoverable
+   2. **Lossy compression**: Original uncompressed data is permanently lost
+
+### Uncompressed File Formats
+
+Among the most common formats are:
+
+- **AIFF** (audio interchange file format)
+  - Apple, 1988, `.aiff` or `.aif`
+- **WAVE** (waveform audio file format)
+  - Microsoft/IBM, 1991, `.wav`
+
+Both formats exhibit the following characteristics:
+
+- typically encoded via linear pulse-code modulation (LPCM)
+- are full-resolution: every digital sample stored as a `16`, `24`, or `32` bit value
+- include header information at beginning of file
+  - sample rate, bit depth, number of channels, metadata, etc.
+
+#### Uncompressed File Size
+
+How many MB per minute in an uncompressed audio file?
+
+Known conversions:
+
+- 8 bits = 1 byte
+- 1 MB = 1 million bytes
+- 60 seconds = 1 minute
+
+Calculation:
+
+```text
+sample rate (samples/sec)
+* bit depth (bits/sample) = bits/sec
+/ 8 (bits/byte) = bytes/sec
+* 60 (sec/min)= bytes/min
+/ 1000000 = megabytes/min
+* number of channels
+```
+
+Results:
+
+- 1 min of stereo 44.1k/16b AIFF/WAV: **approximately 10.5 MB**
+- 1 min of stereo 192k/24b AIFF/WAV: **approximately 70 MB**
+
+For comparison, the original 1984 Apple Macintosh could hold approximately 2.3 seconds of stereo 44.1/16 uncompressed audio.
+
+![Approximate file sizes for uncompressed audio](../attachments/uncompressed-audio-file-sizes.png)
