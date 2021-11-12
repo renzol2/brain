@@ -45,6 +45,8 @@ Two more computer music centers established in the 1970s:
 
 Both are still active hubs for electroacoustic/computer music today.
 
+In the early decades of computer music, computer music was being created at institutional centers rather than in homes since mainframe computers were very expensive and required a high level of specialized knowledge.
+
 ## Digital Audio Concepts
 
 ### Digital Audio Key Terms

@@ -31,6 +31,8 @@ Bit depth determines the number of bits used to represent each sample
 - i.e. the number of available resolution points to which a measured analog value can be approximated
 - 1 byte = 8 bits
 
+Also referred to as *sample width*
+
 Number of resolution points = $2^{\text{bit depth}}$
 
 - `1`-bit system; 2 resolution points
