@@ -193,7 +193,7 @@ For comparison, the original 1984 Apple Macintosh could hold approximately 2.3 s
 
 In _lossless_ compressed audio, file size is reduced, but data can be restored.
 
-- e.g. repeated sample values stored as singel value and number of repeats
+- e.g. repeated sample values stored as a single value and number of repeats
 - `.wma` (Windows media audio, lossless)
 - `.flac` (free lossless audio codec)
 
@@ -206,7 +206,7 @@ In _lossy_ compressed audio, file size is reduced, and original data is permanen
 
 #### Lossy Compression
 
-Lossy compression relies on _perceptual encoding_, where the nuance of human perception determiens which data is removed.
+Lossy compression relies on _perceptual encoding_, where the nuance of human perception determines which data is removed.
 
 _Masking_ is a phenomenon in which one sound conceals or obscures another
 
@@ -217,7 +217,7 @@ Perpetual encoding algorithms identify masked regions and assign fewer bits to t
 
 #### Lossy Compression File Size
 
-Lossy compression involevs choosing a birtate (kbits/sec).
+Lossy compression involves choosing a bitrate (kbits/sec).
 
 - e.g. 128, 256, 320 kbits/sec (other bitrates possible)
 - bitrates can be constant or variable during encoding
