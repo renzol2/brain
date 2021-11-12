@@ -81,4 +81,4 @@ Sampling can have different meanings, depending on context.
 
 ## Sampling
 
-See: [[SAMPLING]]
+See: [[sampling]]
