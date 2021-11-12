@@ -76,7 +76,7 @@ Both are still active hubs for electroacoustic/computer music today.
 Sampling can have different meanings, depending on context.
 
 - Using a significant portion of an existing work as a component in a new work
-- Recording individual sound units from a musical instrument or other sound source, typically mapped to physical controls on a MIDI device and played back
+- Recording individual sound units from a musical instrument or other sound source, typically mapped to physical controls on a MIDI device and played back (see: [[midi]])
 - **taking periodic measurements of an analog signal**
 
 ## Sampling

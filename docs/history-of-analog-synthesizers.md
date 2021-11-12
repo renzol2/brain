@@ -11,7 +11,7 @@ First developments in 1960s
 
 Basic concepts extend from early electronic instruments
 
-History intersects with digitally programmable circuits and digital communication protocols (MIDI).
+History intersects with digitally programmable circuits and digital communication protocols (MIDI) (see: [[midi]]).
 
 Development partly driven by frustration with magnetic tape and its tedious methodologies.
 
@@ -32,6 +32,8 @@ Modular design enables vast creative possibilities:
 
 - Any module's output can be another module's input
 - Multiple outputs and bridges allow flexible signal branching
+
+Modular design led to the introduction of [[modulation-synthesis]].
 
 Common modules:
 
