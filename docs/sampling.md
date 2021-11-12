@@ -81,7 +81,7 @@ _Aliasing_ in general does not exist just in audio, but in _anything_ digital.
 - think: pixels on a screen
 - in this case, _resolution_ of a digital image is similar to _sample rate_ of digital audio
 
-## Quantization Error and Dynamic Range
+### Quantization Error and Dynamic Range
 
 The discrepancy between an analog signal's true value and its quantized approximation is called **quantization error.**
 
@@ -104,7 +104,7 @@ Bit depth determines the maximum _dynamic range_ of a digital audio signal.
 
 Reducing the bit depth, and therefore dynamic range, does _not_ reduce the number of samples taken (the sample rate). We can still represent high frequency content, but reducing the bit depth reduces the dynamic range at which we can represent the audio content.
 
-## Dither
+### Dither
 
 Periodic signals exhibit a regular, predictable pattern of quantization error.
 
@@ -188,3 +188,51 @@ Results:
 For comparison, the original 1984 Apple Macintosh could hold approximately 2.3 seconds of stereo 44.1/16 uncompressed audio.
 
 ![Approximate file sizes for uncompressed audio](../attachments/uncompressed-audio-file-sizes.png)
+
+### Compressed File Formats
+
+In _lossless_ compressed audio, file size is reduced, but data can be restored.
+
+- e.g. repeated sample values stored as singel value and number of repeats
+- `.wma` (Windows media audio, lossless)
+- `.flac` (free lossless audio codec)
+
+Some lossless formats are capable of storing audio in lossy format, e.g. original WMA format. Likewise, some uncompressed formats also support compressed audio, stored in header data.
+
+In _lossy_ compressed audio, file size is reduced, and original data is permanently lost.
+
+- `.mp3` (MPEG-1 and MPEG-2, audio layer III)
+- `.AAC` (advanced audio coding)
+
+#### Lossy Compression
+
+Lossy compression relies on _perceptual encoding_, where the nuance of human perception determiens which data is removed.
+
+_Masking_ is a phenomenon in which one sound conceals or obscures another
+
+- e.g. electric guitar momentarily drowned out by crash cymbal
+- conversation obscured by running water
+
+Perpetual encoding algorithms identify masked regions and assign fewer bits to these samples.
+
+#### Lossy Compression File Size
+
+Lossy compression involevs choosing a birtate (kbits/sec).
+
+- e.g. 128, 256, 320 kbits/sec (other bitrates possible)
+- bitrates can be constant or variable during encoding
+
+How many MB per minute in an uncompressed audio file?
+
+Calculation:
+
+```text
+bitrate (kbits/sec)
+/ 8 (bits/byte) = kbytes/sec
+* 60 (sec/min) = kbytes/min
+/ 1000 = megabytes/min
+```
+
+1 min 128 kbps mp3: approx. **1 MB** (about 1/11t the size of CD-quality audio)
+
+![Approximate bitrates and file sizes for stereo audio](../attachments/bitrates-and-file-sizes-for-compressed-audio.png)
