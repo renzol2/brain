@@ -68,6 +68,12 @@ We also don't know exactly if NP != co-NP.
 
 ![What we think the world looks like.](../attachments/P-vs-NP-vs-coNP.png)
 
+## Reduction
+
+Problems are proven to be in particular complexity classes through the process of **reduction** ([[reduction-complexity]]), i.e. using an algorithm that solves problem A to solve problem B and therefore proving that they are within the same complexity class.
+
+Over time, many NP problems have been proven to be in P. However, no NP-complete problems have been proven to be in P yet.
+
 ## The Cook-Levin Theorem
 
 Circuit satisfiability ([[circuit-satisfiability]]) is **NP-hard**.
