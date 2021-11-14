@@ -1,5 +1,5 @@
 ---
-tags: music mus-407 uiuc electroacoustic computer digital audio
+tags: music mus-407 electroacoustic computer digital audio
 ---
 
 # Computer Music and Digital Audio

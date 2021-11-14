@@ -1,5 +1,5 @@
 ---
-tags: history analog synthesizers music mus-407 uiuc electroacoustic midi
+tags: history analog synthesizers music mus-407 electroacoustic midi
 ---
 # History of Analog Synthesizers
 

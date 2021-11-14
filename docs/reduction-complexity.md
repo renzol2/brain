@@ -1,5 +1,5 @@
 ---
-tags: cs-374 computer-science computer science p-vs-np algorithms reduction
+tags: cs-374 computer-science computer science p-vs-np algorithms reduction theory
 ---
 
 # Reduction (complexity)

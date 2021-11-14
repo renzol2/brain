@@ -1,5 +1,5 @@
 ---
-tags: music mus-407 uiuc electroacoustic computer digital audio sampling sample-rate bit-depth sample dynamic-range quantization
+tags: music mus-407 electroacoustic computer digital audio sampling sample-rate bit-depth sample dynamic-range quantization
 ---
 
 # Sampling

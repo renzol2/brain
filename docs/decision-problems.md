@@ -1,5 +1,5 @@
 ---
-tags: cs-374 computer-science computer science p-vs-np algorithms decision-problems
+tags: cs-374 computer-science computer science p-vs-np algorithms decision-problems theory
 ---
 
 # Decision Problems

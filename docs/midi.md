@@ -1,5 +1,5 @@
 ---
-tags: midi music mus-407 uiuc electroacoustic
+tags: midi music mus-407 electroacoustic
 ---
 # MIDI
 

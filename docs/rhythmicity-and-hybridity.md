@@ -1,5 +1,5 @@
 ---
-tags: music production composition composer composers-forum rhythmicity hybridity electroacoustic uiuc acoustic sound-design
+tags: music production composition composer composers-forum rhythmicity hybridity electroacoustic acoustic sound-design
 ---
 
 # Rhythmicity and Hybridity

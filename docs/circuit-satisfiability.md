@@ -1,5 +1,5 @@
 ---
-tags: cs-374 computer-science computer science p-vs-np algorithms circuit-satisfiability np-complete decision-problems
+tags: cs-374 computer-science computer science p-vs-np algorithms circuit-satisfiability np-complete decision-problems theory
 ---
 
 # Circuit Satisfiability
