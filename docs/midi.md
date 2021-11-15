@@ -1,9 +1,27 @@
 ---
-tags: midi music mus-407 electroacoustic
+tags: midi music mus-407 mus-305 electroacoustic
 ---
+
 # MIDI
 
-> MUS 407: Electroacoustic Music Techniques I
+- [MIDI](#midi)
+  - [History](#history)
+    - [Brief History](#brief-history)
+  - [Hardware](#hardware)
+    - [Examples](#examples)
+  - [Devices](#devices)
+  - [Channels & Messages](#channels--messages)
+    - [MIDI Channels](#midi-channels)
+    - [MIDI Messages](#midi-messages)
+      - [Channel messages](#channel-messages)
+      - [System messages](#system-messages)
+    - [MIDI Message Format](#midi-message-format)
+    - [MIDI Message Example](#midi-message-example)
+    - [Binary vs. Decimal Data](#binary-vs-decimal-data)
+    - [Note-On Message, Deconstructed](#note-on-message-deconstructed)
+    - [Other Common Message Types](#other-common-message-types)
+    - [General MIDI](#general-midi)
+  - [MIDI and Tuning](#midi-and-tuning)
 
 Full: **Musical Instrument Digital Interface**
 
@@ -13,10 +31,10 @@ Digital communication protocol enabling musical systems and instruments to excha
 - electrically transmitted as binary data
 - capable of representing/recreating a musical performance
 
-MIDI is ***not*** an audio signal
+MIDI is **_not_** an audio signal
 
-- It knows *nothing* about the actual sound it is playing - it simply knows the names of the instruments it is representing
-- MIDI is *just data*, fully divorced from sound and can be extracted from musical performance to other use cases
+- It knows _nothing_ about the actual sound it is playing - it simply knows the names of the instruments it is representing
+- MIDI is _just data_, fully divorced from sound and can be extracted from musical performance to other use cases
 
 ## History
 
@@ -28,18 +46,18 @@ MIDI was created to accommodate a rapidly diversifying market of increasingly po
 
 Some analog-digital sound control protocols existed at the time, but there was **no industry standard** for inter-device communication
 
-- Companies would make inter-communication protocols for *their own devices*, but any individual protocol was specific to that family of synths or devices.
+- Companies would make inter-communication protocols for _their own devices_, but any individual protocol was specific to that family of synths or devices.
 
 **MIDI** was developed with coordination from multiple companies (Roland, Oberheim, Yamaha, Sequential Circuits)
 
-- initially called the *Universal Synthesizer Interface* (USI) in 1981
+- initially called the _Universal Synthesizer Interface_ (USI) in 1981
 - later was revised and publicly released in **1983** as **MIDI 1.0** and was quickly embraced by the music industry
 
 MIDI messages consisted of a very small amount of binary data - an overall very small data footprint. Rather than a continuous stream of audio data, it's a relatively small handful of bytes.
 
 - around 2-3 bytes per messages
 - an ideal control protocol, especially by 1980s computer standards
-- vs. digital audio: 2 bytes *per sample* = ~88 KB per second
+- vs. digital audio: 2 bytes _per sample_ = ~88 KB per second
 
 MIDI is **still widely used today**.
 
@@ -76,7 +94,7 @@ Connector pin numbering:
   - 1, 4, 2, 5, 3
 - data transmitted on pin 4, received on pin 5 (at 5V DC)
 - pin 2 shield/ground
-- pins 1 and 3 are *unused*
+- pins 1 and 3 are _unused_
   - they serve to distinguish from XLR?
 - MIDI-XLR adapters are possible
 - uniqueness of 5-pin design meant to prevent erroneous connections
@@ -124,7 +142,7 @@ All MIDI messages fall into one of two categories.
 
 #### Channel messages
 
-- more *musical*
+- more _musical_
 - channel-specific
 - more commonly encountered and frequently used
 - contains information typically used for pitch, timbre, expression, etc.
@@ -135,7 +153,7 @@ All MIDI messages fall into one of two categories.
 
 #### System messages
 
-- more *functional*
+- more _functional_
 - not channel-specific
 - used for global device configuration, bulk data transmission, device sync, manufacturer-specific functions
 
@@ -147,25 +165,25 @@ All MIDI messages fall into one of two categories.
 
 ### MIDI Message Format
 
-A MIDI message consists of one or more *bytes*.
+A MIDI message consists of one or more _bytes_.
 
 - 1 byte = 8 bits
 - 1 bit = smallest digital unit, zero or one ("off" or "on)
 - a UART chip (universal asynchronous receiver/transmitter) receives and processes binary signal into usable data
 - MIDI messages sent at 31,250 bits/sec
   - exact division of 1 mHz to facilitate synchronization with early CPUs
-  
+
 ### MIDI Message Example
 
 Imagine we **press** and **release** a key on a keyboard controller.
 
-**How many MIDI messages are generated?** *Two*. A *note-on message* when we press the key, and a *note-off message* when we release the key.
+**How many MIDI messages are generated?** _Two_. A _note-on message_ when we press the key, and a _note-off message_ when we release the key.
 
-**How many bytes are generated?** *Six*. Each message contains three bytes:
+**How many bytes are generated?** _Six_. Each message contains three bytes:
 
-- A *status byte* specifying message type and channel.
-- A *data byte* specifying note number
-- A *data byte* specifying note velocity
+- A _status byte_ specifying message type and channel.
+- A _data byte_ specifying note number
+- A _data byte_ specifying note velocity
 
 **In general**:
 
@@ -245,4 +263,11 @@ An additional set of specifications released in 1991 to supplement and refine th
 - 128 specific program change timbres
 - 47 specific percussion sounds mapped to specific note numbers
 
-## Homework
+## MIDI and Tuning
+
+MIDI key numbers 0-127 define 11 octaves of the 12-[[TET]] scale.
+
+- starts on `A00`(keynum 0 at 8.175 Hz)
+- ends on `G9` (keynum 127 at ~12,543 Hz)
+
+Every adjacent interval in TET is the same size: $2^{1/12}$ - the smallest interval in the Western [[tuning-systems]].

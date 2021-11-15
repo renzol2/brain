@@ -4,7 +4,13 @@ tags: music mus-407 electroacoustic computer digital audio
 
 # Computer Music and Digital Audio
 
-> MUS 407: Electroacoustic Music Techniques I
+- [Computer Music and Digital Audio](#computer-music-and-digital-audio)
+  - [History of Computer Music](#history-of-computer-music)
+    - [Early Computer Music at Illinois](#early-computer-music-at-illinois)
+  - [Digital Audio Concepts](#digital-audio-concepts)
+    - [Digital Audio Key Terms](#digital-audio-key-terms)
+    - [Sampling (disambiguation)](#sampling-disambiguation)
+  - [Sampling](#sampling)
 
 ## History of Computer Music
 

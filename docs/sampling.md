@@ -6,6 +6,21 @@ tags: music mus-407 electroacoustic computer digital audio sampling sample-rate 
 
 Sampling involves taking periodic measurements of an analog signal and assigning a digital value to each measurement.
 
+- [Sampling](#sampling)
+  - [Sample Rate](#sample-rate)
+  - [Bit Depth](#bit-depth)
+  - [The Nyquist Frequency](#the-nyquist-frequency)
+  - [ADC/DAC Conversion Process](#adcdac-conversion-process)
+    - [Quantization Error and Dynamic Range](#quantization-error-and-dynamic-range)
+    - [Dither](#dither)
+  - [Digital Audio Standards](#digital-audio-standards)
+  - [File Formats](#file-formats)
+    - [Uncompressed File Formats](#uncompressed-file-formats)
+      - [Uncompressed File Size](#uncompressed-file-size)
+    - [Compressed File Formats](#compressed-file-formats)
+      - [Lossy Compression](#lossy-compression)
+      - [Lossy Compression File Size](#lossy-compression-file-size)
+
 ## Sample Rate
 
 Sampling occurs at one of several standardized sampling rates:
