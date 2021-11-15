@@ -1,5 +1,5 @@
 ---
-tags: music tuning just
+tags: music tuning
 ---
 
 # Just Tuning
