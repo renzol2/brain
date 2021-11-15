@@ -2,11 +2,11 @@
 tags: music mus-407 electroacoustic computer digital audio sampling sample-rate bit-depth sample dynamic-range quantization
 ---
 
-# Sampling
+# Sampling (Signal Processing)
 
 Sampling involves taking periodic measurements of an analog signal and assigning a digital value to each measurement.
 
-- [Sampling](#sampling)
+- [Sampling (Signal Processing)](#sampling-signal-processing)
   - [Sample Rate](#sample-rate)
   - [Bit Depth](#bit-depth)
   - [The Nyquist Frequency](#the-nyquist-frequency)
@@ -46,7 +46,7 @@ Bit depth determines the number of bits used to represent each sample
 - i.e. the number of available resolution points to which a measured analog value can be approximated
 - 1 byte = 8 bits
 
-Also referred to as *sample width*
+Also referred to as _sample width_
 
 Number of resolution points = $2^{\text{bit depth}}$
 

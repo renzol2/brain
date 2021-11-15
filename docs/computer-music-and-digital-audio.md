@@ -10,7 +10,6 @@ tags: music mus-407 electroacoustic computer digital audio
   - [Digital Audio Concepts](#digital-audio-concepts)
     - [Digital Audio Key Terms](#digital-audio-key-terms)
     - [Sampling (disambiguation)](#sampling-disambiguation)
-  - [Sampling](#sampling)
 
 ## History of Computer Music
 
@@ -85,8 +84,4 @@ Sampling can have different meanings, depending on context.
 
 - Using a significant portion of an existing work as a component in a new work
 - Recording individual sound units from a musical instrument or other sound source, typically mapped to physical controls on a MIDI device and played back (see: [[midi]])
-- **taking periodic measurements of an analog signal**
-
-## Sampling
-
-See: [[sampling]]
+- **taking periodic measurements of an analog signal** [[sampling-signal-processing]]
