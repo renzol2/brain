@@ -3,7 +3,21 @@ tags: history analog synthesizers music mus-407 electroacoustic midi
 ---
 # History of Analog Synthesizers
 
-> MUS 407: Electroacoustic Music Techniques I
+- [History of Analog Synthesizers](#history-of-analog-synthesizers)
+  - [Overview](#overview)
+  - [Design](#design)
+    - [Design Concepts](#design-concepts)
+    - [Modular](#modular)
+    - [Hardware](#hardware)
+    - [Connections](#connections)
+  - [Manufacturers](#manufacturers)
+    - [Robert Moog & Moog Music](#robert-moog--moog-music)
+    - [Buchla Synthesizers](#buchla-synthesizers)
+  - [Development](#development)
+    - [Polyphony](#polyphony)
+    - [Digital Improvements](#digital-improvements)
+  - [In Pop Culture](#in-pop-culture)
+  - [Homework](#homework)
 
 ## Overview
 
