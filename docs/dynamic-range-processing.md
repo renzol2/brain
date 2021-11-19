@@ -63,7 +63,68 @@ This always produces non-negative values, provides more meaningful measurement, 
 - Noise gate ([[noise-gate]])
 - Compressor ([[compression]])
 - [[Limiter]]
+- [[Expander]]
+- Envelope shaper ([[envelope-shaper]])
 
 ## More Terms & Techniques
+
+### DRP Considerations
+
+DRPs, particularly compressors ([[compression]]) and [[limiters]], can smear/distort transients
+
+- like all effects, easy to overuse, generally should be applied in moderation
+- can be used in extremes for creative effect
+
+DRPs may involve a "look ahead" time to properly anticipate signal levels
+
+- introduces a small delay into processed audio
+- can create synchronization issues, but usually automatically or easily managed in DAW context
+
+DRPs generally have more applications in recording/live sound.
+
+In electroacoustic composition, traditional application of DRP less useful
+
+- composer has complete control over levels during compositional process
+- can usually go back and adjust levels as necessary
+
+### Knee
+
+When signal level crosses a threshold, DRP ratio may be applied fully or gradually, depending on _knee curve_
+
+_Hard/soft_ knee refers to the smoothness of the transfer function graph across the threshold
+
+- a hard knee has two straight lines, above and below threshold
+- a soft knee curves gently between affected and unaffected amplitude regions
+- differences between hard/soft knee tend to be very subtle
+
+### Attack, Hold, Release
+
+Many DRPs include envelope parameters: often _attack/release_, sometimes _hold_
+
+**Attack** determines the amount of time for DRP effect to fully activate. The attack transient begins when signal crosses the threshold.
+
+**Release** determines amount of time for DRP effect to deactivate completely. Release transient begins when level no longer crosses threshold.
+
+**Hold** will force DRP effect to remain active for a time, regardless of threshold.
+
+- can be exploited for creative transient shaping (used explicitly in envelope shapers)
+- useful in noise gates to prevent intermittent signal near threshold
+
+### Upward/Downward Compression & Expansion
+
+Typical cases:
+
+- compressors attenuate above a threshold ([[compression]])
+- [[expanders]] attenuate below a threshold
+- both referred to as *"downward"* compression/expansion
+
+However, it is sometimes possible to set a threshold and amplify signal below it, considered a form of compression.
+
+Likewise, it is possible to boost signal above a threshold - a form of expansion.
+
+This technique is infrequently used:
+
+- upward compression raises the noise floor
+- upward expansion makes peaks even louder
 
 ## Transfer Function Examples
