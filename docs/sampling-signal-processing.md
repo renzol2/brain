@@ -64,7 +64,7 @@ The amplitude of each sample is quantized to a particular bit and encoded into b
 
 ## The Nyquist Frequency
 
-See: [[Nyquist-frequency]]
+See: [[nyquist-frequency]]
 
 ## Aliasing
 

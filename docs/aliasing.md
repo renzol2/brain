@@ -4,7 +4,7 @@ tags: music mus-407 signal-processing sampling
 
 # Aliasing
 
-**Aliasing** (or **foldover**) is the phenomenon where frequencies greater than the [[Nyquist-frequency]] $N$ are still digitally represented within the range $[0, N]$.
+**Aliasing** (or **foldover**) is the phenomenon where frequencies greater than the [[nyquist-frequency]] $N$ are still digitally represented within the range $[0, N]$.
 
 - input frequency will "reflect" off of **zero** and $N$ if boundary is exceeded
 - similar to "negative frequencies" in modulation synthesis
@@ -24,7 +24,7 @@ A DAC includes a **smoothing filter**.
 - reconstruction of an analog signal from raw digital data results in waveform discontinuities ("staircase" shape)
 - without smoothing, these artifacts produce audible high frequency content
 
-Both classify as low-pass filter whose cutoff frequency is at or near the [[Nyquist-Frequency]].
+Both classify as low-pass filter whose cutoff frequency is at or near the [[nyquist-frequency]].
 
 _Aliasing_ in general does not exist just in audio, but in _anything_ digital.
 
