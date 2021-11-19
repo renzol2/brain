@@ -1,17 +1,21 @@
 ---
-tags: music mus-407 electroacoustic dynamic-range
+tags: music mus-407 electroacoustic dynamic-range dynamics
 ---
 
 # Dynamic Range Processing
 
 **Dynamic Range**: Difference between highest/lowest level (dB) of an audio signal
 
+- difference between _loudest_ and _quietest_ part of a signal
+- a big part of orchestral music is _large dynamic range_: the drama between the quietest parts of the piece and the loudest parts
+- meanwhile, pop music generally has a small dynamic range to be loud across the whole song: for uniformity of energy, to be heard over background noise, etc.
+
 A _dynamic range process_ (DRP) changes a signal's dynamic range by altering its amplitude.
 
 - measuring signal amplitude
 - adjusts signal amplitude based on measured value
 
-Measured & processed signals can be the same or different
+Measured & processed signals can be the same or different (i.e. there can be distinct _source_ & _target_ signals. see: [[side-chaining]])
 
 Applications include:
 
@@ -20,7 +24,7 @@ Applications include:
 - creative transient shaping
 - noise reduction
 - preventing clipping/overloading
-- side-chaining (amplitude following, ducking)
+- [[side-chaining]] (amplitude following, ducking)
 
 ## Key Concepts
 
@@ -30,9 +34,11 @@ All forms of DRP rely on an amplitude **threshold**.
 
 DRPs utilize a **detection circuit**or **detection algorithm** for tracking signal amplitude, which can track either _peak_ or _average_ signal level
 
-**Peak**: instantaneous measurement, captures true waveform peaks
+**Peak**: instantaneous measurement, captures true waveform peaks: "no sample left unchecked"
 
 **Average**: signal values averaged over a time interval, also called _RMS_ (root-mean-squared) tracking
+
+- sculpting the dynamic range of the sound without closely monitoring every single peak
 
 Peak tracking is more applicable for preventing overloading/clipping.
 
@@ -53,6 +59,13 @@ This always produces non-negative values, provides more meaningful measurement, 
 ### RMS Tracking
 
 ![RMS Tracking](../attachments/rms-tracking.png)
+
+General steps:
+
+- Start with original signal
+- Take the square of each value
+- Over some time interval, find the average level across that interval
+- Take the square root of those means (to reproduce a similar level to original signal)
 
 ### Peak Tracking
 
