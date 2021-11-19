@@ -28,11 +28,11 @@ All forms of DRP rely on an amplitude **threshold**.
 
 - determines signal level above or below which DRP take effect, depending on the type of effect
 
-DRPs utilize a **detection circuit**or **detection algorithm** for tracking signal amplitude, which can track either *peak* or *average* signal level
+DRPs utilize a **detection circuit**or **detection algorithm** for tracking signal amplitude, which can track either _peak_ or _average_ signal level
 
 **Peak**: instantaneous measurement, captures true waveform peaks
 
-**Average**: signal values averaged over a time interval, also called *RMS* (root-mean-squared) tracking
+**Average**: signal values averaged over a time interval, also called _RMS_ (root-mean-squared) tracking
 
 Peak tracking is more applicable for preventing overloading/clipping.
 
@@ -40,7 +40,29 @@ RMS tracking provides a smoother response to a changing input signal.
 
 ### Why RMS?
 
+What happens if we average sinusoidal values over a period of time?
+
+- Positive and negative values will cancel, resulting in a zero average
+
+RMS means we take the square _root_ of the _mean_ of a sequence of _squared_ sample values:
+
+$x_{RMS}=\sqrt{\frac{x^2_1+x^2_2+x^2_3+...+x^2_n}{n}}$
+
+This always produces non-negative values, provides more meaningful measurement, and more accurately reflects continuous signal power.
+
+### RMS Tracking
+
+![RMS Tracking](../attachments/rms-tracking.png)
+
+### Peak Tracking
+
+![Sine Wave RMS Tracking](../attachments/sine-wave-rms-tracking.png)
+
 ## Types
+
+- Noise gate ([[noise-gate]])
+- Compressor ([[compression]])
+- [[Limiter]]
 
 ## More Terms & Techniques
 
