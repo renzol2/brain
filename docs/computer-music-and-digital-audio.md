@@ -56,7 +56,7 @@ In the early decades of computer music, computer music was being created at inst
 
 ### Digital Audio Key Terms
 
-**sampling**: the process of periodically measuring the amplitude of an analog signal and assigning a digital value to each measurement (see [[sampling]])
+**sampling**: the process of periodically measuring the amplitude of an analog signal and assigning a digital value to each measurement (see [[sampling-signal-processing]])
 
 **sample rate**: number of samples taken per second
 
@@ -83,5 +83,5 @@ In the early decades of computer music, computer music was being created at inst
 Sampling can have different meanings, depending on context.
 
 - Using a significant portion of an existing work as a component in a new work
-- Recording individual sound units from a musical instrument or other sound source, typically mapped to physical controls on a MIDI device and played back (see: [[midi]])
+- Recording individual sound units from a musical instrument or other sound source, typically mapped to physical controls on a [[MIDI]] device and played back (see: [[sampling-composition]])
 - **taking periodic measurements of an analog signal** [[sampling-signal-processing]]
