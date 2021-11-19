@@ -70,7 +70,7 @@ This always produces non-negative values, provides more meaningful measurement, 
 
 ### DRP Considerations
 
-DRPs, particularly compressors ([[compression]]) and [[limiters]], can smear/distort transients
+DRPs, particularly compressors ([[compression]]) and [[limiter]]s, can smear/distort transients
 
 - like all effects, easy to overuse, generally should be applied in moderation
 - can be used in extremes for creative effect
@@ -115,8 +115,8 @@ Many DRPs include envelope parameters: often _attack/release_, sometimes _hold_
 Typical cases:
 
 - compressors attenuate above a threshold ([[compression]])
-- [[expanders]] attenuate below a threshold
-- both referred to as *"downward"* compression/expansion
+- [[expander]]s attenuate below a threshold
+- both referred to as _"downward"_ compression/expansion
 
 However, it is sometimes possible to set a threshold and amplify signal below it, considered a form of compression.
 
@@ -127,4 +127,10 @@ This technique is infrequently used:
 - upward compression raises the noise floor
 - upward expansion makes peaks even louder
 
+### Side-Chaining
+
+See: [[side-chaining]]
+
 ## Transfer Function Examples
+
+TODO: add transfer function examples
