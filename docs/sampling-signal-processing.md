@@ -10,7 +10,7 @@ Sampling involves taking periodic measurements of an analog signal and assigning
   - [Sample Rate](#sample-rate)
   - [Bit Depth](#bit-depth)
   - [The Nyquist Frequency](#the-nyquist-frequency)
-  - [ADC/DAC Conversion Process](#adcdac-conversion-process)
+  - [Aliasing](#aliasing)
     - [Quantization Error and Dynamic Range](#quantization-error-and-dynamic-range)
     - [Dither](#dither)
   - [Digital Audio Standards](#digital-audio-standards)
@@ -64,39 +64,11 @@ The amplitude of each sample is quantized to a particular bit and encoded into b
 
 ## The Nyquist Frequency
 
-The sampling theorem's primary consequence of digital audio:
+See: [[Nyquist-frequency]]
 
-- the highest frequency that can be represented in a digital system is equal to half the sampling rate
-- this frequency is called the **Nyquist Frequency**:
+## Aliasing
 
-$N = \frac{SR}{2}$
-
-If a frequency $> N$ is sampled, the frequency of its digital representation will appear between 0 and $N$ Hz. This phenomenon is called **aliasing** or **foldover**.
-
-- input frequency will "reflect" off of **zero** and $N$ if boundary is exceeded
-- similar to "negative frequencies" in modulation synthesis
-
-Imagine a sampled analog input with spectral content above $N$.
-
-- Foldover occurs as the waveform is sampled
-- Results in unnecessary and/or unwanted interference (either constructive or destructive)
-- Alias frequencies interfere/sum with sub-$N$ frequencies, altering the spectrum
-
-## ADC/DAC Conversion Process
-
-An ADC includes an **anti-alias filter**, which removes analog frequency components that would cause aliasing.
-
-A DAC includes a **smoothing filter**.
-
-- reconstruction of an analog signal from raw digital data results in waveform discontinuities ("staircase" shape)
-- without smoothing, these artifacts produce audible high frequency content
-
-Both classify as low-pass filter whose cutoff frequency is at or near the Nyquist Frequency.
-
-_Aliasing_ in general does not exist just in audio, but in _anything_ digital.
-
-- think: pixels on a screen
-- in this case, _resolution_ of a digital image is similar to _sample rate_ of digital audio
+See: [[aliasing]]
 
 ### Quantization Error and Dynamic Range
 

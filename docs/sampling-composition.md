@@ -133,3 +133,7 @@ Sampling techniques were greatly enhanced by [[MIDI]] (1983). Numerous other sam
 **sample patch**: a pre-configured sampler instrument which has undergone many of the previously mentioned techniques (multisampling, keymapping, velocity switching, keyswitching, predetermined loop points)
 
 **sample library**: a software package containing several pre-configured sample patches
+
+**downsampling**: when an audio sample is transposed (pitch-shifted) upwards, some sampler algorithms will skip a number of sample values in the audio file (see: [[sampling-signal-processing]]), in proportion to the amount of pitch-shift specified. Also called **decimation**.
+
+- this process of upward transposition can cause **aliasing**, which prompts the use of anti-aliasing filters

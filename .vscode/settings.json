@@ -32,4 +32,5 @@
   "markdown-preview-enhanced.previewTheme": "vue.css",
   "markdown.preview.fontSize": 13,
   "markdown.preview.lineHeight": 1.5,
+  "markdown-links.graphType": "obsidian",
 }
