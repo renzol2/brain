@@ -71,23 +71,23 @@ It was largely destroyed in 1944 WWII allied bombings.
 - has hard drive slot to store sample data
 - $10k, 66 lbs, 128 kB of sample memory
 
-Sampling techniques were greatly enhanced by MIDI (1983). Numerous other sampling instruments were introduced by Akai, Roland, Kurzweil, Ensoniq.
+Sampling techniques were greatly enhanced by [[MIDI]] (1983). Numerous other sampling instruments were introduced by Akai, Roland, Kurzweil, Ensoniq.
 
 ## Techniques and Terminology
 
 ### Key terms
 
-**keymapping**: assigning samples to MIDI note numbers
+**keymapping**: assigning samples to [[MIDI]] note numbers
 
 - sometimes multiple samples per note, or one sample for multiple notes
 - key aspect of designing samplers - how do we let the user choose which keys are mapped to which samples?
 
-**root key**: the MIDI note number that plays back a sample at its original speed/pitch
+**root key**: the [[MIDI]] note number that plays back a sample at its original speed/pitch
 
 - usually you want to map pitched samples to the matching key on the keyboard (ex. playing middle C on the keyboard should result in a middle C)
 - but can also move the root key and exaggerate its position for interesting effects
 
-**key zone/key range**: a contiguous region of MIDI note numbers that plays back a single sample, usually transposing pitch based on note number
+**key zone/key range**: a contiguous region of [[MIDI]] note numbers that plays back a single sample, usually transposing pitch based on note number
 
 - can be every keynum (0-127), but not always
 - ex. a virtual cello instrument's key zone could be mapped to only the physical acoustic range of a cello
@@ -105,12 +105,12 @@ Sampling techniques were greatly enhanced by MIDI (1983). Numerous other samplin
 
 - greater sense of realism, but greater memory storage required
 
-**velocity switching**: using MIDI velocity values to select from multiple samples assigned to the same MIDI note number
+**velocity switching**: using [[MIDI]] velocity values to select from multiple samples assigned to the same [[MIDI]] note number
 
 - ex. to accurately model a piano, different samples are needed for playing fortissimo vs. pianissimo
 - useful in simulating timbral differences encountered when playing an acoustic instrument at different intensities
 
-**keyswitching**: using a MIDI note number outside an instrument's typical range to switch between banks of samples
+**keyswitching**: using a [[MIDI]] note number outside an instrument's typical range to switch between banks of samples
 
 - ex. C2 activates a bank of bowed (arco) violin samples. C#2 activates a bank of plucked (pizz) violin samples
 
@@ -122,3 +122,7 @@ Sampling techniques were greatly enhanced by MIDI (1983). Numerous other samplin
 - alternatives to finding zero crossings:
   - **crossfading** between adjacent loops
   - **bidirectional looping**
+
+**sample patch**: a pre-configured sampler instrument which has undergone many of the previously mentioned techniques (multisampling, keymapping, velocity switching, keyswitching, predetermined loop points)
+
+**sample library**: a software package containing several pre-configured sample patches
