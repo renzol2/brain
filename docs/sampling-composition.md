@@ -121,14 +121,7 @@ Sampling techniques were greatly enhanced by [[MIDI]] (1983). Numerous other sam
 
 - ex. C2 activates a bank of bowed (arco) violin samples. C#2 activates a bank of plucked (pizz) violin samples
 
-**looping**: identifying part of an audio sample (sometimes the entire thing) to be repeated while the corresponding key is depressed
-
-- samples are inherently finite - looping gives the illusion of an infinitely playing sample
-- in most cases, necessary for loop to start and end at the same value
-- typically both **zero crossings** (points where waveform crosses horizontal axis)
-- alternatives to finding zero crossings:
-  - **crossfading** between adjacent loops
-  - **bidirectional looping**
+**looping**: see: [[looping]]
 
 **sample patch**: a pre-configured sampler instrument which has undergone many of the previously mentioned techniques (multisampling, keymapping, velocity switching, keyswitching, predetermined loop points)
 
