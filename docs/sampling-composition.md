@@ -4,6 +4,13 @@ tags: music sampling electroacoustic composition synthesis
 
 # Sampling (composition)
 
+- [Sampling (composition)](#sampling-composition)
+  - [History](#history)
+    - [Early Sampling Instruments](#early-sampling-instruments)
+    - [Digital Sampling Instruments](#digital-sampling-instruments)
+  - [Techniques and Terminology](#techniques-and-terminology)
+    - [Key terms](#key-terms)
+
 ## History
 
 Broadly, there are two categories of electroacoustic composition:
