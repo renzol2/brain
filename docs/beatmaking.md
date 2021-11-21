@@ -2,7 +2,7 @@
 tags: music production mus-499-beatmaking beatmaking beats structure form
 ---
 
-# Smart Boy Beatz Talk
+# Beatmaking
 
 ## Production Workflow
 
@@ -37,3 +37,7 @@ Give the second half of the beat a different "feel".
 - exaggerate **contrast** between sections
   - ex. right before and after the drop, remove all bass and only leave 1-2 elements left
   - this contrast will make the drop seem more impactful
+
+## Resources
+
+- [Smart Boy Beatz](https://smartboybeatz.com/)
