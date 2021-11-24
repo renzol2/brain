@@ -10,7 +10,7 @@ A period of the internet from 2004 and ongoing, where:
 - the majority of data on the internet is stored by only a few companies in [[big-tech]], leading to heavy centralization
 - data is sold by companies to advertisers
 
-The following changes from [[web-1.0]] were made:
+The following changes from **Web 1.0** ([[web-1-0]]) were made:
 
 - users became **producers** of content, as well as consumers
 - content and data was uploaded to and held by centralized companies, becoming [[big-tech]] (Apple, Facebook, Google, etc.)

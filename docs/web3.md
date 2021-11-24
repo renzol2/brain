@@ -10,10 +10,10 @@ NOTE: Web3 is a **concept**: a vision, a collection of ideas, _not_ something th
 
 ## Background
 
-**Web3** serves as a continued evolution of the internet from [[web-1.0]] and [[web-2.0]].
+**Web3** serves as a continued evolution of the internet from [[web-1-0]] and [[web-2-0]].
 
-- [[web-1.0]]: static pages from server filesystems, content is mostly consumed by users
-- [[web-2.0]]: data held in databases, pages are dynamic, content is both produced and consumed by users and hosted on platforms supported by [[big-tech]]
+- [[web-1-0]]: static pages from server filesystems, content is mostly consumed by users
+- [[web-2-0]]: data held in databases, pages are dynamic, content is both produced and consumed by users and hosted on platforms supported by [[big-tech]]
 
 ## Decentralization
 
