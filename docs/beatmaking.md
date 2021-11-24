@@ -4,39 +4,45 @@ tags: music production mus-499-beatmaking beatmaking beats structure form
 
 # Beatmaking
 
-## Production Workflow
+## Components
 
-When producing, start with the _hook_.
+Five main components of beatmaking (MUS 499 BT1, Lamont Holden):
 
-- Every other part of your beat: pre-hook, intro, etc. is a variation of the _hook_
-- Intro = "naked" version of the hook
-- Prehook + verse = less energetic version of the hook
+1. Composition
+2. Sequencing
+3. Sound Design
+4. DAW Skills
+5. Creativity
 
-## Creating new sections
+## Composition
 
-When creating new sections of your beat, start with the _hook_ and either add or remove elements.
+Composing a beat can be as simple as downloading a sample from a library, to using the host of the compositional techniques, theory, and musical training and intuition at your disposal.
 
-- When removing elements to create variation, avoid taking out the "essence" of the beat
-  - The "essence" of the beat is the element that should remain nearly constant throughout the entire beat in some form
-  - ex. a looped sample, a guitar riff, etc.
+Many people use **sampling** ([[sampling-composition]]) as a starting point for their beats.
 
-**Rule of thumb**: make something change every 4 bars.
+Holden's recipe:
 
-Give the second half of the beat a different "feel".
+- main components: *melody*, *countermelody*, *808s* and *drums*
+- the melody and countermelody should leave room for vocalist; chords are a simple, effective way to provide a "melody"
+  - by "melody", he's referring more to the "core sample" of a beat
 
-- add an arpeggio, drop out drums, or do anything that distinguishes the second half from the first half
-- by the second half, the listener already knows what the beat sounds like, so change something to make the second half different
-- add extra transitions for more contrast
+## Sequencing
 
-## Transitions
+See: [[sequencing-beatmaking]]
 
-**Go by intuition**: if something feels good, stick with it and play into it more.
+## Sound Design
 
-**Exaggerate** transitions - _be dramatic_.
+Beatmaking is all about crafting a sonic experience for listeners.
 
-- exaggerate **contrast** between sections
-  - ex. right before and after the drop, remove all bass and only leave 1-2 elements left
-  - this contrast will make the drop seem more impactful
+Notes from Holden:
+
+- Rhythmic elements should be panned center
+- Not everything should be center panned
+- Use automation to change parameters over time
+- Use **subtractive EQ** to sculpt a sound
+  - For synthesized sounds, be generous in subtractive EQ
+  - For organic sounds, cut less to keep organic feel
+- _Mixing as you go_ (i.e. sound designing your instruments and beat as you compose) can make the beat feel more complete and iterative throughout the process
 
 ## Resources
 
