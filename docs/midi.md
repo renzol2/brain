@@ -223,10 +223,10 @@ Be able to convert between binary and decimal numbers.
 
 ### Other Common Message Types
 
-control change (CC)
+**control change (CC)**: general messages sent by controllers
 
 - two data bytes: controller number and controller value
-- sent by most knobs, fader,s and pedals
+- sent by most knobs, faders and pedals
 - typically used to affect note expression
 - some CC numbers standardized, others intentionally unspecified
   - CC1 = modulation wheel
@@ -234,18 +234,18 @@ control change (CC)
   - CC10 = pan
   - CC64= sustain pedal
 
-pitch bend
+**pitch bend**: intended to allow smooth bending of pitch for MIDI playback samples
 
 - two data bytes: coarse and fine bend
 - $2^{14}$ = 16,384 resolution values
 
-program change
+**program change**: switch selected instrument
 
 - one data byte: program number
 - typically used to select a voice/timbre from a bank of 128 choices
 - ex. having a device switch voices mid-phrase
 
-aftertouch
+**aftertouch**: further expressivity by applying additional pressure after keypress
 
 - triggered by additional key pressure after the key has "bottomed out"
 - channel after touch: one data byte for maximum pressure among several depressed keys
@@ -267,7 +267,7 @@ An additional set of specifications released in 1991 to supplement and refine th
 
 MIDI key numbers 0-127 define 11 octaves of the 12-[[TET]] scale.
 
-- starts on `A00`(keynum 0 at 8.175 Hz)
+- starts on `A00` (keynum 0 at 8.175 Hz)
 - ends on `G9` (keynum 127 at ~12,543 Hz)
 
 Every adjacent interval in TET is the same size: $2^{1/12}$ - the smallest interval in the Western [[tuning-systems]].
