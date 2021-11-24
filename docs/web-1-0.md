@@ -11,4 +11,4 @@ A period of the internet from 1991-2004 where much of the content was "read-only
 
 Improvements came in the form of **Flash** and **JavaScript**.
 
-Eventually, companies began allowing users to upload their own content to provide personalized web experiences for each person, leading to the start of [[web-2-0]].
+Eventually, companies began allowing users to upload their own content to provide personalized web experiences for each person, leading to the start of [[web-2-0|Web 2.0]].

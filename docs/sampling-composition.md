@@ -15,7 +15,7 @@ tags: music sampling electroacoustic composition synthesis
 
 Broadly, there are two categories of electroacoustic composition:
 
-1. synthesis (generated audio) (ex. [[modulation-synthesis]])
+1. [[modulation-synthesis|synthesis]] (generated audio)
 2. sampling (recorded audio)
 
 Composed manipulations of recorded sound via variable-speed phonographs date back to 1920s (D. Milhaud, E. Toch, P. Hindemith).
@@ -70,7 +70,7 @@ It was largely destroyed in 1944 WWII allied bombings.
 
 **Fairlight CMI** (1979)
 
-- Earliest commercial digital sampler workstation - $25k, 8-bit audio (see: [[sampling-signal-processing]])
+- Earliest commercial digital sampler workstation - $25k, 8-bit audio (see: [[sampling-signal-processing|sampling in signal processing]])
 - Computer screen touch-sensitive via light pen
 
 **E-Mu Emulator I** (1981)
@@ -127,6 +127,6 @@ Sampling techniques were greatly enhanced by [[MIDI]] (1983). Numerous other sam
 
 **sample library**: a software package containing several pre-configured sample patches
 
-**downsampling**: when an audio sample is transposed (pitch-shifted) upwards, some sampler algorithms will skip a number of sample values in the audio file (see: [[sampling-signal-processing]]), in proportion to the amount of pitch-shift specified. Also called **decimation**.
+**downsampling**: when an audio sample is transposed (pitch-shifted) upwards, some sampler algorithms will skip a number of sample values in the audio file (see: [[sampling-signal-processing|sampling in signal processing]]), in proportion to the amount of pitch-shift specified. Also called **decimation**.
 
 - this process of upward transposition can cause **aliasing**, which prompts the use of anti-aliasing filters

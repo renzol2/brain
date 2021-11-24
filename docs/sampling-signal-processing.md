@@ -81,7 +81,7 @@ The discrepancy between an analog signal's true value and its quantized approxim
 
 greater bit depth --> higher sample resolution --> smaller quantization error --> better signal-to-noise ratio
 
-Bit depth determines the maximum _dynamic range_ of a digital audio signal.
+Bit depth determines the maximum [[dynamic-range|dynamic range]] of a digital audio signal.
 
 - `16`-bits gives us 96 dB to work
 - `24`-bits gives us 120-something dB

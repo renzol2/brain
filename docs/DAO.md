@@ -9,4 +9,4 @@ tags: web-dev computer computer-science internet blockchain cryptocurrency
 - No CEOs or presidents
 - hierarchy determined by # of tokens (cryptocurrency)
 - changed made through voting, with those at the top of hierarchy having more influence
-- no censorship by [[big-tech]]; one controlling authority cannot shut down content
+- no censorship by [[big-tech|Big Tech]]; one controlling authority cannot shut down content

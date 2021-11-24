@@ -52,6 +52,6 @@ After compression is applied, **makeup gain** is a normal amplification process 
 
 A **multi-band compressor** divides a full spectrum signal into discrete frequency bands and applies compression uniquely to each band.
 
-- allows for more detailed control of dynamic range
+- allows for more detailed control of [[dynamic-range|dynamic range]]
 - compressed spectral bands are summed after compressions are applied
 - often used to affect different parts of a drum set, e.g. compress only the [[kick]] drum if the whole drum set is recorded on a single track
