@@ -1,5 +1,5 @@
 ---
-tags: music compression mus-407 production dynamics drp dynamic-range-compression
+tags: music compression mus-407 production dynamics drp dynamic-range-compression dynamic-range
 ---
 
 # Compression

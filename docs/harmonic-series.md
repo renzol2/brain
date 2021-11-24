@@ -1,5 +1,5 @@
 ---
-tags: music harmonic series
+tags: music harmonic series mus-305
 ---
 
 # Harmonic Series

@@ -1,5 +1,5 @@
 ---
-tags: music production mus-499-beatmaking beatmaking beats sequencing
+tags: music production mus-499-bt1 beatmaking beats sequencing
 ---
 
 # Sequencing (beatmaking)

@@ -1,5 +1,5 @@
 ---
-tags: music production mus-499-beatmaking beatmaking beats structure form
+tags: music production mus-499-bt1 beatmaking beats structure form
 ---
 
 # Beatmaking

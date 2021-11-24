@@ -1,5 +1,5 @@
 ---
-tags: music tuning tet twelve-equal-temperament
+tags: music tuning tet twelve-equal-temperament mus-305
 ---
 
 # Twelve Equal Temperament Tuning
