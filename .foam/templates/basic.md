@@ -3,5 +3,3 @@ tags:
 ---
 
 # Title
-
-## Sources
