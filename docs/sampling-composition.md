@@ -129,4 +129,4 @@ Sampling techniques were greatly enhanced by [[MIDI]] (1983). Numerous other sam
 
 **downsampling**: when an audio sample is transposed (pitch-shifted) upwards, some sampler algorithms will skip a number of sample values in the audio file (see: [[sampling-signal-processing|sampling in signal processing]]), in proportion to the amount of pitch-shift specified. Also called **decimation**.
 
-- this process of upward transposition can cause **aliasing**, which prompts the use of anti-aliasing filters
+- this process of upward transposition can cause [[aliasing]], which prompts the use of anti-aliasing filters

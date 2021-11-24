@@ -23,48 +23,15 @@ Sampling involves taking periodic measurements of an analog signal and assigning
 
 ## Sample Rate
 
-Sampling occurs at one of several standardized sampling rates:
-
-| Sample Rate (samples/second) | Description                                                                              |
-| ---------------------------- | ---------------------------------------------------------------------------------------- |
-| `32000`                      | only used in radio and transmission applications                                         |
-| `441001`                     | 44.1 standard for CD-quality audio                                                       |
-| `48000`                      | 44.1 and 48 common for many applications                                                 |
-| `88200`                      | adopted by many professional studios and industries                                      |
-| `96000`                      | adopted by many professional studios and industries                                      |
-| `176400`                     | adopted by many professional studios and industries                                      |
-| `192000`                     | adopted by many professional studios and industries, 4x the standard `48000` sample rate |
-
-Sampling is an inherently **discrete** process.
-
-- No knowledge of what happens in-between samples; this data is necessarily lost
+See: [[sample-rate|Sample Rate]]
 
 ## Bit Depth
 
-Bit depth determines the number of bits used to represent each sample
-
-- i.e. the number of available resolution points to which a measured analog value can be approximated
-- 1 byte = 8 bits
-
-Also referred to as _sample width_
-
-Number of resolution points = $2^{\text{bit depth}}$
-
-- `1`-bit system; 2 resolution points
-- `2`-bit system; 4 resolution points
-- `8`-bit system; 256 resolution points
-- `16`-bit system; 65536 resolution points (1 byte per sample)
-- `32`-bit system; a lot of resolution points (4 bytes per sample)
-
-Consider the analog-to-digital conversion process in a 3-bit system:
-
-![Analog-to-digital conversion process in a 3-bit system](../attachments/analog-to-digital-conversion-3-bit.png)
-
-The amplitude of each sample is quantized to a particular bit and encoded into binary. We then encode the binary into a modulated pulse wave.
+See: [[bit-depth|Bit Depth]]
 
 ## The Nyquist Frequency
 
-See: [[nyquist-frequency]]
+See: [[nyquist-frequency|Nyquist Frequency]]
 
 ## Aliasing
 

@@ -1,6 +1,7 @@
 ---
 tags: history analog synthesizers music mus-407 electroacoustic midi
 ---
+
 # History of Analog Synthesizers
 
 - [History of Analog Synthesizers](#history-of-analog-synthesizers)
@@ -17,7 +18,6 @@ tags: history analog synthesizers music mus-407 electroacoustic midi
     - [Polyphony](#polyphony)
     - [Digital Improvements](#digital-improvements)
   - [In Pop Culture](#in-pop-culture)
-  - [Homework](#homework)
 
 ## Overview
 
@@ -47,7 +47,7 @@ Modular design enables vast creative possibilities:
 - Any module's output can be another module's input
 - Multiple outputs and bridges allow flexible signal branching
 
-Modular design led to the introduction of [[modulation-synthesis]].
+Modular design led to the introduction of [[modulation-synthesis|modulation synthesis]].
 
 Common modules:
 
@@ -93,7 +93,7 @@ Mid 1960s:
 
 - **Moog Music** - Robert Moog
 - **Buchla & Associates** - Don Buchla
-  - later: *Buchla Electronic Music Instruments*
+  - later: _Buchla Electronic Music Instruments_
 
 1970s and beyond:
 
@@ -115,18 +115,18 @@ Originally interested in building theremins.
 
 1964: development of first prototype, presentation at Audio Engineering (AES) Convention
 
-1965: *Voltage Controlled Electronic Music Modules*, AES Journal publication that details principles and applications of voltage control
+1965: _Voltage Controlled Electronic Music Modules_, AES Journal publication that details principles and applications of voltage control
 
 > "Electronic music, as the term is understood to mean at the present time, is the class of musical compositions either created solely by electronic means, or utilizing sounds which have been heavily processed electronically. The electronic composition is recorded, then presented to the listener as pre-composed sound, conceived and performed by the composer."
-> ~ excerpt by Robert A. Moog from *Voltage-Controlled Electronic Music Modules*
+> ~ excerpt by Robert A. Moog from _Voltage-Controlled Electronic Music Modules_
 
 This publication led to some purchases of early Moog synthesizers in subsequent years.
 
 A demonstration was held at Monterey International Pop Festival (California, 1967), and other public concerts in late 1960s.
 
-1968: *Switched on Bach*, album by Wendy Carlos, breakthrough commercial success of Moog synthesizers
+1968: _Switched on Bach_, album by Wendy Carlos, breakthrough commercial success of Moog synthesizers
 
-Moog Music is still incorporated and producing instruments today. (ex. Moog *Grandmother*, 2018)
+Moog Music is still incorporated and producing instruments today. (ex. Moog _Grandmother_, 2018)
 
 ### Buchla Synthesizers
 
@@ -138,7 +138,7 @@ Buchla 100 series, mid-1960s
 - Arbitrary Function Generator Module (flexible sequencer/envelope generator)
 - Buchla 200-series followed in early 1970s, with significant improvements in technology
 
-Buchla-200 series followed in early 1970s, with significant improvements in technology (see: Buchla 200-series Electric Music Box, *Silver Apples of the Moon* by Morton Subotnick in 1967 and composed using the Buchla 100)
+Buchla-200 series followed in early 1970s, with significant improvements in technology (see: Buchla 200-series Electric Music Box, _Silver Apples of the Moon_ by Morton Subotnick in 1967 and composed using the Buchla 100)
 
 **Serge Modular Synthesizer**: note the 1V/oct standardization, building on Moog's voltage control principles
 
@@ -158,11 +158,11 @@ Synths throughout the 1960s were **monophonic**:
 
 Early polyphonic synths provided polyphony with some limitations:
 
-- *Four Voice* - Oberheim, 1975 - complex and challenging to use
-- *Polymoog* - Moog Music, 1975 - individual voice circuitry for each note
+- _Four Voice_ - Oberheim, 1975 - complex and challenging to use
+- _Polymoog_ - Moog Music, 1975 - individual voice circuitry for each note
   - full 71-note polyphony through clever circuitry, but limited programmability
   - "Polycom" voice cards enabled independent oscillators for each note
-- *Prophet-5* - Sequential Circuits, 1978
+- _Prophet-5_ - Sequential Circuits, 1978
   - five-voice polyphony, first fully programmable synthesizer, first synth with microprocessors included in build
   - microprocessors enabling digital programmability
 
@@ -170,7 +170,7 @@ Early polyphonic synths provided polyphony with some limitations:
 
 Tools for digital control and programmability became commercially viable and available ca. mid-1970s.
 
-This enabled the *ability to recall configurations*, among other enhancements.
+This enabled the _ability to recall configurations_, among other enhancements.
 
 "Hybrid" analog/digital synthesizers:
 
@@ -192,22 +192,20 @@ Numerous MIDI synthesizers saw commercial success:
 
 PC Proliferation (ca. late 1980s) has migrated synthesizer development to a software platform
 
-- *Massive*, Native-Instruments modular synthesizer plugin
-- *Serum*, Xfer Records modular synthesizer plugin
-- *Max/MSP*, visual programming language for audio/visual artists by Cycling '74
+- _Massive_, Native-Instruments modular synthesizer plugin
+- _Serum_, Xfer Records modular synthesizer plugin
+- _Max/MSP_, visual programming language for audio/visual artists by Cycling '74
 
 ## In Pop Culture
 
 Selected early/notable examples:
 
-- *Lucky Man* (1970) Emerson, Lake & Palmer
+- _Lucky Man_ (1970) Emerson, Lake & Palmer
   - Moog Minimoog
-- *Dark Side of the Moon* (1973) Pink Floyd
+- _Dark Side of the Moon_ (1973) Pink Floyd
   - EMS VCS3 & SynthiA
-- *Blade Runner* (1982) dir. Ridley Scott
-  - music by *Vangelis*
+- _Blade Runner_ (1982) dir. Ridley Scott
+  - music by _Vangelis_
   - Yamaha CS-80 and others
-- *Twenty Systems* (2008) Benge (Ben Edwards, UK)
+- _Twenty Systems_ (2008) Benge (Ben Edwards, UK)
   - album showcasing synthesizer evolution from 1968 to 1987
-
-## Homework
