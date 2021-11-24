@@ -16,5 +16,5 @@ Side-chain [[compression]] is called **ducking**
 
 Side-chain expansion/gating is called **amplitude following**
 
-- target signal "follows" the amplitude contour of the source signal
-- can be used to imprint one sound's envelope onto another (see: [[envelope-shaper]])
+- target signal "follows" the [[amplitude]] contour of the source signal
+- can be used to imprint one sound's [[envelope]] onto another (see: [[envelope-shaper]])

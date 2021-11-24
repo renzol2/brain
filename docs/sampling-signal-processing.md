@@ -48,7 +48,7 @@ The discrepancy between an analog signal's true value and its quantized approxim
 
 greater bit depth --> higher sample resolution --> smaller quantization error --> better signal-to-noise ratio
 
-Bit depth determines the maximum [[dynamic-range|dynamic range]] of a digital audio signal.
+Bit depth determines the maximum [[dynamic-range|dynamic range]] of a digital audio signal, resulting in the relative amount of [[decibel|dB]]s available.
 
 - `16`-bits gives us 96 dB to work
 - `24`-bits gives us 120-something dB
@@ -58,14 +58,14 @@ Bit depth determines the maximum [[dynamic-range|dynamic range]] of a digital au
 
 - signals at or below -48 dBFS will be unresolvable from the noise floor
 
-Reducing the bit depth, and therefore dynamic range, does _not_ reduce the number of samples taken (the sample rate). We can still represent high frequency content, but reducing the bit depth reduces the dynamic range at which we can represent the audio content.
+Reducing the bit depth, and therefore dynamic range, does _not_ reduce the number of samples taken (the sample rate). We can still represent high [[docs/frequency]] content, but reducing the bit depth reduces the dynamic range at which we can represent the audio content.
 
 ### Dither
 
 Periodic signals exhibit a regular, predictable pattern of quantization error.
 
 - smooth signals take on a more square-like appearance
-- low amplitude signals have access to fewer resolution points, and are therefore particularly prone
+- low [[amplitude]] signals have access to fewer resolution points, and are therefore particularly prone
 - results in additional high-frequency components in the spectrum, also called harmonic distortion
 
 **Dither** is a small amount of low-level noise added to an analog signal, prior to sampling/quantization, in order to randomize (and therefore eliminate) quantization error.

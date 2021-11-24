@@ -54,8 +54,8 @@ Common modules:
 - **VCO**: voltage-controlled oscillator
 - **VCF**: voltage-controlled filter
 - **VCA**: voltage-controlled amplifier
-- **LFO**: low-frequency oscillator
-- sequencers, envelopes, mixers, noise generators, etc.
+- **LFO**: low-[[docs/frequency|frequency]] oscillator
+- sequencers, [[envelope|envelopes]], mixers, noise generators, etc.
 
 ### Hardware
 
@@ -135,7 +135,7 @@ Buchla 100 series, mid-1960s
 - commissioned by Morton Subotnick/Ramon Sender, San Francisco Tape Music Center
 - born out of frustrations with tape cutting/splicing
 - significant design emphasis on modularity
-- Arbitrary Function Generator Module (flexible sequencer/envelope generator)
+- Arbitrary Function Generator Module (flexible sequencer/[[envelope]] generator)
 - Buchla 200-series followed in early 1970s, with significant improvements in technology
 
 Buchla-200 series followed in early 1970s, with significant improvements in technology (see: Buchla 200-series Electric Music Box, _Silver Apples of the Moon_ by Morton Subotnick in 1967 and composed using the Buchla 100)

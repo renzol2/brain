@@ -44,8 +44,8 @@ Sound waves are **longitudinal** in the air, but often _depicted_ as **transvers
 
 By nature, sound waves can experience the following phenomena:
 
-- [[linear-superposition]]
-- [[standing-wave]]
+- [[linear-superposition|Linear superposition]]
+- [[standing-wave|Standing waves]]
 
 ### Reflection & Absorption
 

@@ -4,7 +4,7 @@ tags: music mus-407 electroacoustic dynamic-range dynamics
 
 # Dynamic Range Processing
 
-A _dynamic range process_ (DRP) changes a signal's [[dynamic-range|dynamic range]] by altering its amplitude.
+A _dynamic range process_ (DRP) changes a signal's [[dynamic-range|dynamic range]] by altering its [[amplitude]].
 
 - measuring signal amplitude
 - adjusts signal amplitude based on measured value
@@ -106,9 +106,9 @@ _Hard/soft_ knee refers to the smoothness of the transfer function graph across 
 
 ### Attack, Hold, Release
 
-Many DRPs include envelope parameters: often _attack/release_, sometimes _hold_
+Many DRPs include [[envelope]] parameters: often _attack/release_, sometimes _hold_
 
-**Attack** determines the amount of time for DRP effect to fully activate. The attack transient begins when signal crosses the threshold.
+**Attack** determines the amount of time for DRP effect to fully activate. The attack [[transient]] begins when signal crosses the threshold.
 
 **Release** determines amount of time for DRP effect to deactivate completely. Release transient begins when level no longer crosses threshold.
 

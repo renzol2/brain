@@ -19,6 +19,8 @@ Compressor behavior is modeled using a graph of its **transfer function**.
 
 ## Transfer Function
 
+A transfer function converts a signal input (in [[decibel|dB]]) to an output (in [[decibel|dB]] as well). The shape of the transfer function determines the [[dynamic-range-processing|DRP]] effect.
+
 - Standard amplifier: no compression, linear response
 - Mild compression, peaks above -6 dBFS are slightly attenuated
 - More severe compression, peaks above -6 dBFS are more strongly attenuated
@@ -50,7 +52,7 @@ After compression is applied, **makeup gain** is a normal amplification process 
 
 ## Multiband compression
 
-A **multi-band compressor** divides a full spectrum signal into discrete frequency bands and applies compression uniquely to each band.
+A **multi-band compressor** divides a full spectrum signal into discrete [[docs/frequency]] bands and applies compression uniquely to each band.
 
 - allows for more detailed control of [[dynamic-range|dynamic range]]
 - compressed spectral bands are summed after compressions are applied

@@ -6,8 +6,8 @@ tags: music mus-407 signal-processing sampling
 
 **Aliasing** (or **foldover**) is the phenomenon where frequencies greater than the [[nyquist-frequency]] $N$ are still digitally represented within the range $[0, N]$.
 
-- input frequency will "reflect" off of **zero** and $N$ if boundary is exceeded
-- similar to "negative frequencies" in modulation synthesis
+- input [[docs/frequency]] will "reflect" off of **zero** and $N$ if boundary is exceeded
+- similar to "negative frequencies" in [[modulation-synthesis|modulation synthesis]]
 
 Imagine a sampled analog input with spectral content above $N$.
 
