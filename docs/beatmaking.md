@@ -44,6 +44,16 @@ Notes from Holden:
   - For organic sounds, cut less to keep organic feel
 - _Mixing as you go_ (i.e. sound designing your instruments and beat as you compose) can make the beat feel more complete and iterative throughout the process
 
+## DAW Skills
+
+- learn keyboard shortcuts
+- practice, practice, practice
+- get past the 40 beats milestone
+
+## Creativity
+
+Creativity is up to your musical intuition.
+
 ## Resources
 
 - [Smart Boy Beatz](https://smartboybeatz.com/)
