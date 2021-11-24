@@ -1,0 +1,3 @@
+# Monday, November 22, 2021
+
+- Added notes on [[hyperpop]]
