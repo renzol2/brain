@@ -4,7 +4,7 @@ tags: web-dev computer computer-science internet blockchain cryptocurrency
 
 # Web3
 
-**Web3** (or sometimes _Web 3.0_) is the vision for a _decentralized_ internet, based on public _blockchains_. It centers around ideas behind _cryptocurrency_ as a means of verification.
+**Web3** (or sometimes _Web 3.0_) is the vision for a _decentralized_ internet, based on public [[blockchain|blockchains]]. It centers around ideas behind _cryptocurrency_ as a means of verification.
 
 NOTE: Web3 is a **concept**: a vision, a collection of ideas, _not_ something that is owned
 
@@ -17,7 +17,7 @@ NOTE: Web3 is a **concept**: a vision, a collection of ideas, _not_ something th
 
 ## Decentralization
 
-As it stands, Web3 is shifting towards blockchain and the tools of decentralization.
+As it stands, Web3 is shifting towards [[blockchain]] and the tools of decentralization.
 
 In Web3, you have full control and ownership of your data; you can remove or expose it to your will.
 
