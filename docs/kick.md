@@ -12,7 +12,7 @@ Every kick has 3 main elements:
 
 ## Kick Transient
 
-EDM kicks tend to have a high-[[docs/frequency]] click that gives more presence, while kicks in other styles of music have less of a click.
+EDM kicks tend to have a high-[[docs/frequency|frequency]] click that gives more presence, while kicks in other styles of music have less of a click.
 
 ## Kick Body
 
@@ -49,6 +49,6 @@ Then, look at the current kick in your track, and try and match your kick with t
 ## Tips
 
 - Tune the kick to the song _only if it needs it_.
-- Use a _punchy_ kick with a busy bass line - leave room in one area of the low [[docs/frequency]] area for the other.
+- Use a _punchy_ kick with a busy bass line - leave room in one area of the low [[docs/frequency|frequency]] area for the other.
 - Try Pitch envelope - tuning the kick?
 - There's no perfect kick: it comes down to **genre and taste**

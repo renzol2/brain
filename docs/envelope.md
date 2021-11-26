@@ -7,7 +7,7 @@ tags: mus-407 sound sound-properties amplitude
 An **envelope** is a function representing change in some parameter over time.
 
 - at minimum, an [[amplitude]] envelope specifies attack time and release time
-- particles cannot move or stop instantaneously
+- air particles, and therefore [[sound-waves|sound]], cannot move or stop instantaneously
 
 ## ADSR
 

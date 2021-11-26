@@ -8,5 +8,5 @@ Topics learned:
 
 - [[dynamic-range-processing]]
 - [[aliasing]]
-- [[nyquist-frequency]]
+- [[nyquist-frequency|Nyquist Frequency]]
 - [[looping]]

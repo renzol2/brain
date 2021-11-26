@@ -32,7 +32,7 @@ DRPs utilize a **detection circuit** or **detection algorithm** for tracking sig
 
 **Average**: signal values averaged over a time interval, also called _RMS_ (root-mean-squared) tracking
 
-- sculpting the [[dynamic-range|dynamic range]] of the sound without closely monitoring every single peak
+- sculpting the [[dynamic-range|dynamic range]] of the sound without closely monitoring every single peak or [[transient]]
 
 Peak tracking is more applicable for preventing overloading/clipping.
 

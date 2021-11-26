@@ -52,7 +52,7 @@ After compression is applied, **makeup gain** is a normal amplification process 
 
 ## Multiband compression
 
-A **multi-band compressor** divides a full spectrum signal into discrete [[docs/frequency]] bands and applies compression uniquely to each band.
+A **multi-band compressor** divides a full spectrum signal into discrete [[docs/frequency|frequency]] bands and applies compression uniquely to each band.
 
 - allows for more detailed control of [[dynamic-range|dynamic range]]
 - compressed spectral bands are summed after compressions are applied
