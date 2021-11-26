@@ -6,4 +6,6 @@ this is also a way to put my own knowledge out in public for everyone to see and
 
 this is a huge WIP but feel free to look around!
 
-as a starting point, try going to [[computer-music-and-digital-audio]]
+*note*: since foam is still under development, the deployment of this repo is very broken lol proceed with caution. i'll work on a more stable solution in the future - if you want the best viewing experience, clone this repo into vscode with the necessary extensions
+
+if you are on the deployment, try going to [[computer-music-and-digital-audio]] as a starting point :)
