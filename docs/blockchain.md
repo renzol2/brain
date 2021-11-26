@@ -25,3 +25,4 @@ TODO: finish IBM article
 - TODO: <https://www.theverge.com/2021/3/15/22328203/nft-cryptoart-ethereum-blockchain-climate-change>
 - TODO: <https://www.theverge.com/22654785/blockchain-explained-cryptocurrency-what-is-stake-nft>
 - TODO: <https://www.ibm.com/topics/smart-contracts>
+- TODO: <https://medium.com/fluree/immutability-and-the-enterprise-an-immense-value-proposition-98cd3bf900b1>
