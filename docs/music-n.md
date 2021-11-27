@@ -16,7 +16,7 @@ In 1957, **Max Mathews** created and oversaw the first sound-generating computer
 - "it was terrible" - Max Mathews
 - Max (1926-2011) is also namesake of eponymous Max/MSP software
 
-See: 17-second composition by Newman Guttman (Bell Labs linguist/acoustician) titled *In the Silver Scale*
+See: 17-second [[music-composition|composition]] by Newman Guttman (Bell Labs linguist/acoustician) titled *In the Silver Scale*
 
 See: IBM 704 Computer, on which the MUSIC program ran
 

@@ -117,7 +117,7 @@ Originally interested in building theremins.
 
 1965: _Voltage Controlled Electronic Music Modules_, AES Journal publication that details principles and applications of voltage control
 
-> "Electronic music, as the term is understood to mean at the present time, is the class of musical compositions either created solely by electronic means, or utilizing sounds which have been heavily processed electronically. The electronic composition is recorded, then presented to the listener as pre-composed sound, conceived and performed by the composer."
+> "Electronic music, as the term is understood to mean at the present time, is the class of music compositions either created solely by electronic means, or utilizing sounds which have been heavily processed electronically. The electronic composition is recorded, then presented to the listener as pre-composed sound, conceived and performed by the composer."
 > ~ excerpt by Robert A. Moog from _Voltage-Controlled Electronic Music Modules_
 
 This publication led to some purchases of early Moog synthesizers in subsequent years.
@@ -176,7 +176,7 @@ This enabled the _ability to recall configurations_, among other enhancements.
 
 - GROOVE - Max Mathews @ Bell Labs, late 1960s
   - (Generated Real-Time Output Operations on Voltage-Controlled Equipment)
-  - system for interactive music composition
+  - system for interactive [[music-composition|music composition]]
   - see: DDP-24 computer card rack used in GROOVE system
 - Buchla 500 Series ca. 1970
 - Synclavier, developed by Jon Appleton et al. at Dartmouth University

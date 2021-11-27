@@ -12,7 +12,7 @@ An illusory duality between the acoustic and the electroacoustic
 
 Talk by [Stylianos DIMOU](https://stylianosdimou.com/).
 
-- composer of acoustic, electroacoustic, & acousmatic music
+- [[music-composition|composer]] of acoustic, electroacoustic, & acousmatic music
 - sound designer
 - improviser
 

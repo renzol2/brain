@@ -14,11 +14,11 @@ Five main components of beatmaking (MUS 499 BT1, Lamont Holden):
 4. DAW Skills
 5. Creativity
 
-## Composition
+## [[docs/music-composition|Composition]]
 
 Composing a beat can be as simple as downloading a sample from a library, to using the host of the compositional techniques, theory, and musical training and intuition at your disposal.
 
-Many people use **sampling** ([[sampling-composition]]) as a starting point for their beats.
+Many people use [[sampling-composition|sampling]] as a starting point for their beats.
 
 Holden's recipe:
 

@@ -30,7 +30,7 @@ Two important academic centers founded ca. 1957-1958:
 **University of Illinois Experimental Studios**:
 
 - founded by Lejaren Hiller
-- initially focused on computer music composition, later expanding into analog tape-based composition and other areas
+- initially focused on computer [[music-composition|music composition]], later expanding into analog tape-based composition and other areas
 
 **Columbia-Princeton Electronic Music Center**:
 

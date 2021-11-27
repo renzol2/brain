@@ -89,7 +89,7 @@ DRPs may involve a "look ahead" time to properly anticipate signal levels
 
 DRPs generally have more applications in recording/live sound.
 
-In electroacoustic composition, traditional application of DRP less useful
+In electroacoustic [[music-composition|composition]], traditional application of DRP less useful
 
 - composer has complete control over levels during compositional process
 - can usually go back and adjust levels as necessary

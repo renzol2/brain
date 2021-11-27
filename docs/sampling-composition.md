@@ -13,7 +13,7 @@ tags: music sampling electroacoustic composition synthesis
 
 ## History
 
-Broadly, there are two categories of electroacoustic composition:
+Broadly, there are two categories of electroacoustic [[music-composition|composition]]:
 
 1. [[modulation-synthesis|synthesis]] (generated audio)
 2. sampling (recorded audio)
