@@ -1,5 +1,5 @@
 ---
-tags: mus-407 waves
+tags: mus-407 waves sound
 ---
 
 # Longitudinal waves

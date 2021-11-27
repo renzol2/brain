@@ -4,7 +4,7 @@ tags: compression music-technology music production notes
 
 # Compressing for A Reason
 
-Notes from Mike Senior's workflow demonstration of using [[compression]] on a rock multitrack demo, titled [_Compressing For a Reason_.](https://www.cambridge-mt.com/ms/ch9/)
+Notes from Mike Senior's workflow demonstration of using [[docs/compression]] on a rock multitrack demo, titled [_Compressing For a Reason_.](https://www.cambridge-mt.com/ms/ch9/)
 
 Compress and balance in **order of importance**.
 
@@ -30,7 +30,7 @@ Compress only when necessary; you can always add more later
 
 - [[Kick]] and snare should be balanced in level
 - Fast attack, slow release -> doesn't affect [[envelope]] too much
-- Keep compression moderate -> preserve musical dynamics
+- Keep compression moderate -> preserve musical dynamics (see: [[dynamic-range]])
 - RMS window size (how sensitive to peaks) should be decently high for kick drum
   - However, if too high, compressor causes distortion at the [[transient]]
 
@@ -76,7 +76,7 @@ Reasons
 ## Piano
 
 - Compression to contain transients, then use makeup gain to lift sustain of piano
-- Parallel compression used to maintain transients and bring out sustain
+- [[parallel-compression|Parallel compression]] used to maintain transients and bring out sustain
   - Compressor settings on compressed track
     - 1.0 ms attack
     - 30 ms release
@@ -88,8 +88,9 @@ Reasons
 ## Overall
 
 - Dry/wet comparison: compressed version has better sustain, balance is more under control
-- Initial balance should be achieved by gain staging
+- Initial balance should be achieved by [[gain-staging|gain staging]]
 - Compression is used to _maintain_ and _control_ balance
+- **Always compress for a _reason_**
 
 ## Sources
 
