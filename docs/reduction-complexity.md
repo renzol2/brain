@@ -14,7 +14,7 @@ This reduction process is often used to prove problems are NP-hard (see: [[p-vs-
 
 ## General Outline of Reduction
 
-All polynomial-time reductions, including NP-hardness proofs, follow the same general outline. To reduce problem `X` to problem `Y` in polynomial time, we need to do three things:
+All polynomial-time reductions, including [[np-hardness-proofs|NP-hardness proofs]], follow the same general outline. To reduce problem `X` to problem `Y` in polynomial time, we need to do three things:
 
 1. Describe a polynomial-time algorithm to transform an **arbitrary** instance of `x` of `X` into a _special_ instance `y` of `Y`
 2. Prove that if `x` is a "good" instance of `X`, then `y` is a "good" instance of `Y`

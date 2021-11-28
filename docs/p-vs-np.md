@@ -1,5 +1,5 @@
 ---
-tags: cs-374 computer-science computer science p-vs-np algorithms theory
+tags: cs-374 computer-science computer science p-vs-np algorithms theory p np
 ---
 
 # P vs. NP
