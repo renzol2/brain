@@ -30,7 +30,7 @@ Kicks tend to hit a higher frequency at the transient and then fade into lower f
 
 ## Layering
 
-When it comes to layering, **more isn't better**. If you don't know what you're doing, you can actually create some **phase issues**, which defeats the purpose of layering.
+When it comes to layering, **more isn't better**. If you don't know what you're doing, you can actually create some **[[phase]] issues**, which defeats the purpose of layering.
 
 Figure out _what your kick is missing_, and asking whether you need a new kick or just a new layer.
 
