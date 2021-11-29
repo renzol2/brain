@@ -36,7 +36,7 @@ Some properties of these complexity classes:
 
 ## NP-hard, NP-easy, and NP-complete
 
-A problem Π is **NP-hard** if a polynomial time algorithm for Π would imply a polynomial time algorithm for _every problem in NP_. In other word:
+A problem Π is **NP-hard** if a polynomial time [[algorithm]] for Π would imply a polynomial time algorithm for _every problem in NP_. In other word:
 
 ```text
 Π is NP-hard <-> If Π can be solved in polynomial time, then P = NP

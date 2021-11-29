@@ -169,7 +169,7 @@ _Masking_ is a phenomenon in which one sound conceals or obscures another
 - e.g. electric guitar momentarily drowned out by crash cymbal
 - conversation obscured by running water
 
-Perpetual encoding algorithms identify masked regions and assign fewer bits to these samples.
+Perpetual encoding [[algorithm]]s identify masked regions and assign fewer bits to these samples.
 
 #### Lossy Compression File Size
 

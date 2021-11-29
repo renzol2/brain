@@ -7,7 +7,7 @@ tags: computer-science algorithms computer np np-hard np-hardness
 Proving a problem $X$ is NP-hard requires several steps:
 
 - Choose a problem $Y$ that you already know is NP-hard
-- Describe an algorithm to solve $Y$, using an algorithm for $X$ as a subroutine. Typically, this algorithm has the following form:
+- Describe an [[algorithm]] to solve $Y$, using an algorithm for $X$ as a subroutine. Typically, this algorithm has the following form:
   - Given an instance of $Y$, [[reduction-complexity|reduce]] it into an instance of $X$, and then call the magic black-box algorithm for $X$.
 - **Prove** that your algorithm is correct. This always requires 2 separate steps, which are usually of the following form:
   - **Prove** that your algorithm transforms "good" instances of $Y$ into "good" instances of $X$.

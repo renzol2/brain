@@ -7,10 +7,11 @@ tags: music mus-305 spectral composition
 **Spectral composition** is a method of [[music-composition|music composition]] where composers take spectra (any noise), analyze the audio (FFTs), and use the resulting spectral information as compositional material.
 
 - basically: music _about_ sound
+- treat a **spectra** as a set of notes
 
 ## Harmonic/Inharmonic
 
-For spectral and microtonal composers, the [[harmonic-series]] serves as an unlimited source of inspiration:
+For spectral and microtonal composers, the [[harmonic-series|harmonic series]] serves as an unlimited source of inspiration:
 
 - instruments that exhibit the harmonic series in some way are good starting points
 - any 1-D structure, like a string or column of air, exhibit the harmonic series in some way
@@ -22,4 +23,4 @@ Instruments with inharmonic spectra are still useful and interesting.
 
 ## Methods
 
-In spectral composition, [[modulation-synthesis]] is often used as a tool.
+In spectral composition, [[modulation-synthesis|modulation synthesis]] is often used as a tool.

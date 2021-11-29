@@ -26,7 +26,7 @@ All forms of DRP rely on an amplitude **threshold**.
 
 - determines signal level above or below which DRP take effect, depending on the type of effect
 
-DRPs utilize a **detection circuit** or **detection algorithm** for tracking signal amplitude, which can track either _peak_ or _average_ signal level
+DRPs utilize a **detection circuit** or **detection [[algorithm]]** for tracking signal amplitude, which can track either _peak_ or _average_ signal level
 
 **Peak**: instantaneous measurement, captures true waveform peaks: "no sample left unchecked"
 
@@ -67,17 +67,17 @@ General steps:
 
 ## Types
 
-- Noise gate ([[noise-gate]])
-- Compressor ([[compression]])
+- [[noise-gate|Noise gate]]
+- Compressor ([[docs/compression|compression]])
 - [[Limiter]]
 - [[Expander]]
-- Envelope shaper ([[envelope-shaper]])
+- [[envelope-shaper|Envelope shaper]]
 
 ## More Terms & Techniques
 
 ### DRP Considerations
 
-DRPs, particularly compressors ([[compression]]) and [[limiter]]s, can smear/distort transients
+DRPs, particularly compressors ([[docs/compression|compression]]) and [[limiter]]s, can smear/distort transients
 
 - like all effects, easy to overuse, generally should be applied in moderation
 - can be used in extremes for creative effect
@@ -121,7 +121,7 @@ Many DRPs include [[envelope]] parameters: often _attack/release_, sometimes _ho
 
 Typical cases:
 
-- compressors attenuate above a threshold ([[compression]])
+- compressors attenuate above a threshold ([[docs/compression|compression]])
 - [[expander]]s attenuate below a threshold
 - both referred to as _"downward"_ compression/expansion
 
