@@ -27,7 +27,7 @@
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "editor.inlineSuggest.enabled": false,
   "workbench.colorTheme": "Gray Matter Light",
-  "editor.fontFamily": "Ubuntu Mono",
+  "editor.fontFamily": "Space Mono",
   "markdown.preview.fontFamily": "Segoe UI",
   "markdown-preview-enhanced.previewTheme": "vue.css",
   "markdown.preview.fontSize": 13,
