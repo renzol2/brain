@@ -40,7 +40,7 @@ MIDI is **_not_** an audio signal
 
 ### Brief History
 
-MIDI was created to accommodate a rapidly diversifying market of increasingly popular analog and hybrid synthesizers.
+MIDI was created to accommodate a rapidly diversifying market of increasingly popular [[analog-synthesizers|analog]] and hybrid synthesizers.
 
 **Main problem**: users wanted to combine sounds from different models, play multiple synths simultaneously for a richer sound, etc.
 

@@ -49,7 +49,7 @@ An experience in one aspect can lead to revelations in the other. Ex. free divin
 - **Motion**
   - thickness, porosity, luminosity, density, elasticity of a sound
 - **Procedure**
-  - sculpture of sound— instrumental synthesis, anamorphosis, transformation of the spectral morphology
+  - sculpture of sound— instrumental [[sound-synthesis|synthesis]], anamorphosis, transformation of the spectral morphology
 - Motion and Procedure lead to **Musical Gesture**
 - Motion, Procedure, and Musical Gesture lead to “**STRUCTURE”** at the micro or macro scale
 

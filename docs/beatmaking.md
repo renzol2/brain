@@ -9,7 +9,7 @@ tags: music production mus-499-bt1 beatmaking beats structure form
 Five main components of beatmaking (MUS 499 BT1, Lamont Holden):
 
 1. Composition
-2. Sequencing
+2. [[sequencing-beatmaking|Sequencing]]
 3. Sound Design
 4. DAW Skills
 5. Creativity
@@ -18,11 +18,11 @@ Five main components of beatmaking (MUS 499 BT1, Lamont Holden):
 
 Composing a beat can be as simple as downloading a sample from a library, to using the host of the compositional techniques, theory, and musical training and intuition at your disposal.
 
-Many people use [[sampling-composition|sampling]] as a starting point for their beats.
+Many people use [[sampling-composition|sampling]] as a starting point for their beats. These samples are usually [[looping|looped]] to create repetition and build a sense of groove.
 
 Holden's recipe:
 
-- main components: *melody*, *countermelody*, *808s* and *drums*
+- main components: _melody_, _countermelody_, _808s_ and _drums_
 - the melody and countermelody should leave room for vocalist; chords are a simple, effective way to provide a "melody"
   - by "melody", he's referring more to the "core sample" of a beat
 

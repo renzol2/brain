@@ -8,4 +8,4 @@ this is a huge WIP but feel free to look around!
 
 *note*: since foam is still under development, the deployment of this repo is very broken lol proceed with caution. i'll work on a more stable solution in the future - if you want the best viewing experience, clone this repo into vscode with the necessary extensions
 
-if you are on the deployment, try going to [[computer-music-and-digital-audio]] as a starting point :)
+if you are on the deployment, try going to [[dynamic-range-processing]] as a starting point :)
