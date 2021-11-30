@@ -2,6 +2,8 @@
 tags: web-dev web-rendering computer-science computer
 ---
 
-# Static Rendering
+# DOM
 
-TODO: do
+Document Object Model (DOM)
+
+TODO: take more notes
