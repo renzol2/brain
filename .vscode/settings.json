@@ -27,7 +27,7 @@
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "editor.inlineSuggest.enabled": false,
   "workbench.colorTheme": "Gray Matter Light",
-  "editor.fontFamily": "Space Mono",
+  "editor.fontFamily": "IBM Plex Mono",
   "markdown.preview.fontFamily": "Segoe UI",
   "markdown-preview-enhanced.previewTheme": "vue.css",
   "markdown.preview.fontSize": 13,
@@ -40,6 +40,9 @@
     "fontSize": 10,
     "particleWidth": 1.2,
     "highlightedForeground": "#CC6577",
+    "node": {
+      "music-review": "teal"
+    }
   },
   "editor.lineNumbers": "off",
   "workbench.statusBar.visible": false
