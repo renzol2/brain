@@ -4,7 +4,7 @@ tags: music mus-407 electroacoustic dynamic-range dynamics
 
 # Dynamic Range Processing
 
-A _dynamic range process_ (DRP) changes a signal's [[dynamic-range|dynamic range]] by altering its [[amplitude]].
+Dynamic range processing transforms the amplitude of signals. A _dynamic range process_ (DRP) changes a signal's [[dynamic-range|dynamic range]] by altering its [[amplitude]].
 
 - measuring signal amplitude
 - adjusts signal amplitude based on measured value
@@ -15,10 +15,10 @@ Applications include:
 
 - maintaining a constant signal level
 - increasing the overall level of a mix
-- creative transient shaping
+- creative [[transient]] and [[envelope]] shaping
 - noise reduction
 - preventing clipping/overloading
-- [[side-chaining|Sidechaining]] (amplitude following, ducking)
+- [[side-chaining|sidechaining]] (amplitude following, ducking)
 
 ## Key Concepts
 
@@ -30,40 +30,12 @@ DRPs utilize a **detection circuit** or **detection [[algorithm]]** for tracking
 
 **Peak**: instantaneous measurement, captures true waveform peaks: "no sample left unchecked"
 
-**Average**: signal values averaged over a time interval, also called _RMS_ (root-mean-squared) tracking
+- more applicable for preventing overloading/clipping.
+
+**Average**: signal values averaged over a time interval, also called _RMS_ ([[root-mean-square]]) tracking
 
 - sculpting the [[dynamic-range|dynamic range]] of the sound without closely monitoring every single peak or [[transient]]
-
-Peak tracking is more applicable for preventing overloading/clipping.
-
-RMS tracking provides a smoother response to a changing input signal.
-
-### Why RMS?
-
-What happens if we average sinusoidal values over a period of time?
-
-- Positive and negative values will cancel, resulting in a zero average
-
-RMS means we take the square _root_ of the _mean_ of a sequence of _squared_ sample values:
-
-$x_{RMS}=\sqrt{\frac{x^2_1+x^2_2+x^2_3+...+x^2_n}{n}}$
-
-This always produces non-negative values, provides more meaningful measurement, and more accurately reflects continuous signal power.
-
-### RMS Tracking
-
-![RMS Tracking](../attachments/rms-tracking.png)
-
-General steps:
-
-- Start with original signal
-- Take the square of each value
-- Over some time interval, find the average level across that interval
-- Take the square root of those means (to reproduce a similar level to original signal)
-
-### Peak Tracking
-
-![Sine Wave RMS Tracking](../attachments/sine-wave-rms-tracking.png)
+- provides a smoother response to a changing input signal
 
 ## Types
 
@@ -89,7 +61,7 @@ DRPs may involve a "look ahead" time to properly anticipate signal levels
 
 DRPs generally have more applications in recording/live sound.
 
-In electroacoustic [[music-composition|composition]], traditional application of DRP less useful
+In electroacoustic [[music-composition|composition]], traditional application of DRP is less useful
 
 - composer has complete control over levels during compositional process
 - can usually go back and adjust levels as necessary
