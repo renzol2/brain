@@ -43,7 +43,7 @@ The Light Tone Organ was a photoelectric instrument:
 
 - waveforms encoded as patterns on rotating glass discs
 - discs rotated across photoelectric cells
-- filtered light beam controlling pitch/timbre
+- filtered light beam controlling [[pitch]]/timbre
 
 It was largely destroyed in 1944 WWII allied bombings.
 

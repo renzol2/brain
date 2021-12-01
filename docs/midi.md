@@ -145,7 +145,7 @@ All MIDI messages fall into one of two categories.
 - more _musical_
 - channel-specific
 - more commonly encountered and frequently used
-- contains information typically used for pitch, timbre, expression, etc.
+- contains information typically used for [[pitch]], timbre, expression, etc.
 
 **Channel voice**: individual musical data, e.g. note on/off, control change, pitch bend, etc.
 

@@ -66,16 +66,6 @@ In electroacoustic [[music-composition|composition]], traditional application of
 - composer has complete control over levels during compositional process
 - can usually go back and adjust levels as necessary
 
-### Knee
-
-When signal level crosses a threshold, DRP ratio may be applied fully or gradually, depending on _knee curve_
-
-_Hard/soft_ knee refers to the smoothness of the transfer function graph across the threshold
-
-- a hard knee has two straight lines, above and below threshold
-- a soft knee curves gently between affected and unaffected amplitude regions
-- differences between hard/soft knee tend to be very subtle
-
 ### Attack, Hold, Release
 
 Many DRPs include [[envelope]] parameters: often _attack/release_, sometimes _hold_
@@ -104,7 +94,7 @@ Likewise, it is possible to boost signal above a threshold - a form of expansion
 This technique is infrequently used:
 
 - upward compression raises the noise floor
-- upward expansion makes peaks even louder
+- upward expansion makes peaks even [[loudness|louder]]
 
 ### Side-Chaining
 

@@ -19,7 +19,7 @@ For spectral and microtonal composers, the [[harmonic-series|harmonic series]] s
 
 Instruments with inharmonic spectra are still useful and interesting.
 
-- ex. drums, gongs, non-pitched percussive instruments
+- ex. drums, gongs, non-[[pitch|pitched]] percussive instruments
 
 ## Methods
 

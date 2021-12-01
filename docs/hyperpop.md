@@ -15,10 +15,10 @@ Hyperpop is a "microgenre" focusing on exaggerating elements from popular music.
 
 Since hyperpop serves as an exaggerated take on popular music, it uses many fundamental elements found in popular music but in "exaggerated ways":
 
-- **Piano, guitar**: usually samples, spliced or pitched drastically (see: [[sampling-composition]])
+- **Piano, guitar**: usually samples, spliced or [[pitch]]-shifted drastically (see: [[sampling-composition]])
 - **Drums**: hip-hop/pop drums, sampled and distorted/saturated
 - **808s**: distorted/saturated, often to an extent most radio pop music would avoid
-- "Earworm" **vocals** with heavy effects, heavily layered and pitched beyond realism
+- "Earworm" **vocals** with heavy effects, heavily layered and pitch-shifted beyond realism
 
 ## Form
 
@@ -34,7 +34,7 @@ Elements used:
 
 - piano/guitar
 - synths
-  - simple sine/square waves
+  - simple [[sine-wave|sine]]/square waves
   - atmospheric, reverb/delay-heavy pads
 - vocals
 
@@ -45,7 +45,7 @@ Hyperpop choruses are characterized by **808s**, heavy **distortion**, and **exa
 **808s**: within hyperpop, most artists either pitch-shift samples or create their own presents/patches for more control on the 808's sound.
 
 - characterized by heavy distortion
-- at its core: every 808 is a [[kick]] and a distorted sine-wave played at the same time
+- at its core: every 808 is a [[kick]] and a distorted [[sine-wave]] played at the same time
 - many artists make their 808s _wide_, spreading across the stereo field
 
 **Vocals**: hyperpop vocals utilize heavy layering and effects, forgoing realism and transparency for stylistic flair and exaggeration

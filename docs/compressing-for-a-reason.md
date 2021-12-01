@@ -82,7 +82,7 @@ Reasons
     - 30 ms release
     - 2.5:1 ratio
 - In normal compression, it's easy to A/B by using makeup gain and bypass
-- In parallel compression, toggling the parallel compressed track will always sound better since it's louder
+- In parallel compression, toggling the parallel compressed track will always sound better since it's [[loudness|louder]]
   - Find a way to group the parallel tracks together so that you can have the volume similar to the dry signal
 
 ## Overall

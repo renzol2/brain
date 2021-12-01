@@ -11,4 +11,4 @@ tags: mus-407 waves sound
   - `v`: speed of sound (m/s)
   - `t`: temperature (degrees C)
   - Approximately 343 meters/sec under normal conditions
-  - Temperate affects the **speed** of sound and can **indirectly** affect the pitch through specific situations (ex. brass instruments), but it **cannot directly** affect the pitch
+  - Temperate affects the **speed** of sound and can **indirectly** affect the [[pitch]] through specific situations (ex. brass instruments), but it **cannot directly** affect the pitch

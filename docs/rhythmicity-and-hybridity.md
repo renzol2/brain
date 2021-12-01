@@ -45,7 +45,7 @@ An experience in one aspect can lead to revelations in the other. Ex. free divin
 ## Schema
 
 - **Harmony**, the consistency of the whole
-  - pitch content, rhythms, electronics, etc.
+  - [[pitch]] content, rhythms, electronics, etc.
 - **Motion**
   - thickness, porosity, luminosity, density, elasticity of a sound
 - **Procedure**

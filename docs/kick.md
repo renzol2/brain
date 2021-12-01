@@ -50,5 +50,5 @@ Then, look at the current kick in your track, and try and match your kick with t
 
 - Tune the kick to the song _only if it needs it_.
 - Use a _punchy_ kick with a busy bass line - leave room in one area of the low [[docs/frequency|frequency]] area for the other.
-- Try Pitch envelope - tuning the kick?
+- Try [[pitch]] envelope - tuning the kick?
 - There's no perfect kick: it comes down to **genre and taste**

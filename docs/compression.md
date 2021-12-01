@@ -15,23 +15,7 @@ Frequently used to regulate a "peaky" signal during recording, i.e. to provide a
 
 Compression is also used during mixing/mastering to provide a higher overall mix level.
 
-Compressor behavior is modeled using a graph of its **transfer function**.
-
-## Transfer Function
-
-A transfer function converts a signal input (in [[decibel|dB]]) to an output (in [[decibel|dB]] as well). The shape of the transfer function determines the [[dynamic-range-processing|DRP]] effect.
-
-- Standard amplifier: no compression, linear response
-- Mild compression, peaks above -6 dBFS are slightly attenuated
-- More severe compression, peaks above -6 dBFS are more strongly attenuated
-
-![Transfer function mild compression](../attachments/transfer-function-mild-compression.png)
-
-Most DRP transfer functions only display **one quadrant** to avoid redundancy.
-
-Typically, 0 dB input/output in upper right, axes labeled linearly with respect to dB.
-
-![Transfer function with one quadrant](../attachments/transfer-function-one-quadrant.png)
+Compressor behavior is modeled using a graph of its [[transfer-function|transfer function]].
 
 ## Ratio
 
