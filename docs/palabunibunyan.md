@@ -1,12 +1,14 @@
 ---
-tags: [[sinulog-a-bagu]]
+tags: philippines music instrument kulintang culture ensemble palabunibunyan
 ---
 
-# Kulintang Ensemble
+# Palabunibunyan
 
-A **kulintang ensemble** is an instrumental ensemble originating in the [[Philippines]] consisting of gong instruments and a skin drum.
+**Palabunibunyan** is an instrumental ensemble originating from the [[maguindanao|Maguindanaon]] people in the [[mindanao|Mindanao]] region of the [[Philippines]].
 
-The instruments in kulintang ensemble include:
+The term "[[kulintang]]" refers to both the ensemble and the singular instrument. _Palabunibunyan_ refers specifically to the ensemble. _Palabunibunyan_ and "kulintang ensemble" will be used interchangeably here.
+
+The instruments in _palabunibunyan_ include:
 
 - the [[Kulintang]]
 - [[Babandir]]
@@ -50,3 +52,4 @@ A "tight" ensemble knows how to react to each other's playing properly and accor
 ## Sources
 
 - [Kulintang Listening Session by Harold Andre (YouTube)](https://www.youtube.com/watch?v=7b7iDVjvxPs)
+- [Kulintang (Wikipedia)](https://en.wikipedia.org/wiki/Kulintang)

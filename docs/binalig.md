@@ -14,7 +14,7 @@ Binalig is a common rhythmic mode in [[kulintang]] music.
 
 ![Binalig rhythm](../attachments/binalig-rhythm.png)
 
-In a [[kulintang-ensemble|kulintang ensemble]], each player follows this basic pattern and improvises rhythms and phrases over it.
+In a [[palabunibunyan|kulintang ensemble]], each player follows this basic pattern and improvises rhythms and phrases over it.
 
 ## Sources
 

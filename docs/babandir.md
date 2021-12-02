@@ -4,7 +4,7 @@ tags: philippines music instrument kulintang culture ensemble
 
 # Babandir
 
-The **babandir** is a bossed gong instrument played in [[kulintang-ensemble]]; it is the _timekeeper_ of the ensemble.
+The **babandir** is a bossed gong instrument played in [[palabunibunyan]]; it is the _timekeeper_ of the ensemble.
 
 - played by striking the rim instead of the knob
 

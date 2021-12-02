@@ -4,7 +4,7 @@ tags: philippines music instrument kulintang culture ensemble
 
 # Gandingan
 
-The **gandingan** is an instrument played in [[kulintang-ensemble|kulintang ensemble]] music and comprised of four hanging gongs.
+The **gandingan** is an instrument played in [[palabunibunyan|kulintang ensemble]] music and comprised of four hanging gongs.
 
 - played with padded mallets
 - can be used as a solo instrument

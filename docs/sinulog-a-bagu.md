@@ -4,7 +4,7 @@ tags: philippines music instrument kulintang culture ensemble
 
 # Sinulog a Bagu
 
-**_Sinulog a Bagu_** is a [[maguindanao|Maguindanaon]] [[kulintang-ensemble|kulintang ensemble]] piece/rhythmic mode.
+**_Sinulog a Bagu_** is a [[maguindanao|Maguindanaon]] [[palabunibunyan|kulintang ensemble]] piece/rhythmic mode.
 
 - it is a common rhythmic mode, although it has been developed more recently
 
