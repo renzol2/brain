@@ -9,7 +9,7 @@ The **kulintang** is an instrument consisting of a set of eight bossed-gongs in 
 - played by striking the knob of the gong with wooden sticks
 - played at moderate to fast tempos with little to no rests and no sustained notes
 
-The kulintang is part of an instrumental ensemble along with other gongs and a skin drum, which are common among the [[Mindanao]] region of southern [[Philippines]].
+The kulintang is the main part of an instrumental [[kulintang-ensemble|ensemble]] along with other gongs and a skin drum, which are common among the [[Mindanao]] region of southern [[Philippines]].
 
 The region contains different styles of kulintang playing across different regions, each with their own distinct styles of playing.
 
@@ -45,7 +45,7 @@ Kulintang music is **highly improvised!**.
 
 - all the rhythmic frenzy by kulintang master performers in recordings and live performances are all _improv_
 
-Kulintang players are not taught strict, written pieces, but rather taught how to improvise on _rhythmic patterns_.
+Kulintang players are not taught strict, written pieces, but rather taught how to improvise on [[kulintang-rhythmic-modes|rhythmic modes]] and patterns.
 
 - difficult to develop a "feel" for kulintang rhythmic modes or patterns
 - understanding these patterns takes practice and listening

@@ -1,5 +1,5 @@
 ---
-tags:
+tags: philippines music instrument kulintang culture
 ---
 
 # Kulintang Notation
