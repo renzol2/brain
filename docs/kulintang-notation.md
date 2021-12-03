@@ -4,7 +4,7 @@ tags: philippines music instrument kulintang culture
 
 # Kulintang Notation
 
-Traditionally, [[kulintang]] music was never notated. It was often, and still is, taught and passed down orally. Besides, most of kulintang is improvised.
+Traditionally, [[kulintang]] music was never notated. It was often, and still is, taught and passed down orally. Besides, most of kulintang music is improvised.
 
 It wasn't until kulintang was brought into academia and universities that there arose a need for notation.
 

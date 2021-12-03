@@ -24,7 +24,7 @@ There is a traditional method of beginning kulintang ensemble pieces:
 
 - most of the time, the [[babandir]] or the [[dabakan]] starts the piece
 - the [[kulintang]] usually enters next
-- the [[gandingan]] and [[agung]] usually follow lastly\
+- the [[gandingan]] and [[agung]] usually follow lastly
 
 However, some performers may decide to highlight different instruments at the beginning instead.
 
