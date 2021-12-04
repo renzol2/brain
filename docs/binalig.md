@@ -20,13 +20,17 @@ The root word _balig_ has related meanings:
 - "slang"
 - "with a foreign accent"
 
-## Rhythm
+## Rhythmic Mode
 
 Binalig is a common rhythmic mode in [[kulintang]] music.
+
+### Harold Andre
 
 ![Binalig rhythm](../attachments/binalig-rhythm.png)
 
 In a [[palabunibunyan|kulintang ensemble]], each player follows this basic pattern and improvises rhythms and phrases over it.
+
+### Kristina Benitez
 
 ## Sources
 
