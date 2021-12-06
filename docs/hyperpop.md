@@ -54,7 +54,7 @@ Hyperpop choruses are characterized by **808s**, heavy **distortion**, and **exa
   - multiband [[compression]]
   - distortion
   - autotune
-  - reverb
+  - [[reverb]]
 - when layered, vocals are usually harmonized in octaves and thirds (both above/below, depending on what's usually diatonic)
   - harmonies usually panned left + right for a wider sound
 

@@ -63,4 +63,4 @@ Materials often strategically chosen to optimize a room's acoustic properties - 
 
 Objects have **natural modes of vibration** based on shape, material, density, elasticity
 
-When stimulated at one of its natural modes, an object exhibits increased vibrational energy/displacement, called **resonance**
+When stimulated at one of its natural modes, an object exhibits increased vibrational energy/displacement, called [[resonance]]

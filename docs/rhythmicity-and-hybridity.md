@@ -107,7 +107,7 @@ electronics
 - DSP
 - spatialization of sound
 
-## Extended “acoustics” IR and convolution reverb
+## Extended “acoustics” IR and convolution [[reverb]]
 
 grasping the sonic nuances that emerge during the traditional process
 

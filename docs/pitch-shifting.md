@@ -1,0 +1,26 @@
+---
+tags: mus-407 delay delay-line
+---
+
+# Pitch-Shifting/Harmonization
+
+**Pitch-shifting/harmonization** can be achieved using [[variable-delay-effects|variable delay lines]], because a dynamically changing delay time produces [[pitch]] variance.
+
+In our [[circular-queue|circular buffer]]:
+
+- `W`/`R` pointers move at different speeds in the same direction
+- if `R` is faster than `W`, output pitch is higher than input
+- if `R` is slower than `W`, output pitch is lower than input
+
+Central problem: At different speeds, `R` and `W` will periodically "pass through" each other, where `R` is likely to encounter a waveform discontinuity (heard as a click)
+
+## Solution/Digital Implementation
+
+To solve the discontinuity problem:
+
+- create several `R` pointers spaced out along circular queue, all moving at the same speed
+- modulate the [[amplitude]] of each R pointer's output by unipolar [[sine-wave|sine]]/triangle wave
+- control initial [[phase]] of each oscillator so circular queue discontinuity aligns with zero crossing of modular signal
+- sum R pointer outputs together
+
+Summed signals can have phase reinforcement/cancellation issues, but usually makes for a decent real-time harmonizer.

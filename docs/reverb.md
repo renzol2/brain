@@ -1,5 +1,5 @@
 ---
-tags: music audio mus-407 digital-audio delay
+tags: audio mus-407 digital-audio delay
 ---
 
 # Reverb
@@ -18,6 +18,7 @@ Many reverb algorithms are variations on the **Schroeder Reverb** design:
 
 - 4 summed [[comb-filter|comb filters]] in parallel, through two allpass filters in series
 - comb filters provide reverb "body"
-- allpass filters introduce [[frequency]]-specific [[phase]] shifts to diffuse the sound and reduce resonance
+  - delay lines with feedback
+- [[all-pass-filter|all-pass filters]] introduce [[frequency]]-specific [[phase]] shifts to diffuse the sound and reduce [[resonance]]
 
 ![Schroeder reverb design](../attachments/schroeder-reverb-design.png)

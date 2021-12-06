@@ -17,4 +17,4 @@ As humans, our perception is subject to certain [[psychoacoustics|psychoacoustic
 - have less sensitivity to **low** and **high** frequencies.
 - have greater sensitivity between **2kHz** and **5kHz** (human talking range) due to the structure/length of our ear canal
 
-The wavelengths of these frequencies aligns with most people's ear canals, so our ear canals go into resonance when these frequencies are present in sound we listen to
+The wavelengths of these frequencies aligns with most people's ear canals, so our ear canals go into [[resonance]] when these frequencies are present in sound we listen to
