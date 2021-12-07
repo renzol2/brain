@@ -11,12 +11,14 @@ A **digital delay line (DDL)** stores a sequence of [[sampling-signal-processing
 Mixing delayed output with input produces a variety of effects:
 
 - echo
-- multi-tap delay
+- [[multi-tap-delay|multi-tap delay]]
 - [[comb-filter|comb filters]] & resonators
-- phasing & flanging
-- chorus
-- [[pitch]]-shifting and harmonization
-- reverberation, simulation of room acoustics
+- [[phaser|phasing]] & [[flanger|flanging]]
+- [[chorus]]
+- [[pitch-shifting|pitch-shifting and harmonization]]
+- [[reverb|reverberation]], simulation of room acoustics
+
+These effects are split between [[fixed-delay-effects|fixed delays]] and [[variable-delay-effects|variable delays]].
 
 ## Analog vs Digital Delay Lines
 
@@ -48,7 +50,7 @@ Basic DDL (inherently stable):
 
 ![Basic DDL Signal Flow](../attachments/basic-ddl-signal-flow.png)
 
-Basic DDL with feedback (unstable if delayed signal amplitude > 1):
+Basic DDL with [[feedback]] (unstable if delayed signal amplitude > 1):
 
 ![Basic DDL with feedback](../attachments/basic-ddl-with-feedback-signal-flow.png)
 

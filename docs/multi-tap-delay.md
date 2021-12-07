@@ -8,6 +8,6 @@ tags: music audio mus-407 digital-audio delay
 
 - implemented in a [[circular-queue|circular queue]] with one write pointer and _more than one_ read pointer
 - can create a specific pattern of multiple echoes
-- may or may not include a feedback path
+- may or may not include a [[feedback]] path
 
 ![Multi-tap delay signal flow](../attachments/multi-tap-delay-signal-flow.png)

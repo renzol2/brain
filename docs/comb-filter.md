@@ -8,7 +8,7 @@ tags: mus-305 mus-407 filter
 
 ## Implementation
 
-Comb filters are just **[[digital-delay-line|delay lines]] with feedback**
+Comb filters are just **[[digital-delay-line|delay lines]] with [[feedback]]**
 
 - feeding signal into itself with an extremely _short delay time_, to the point of hearing a periodic waveform
 - any partial with aligns with the inverse of the delay time (and all the harmonics of that partial) will experience 100% [[wave-interference|constructive interference]]

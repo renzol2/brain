@@ -12,7 +12,7 @@ Acoustic **power**, measured in Watts (W) measures the rate at which energy is c
 
 - commonly indicated on signal amplifiers
 
-Sound **intensity** measures power distributed over a unit area
+[[sound-waves|Sound]] **intensity** measures power distributed over a unit area
 
 - power measures sound strength irrespective of source/listener locations
 - intensity varies depending on distance between source and listener

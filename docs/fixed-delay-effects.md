@@ -22,7 +22,7 @@ There are three general categories:
 **multi-tap delay**: one write pointer and more than one read pointer
 
 - can create a specific pattern of multiple echoes
-- may or may not include a feedback path
+- may or may not include a [[feedback]] path
 
 ## Creative Usage
 
