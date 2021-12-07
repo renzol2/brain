@@ -17,9 +17,17 @@ tags: philippines music instrument kulintang culture ensemble ethnomusicology rh
 In duyug/sirong, all [[palabunibunyan]] players play phrases two beats in length, with emphasis at the beginning of each beat.
 
 - the beginning of each beat is accented to signal an opportunity for creativity in improvisation
-- the weak beats can be repeated or altered
+- the weak beats (sub-units) can be repeated or altered
+- while improvising, players can either introduce new sub-units or reintroduce previously utilized sub-units
+- stylistic options, like doubling of strokes, striking two gongs at the same time, or alternative uses of upper/lower gongs can be used in conjunction with repetition
 
-TODO: take more notes
+## Form
+
+*Duyug/sirong* pieces begin and end with some conventions:
+
+- pieces begin with gong 3, sometimes in conjunction with gong 2
+- final section contains new musical phrases and ascent to gong 7
+- *duyug/sirong* pieces always end on gong 3 or 5 on beat 1
 
 ## Sources
 

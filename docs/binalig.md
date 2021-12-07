@@ -40,7 +40,7 @@ This base structure is identical to [[duyug-sirong|duyug/sirong]] pieces. Howeve
 
 - the consistent use of paired musical phrases in the kulintang
   - this pairing reflects how [[maguindanao|Maguindanaon]] songs often have melodies with complementary phrases
-- the grater density in the musical phrases that often feature repeated strokes on one or two gongs, particularly at the end of the phrase
+- the greater density in the musical phrases that often feature repeated strokes on one or two gongs, particularly at the end of the phrase
 - common for binalig pieces (and not other genres) that the opening section features an ascent to gong 7 following the usual initial strokes on gong 3
 - the "rendering" of lines and phrases of popular songs on kulintang
 - an extended closing section 5-10 phrases long, which including musical phrases different from those in the main body of the piece
