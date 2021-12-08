@@ -1,5 +1,5 @@
 ---
-tags: web-dev computer-science computer programming-languages
+tags: web-dev computer-science computer programming-languages javascript
 ---
 
 # JavaScript
