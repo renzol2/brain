@@ -4,11 +4,11 @@ tags: dynamic-range-processing mus-407 compression expansion
 
 # Transfer Function
 
-A **transfer function** converts a signal input (in [[decibel|dB]]) to an output (in [[decibel|dB]] as well). The shape of the transfer function determines the [[dynamic-range-processing|DRP]] effect.
+A **transfer function** converts a signal input to an output, usually applying some change. In [[dynamic-range-processing|DRP]], the signals are measured in [[decibel|dB]], and the shape of the transfer function determines the effect.
 
-Example with downward compression:
+Example with downward [[compression]]:
 
-- Standard amplifier: no [[compression]], linear response
+- Standard amplifier: no compression, linear response
 - Mild compression, peaks above -6 dBFS are slightly attenuated
 - More severe compression, peaks above -6 dBFS are more strongly attenuated
 
@@ -39,5 +39,30 @@ When signal level crosses a threshold, DRP ratio may be applied fully or gradual
 _Hard/soft_ knee refers to the smoothness of the transfer function graph across the threshold
 
 - a hard knee has two straight lines, above and below threshold
-- a soft knee curves gently between affected and unaffected amplitude regions
+- a soft knee curves gently between affected and unaffected [[amplitude]] regions
 - differences between hard/soft knee tend to be very subtle, almost indistinguishable
+
+## Drawing Transfer Functions
+
+- Mark threshold (threshold is _always_ on the horizontal axis)
+- Determine type of effect
+  - Which effect? Which direction?
+  - Which part of the graph is affected? Which part is attenuated?
+  - **upward [[expander]]**: draw the transfer function at threshold, then apply makeup gain downwards
+- Based on input parameters, draw graph
+
+### Downward Compression Shape
+
+![Downward Compression Shape](../attachments/downward-compression-shape.png)
+
+## Upward Compression Shape
+
+![Upward Compression Shape](../attachments/upward-compression-shape.png)
+
+## Downward Expansion Shape
+
+![Downward Expansion Shape](../attachments/downward-expansion-shape.png)
+
+## Upward Expansion Shape
+
+![Upward Expansion Shape](../attachments/upward-expansion-shape.png)
