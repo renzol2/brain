@@ -8,7 +8,7 @@ A **Fourier Transform** is a mathematical tool for _frequency decomposition_, us
 
 In practice, Fourier transforms are often used with [[fourier-inversion-theorem|inverse Fourier transforms]]: reproducing a signal (intensity over time) _from_ a Fourier Transform (intensity in terms of frequency)
 
-The Fourier transform of an intensity vs. time graph, usually $g(t)$ is a new function $\hat{g}(t)$, which:
+The Fourier transform of an intensity vs. time graph, usually $g(t)$, is a new function $\hat{g}(t)$, which:
 
 - doesn't have time as an input, but instead takes a _frequency_ (the "winding" frequency)
 - outputs a complex number, some point in the 2D plane, that corresponds to the strength of a given frequency in the original signal

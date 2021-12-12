@@ -13,7 +13,7 @@ Every period wave consists of:
   - if the fundamental is the _only_ frequency present in the waveform, we are dealing with a [[sine-wave|sine wave]]
 - some number of **overtones**
 
-All these sine waves are collectively called **partials**
+All these sine waves are collectively called [[partial]]s
 
 - A fundamental is a partial
 - An overtone is a partial
@@ -23,6 +23,6 @@ The Fourier theorem also has an [[fourier-inversion-theorem|inverse theorem]], w
 
 ## In Sound
 
-The Fourier Theorem can be applied to [[sound-waves|sound waves]].
+The Fourier Theorem can be applied to [[sound-waves|sound waves]] to pick out specific frequencies present in a [[spectrum]].
 
 > Any **sound** comprised of a periodic waveform can be expressed as a sum of [[sine-wave|sine waves]]
