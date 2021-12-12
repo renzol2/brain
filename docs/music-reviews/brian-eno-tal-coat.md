@@ -12,7 +12,7 @@ type: music-review
 - sequenced [[sound-synthesis|synth]] sounds, noisy/filtered, almost inharmonic
 - piano
 - string/string-pad
-- overhead noise or dense inharmonic spectrum
+- overhead noise or dense inharmonic [[spectrum]]
 - Bb, F# over C
 - gently wavering [[amplitude]], especially in the bass
 
@@ -24,7 +24,7 @@ The atmosphere itself is made of several components, and Eno blends these compon
 
 A saw-like synth bass drone permeates the piece, staying primarily on C while occasionally switching tones before going back to C.
 
-Synth pads continually float throughout the piece, and they tend to sound like anything from strings to voices, with an ever-changing timbre to keep the atmosphere from being stagnant.
+Synth pads continually float throughout the piece, and they tend to sound like anything from strings to voices, with an ever-changing [[timbre]] to keep the atmosphere from being stagnant.
 
 A bubbly mix of sequenced pluck-like synth hits begin within the first few seconds of the piece and continue until the end in the higher register. I also heard a brief instance of piano at 2:20.
 

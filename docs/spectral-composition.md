@@ -4,7 +4,7 @@ tags: music mus-305 spectral composition
 
 # Spectral Composition
 
-**Spectral composition** is a method of [[music-composition|music composition]] where composers take spectra (any noise), analyze the audio (FFTs), and use the resulting spectral information as compositional material.
+**Spectral composition** is a method of [[music-composition|music composition]] where composers take [[spectrum|spectra]] (any noise), analyze the audio through [[spectral-analysis|spectral analysis]] (FFTs), and use the resulting spectral information as compositional material.
 
 - basically: music _about_ sound
 - treat a **spectra** as a set of notes

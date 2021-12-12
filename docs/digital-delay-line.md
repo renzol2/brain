@@ -104,7 +104,7 @@ $$y[n] = 0.1 \times x[n] + 0.1 \times x[n-1] + ... + 0.1 \times x[n-9]$$
 
 Digital filters and digital delays are closely related in design and result:
 
-- some types of delay lines can noticeably affect a sound's spectrum
+- some types of delay lines can noticeably affect a sound's [[spectrum]]
 - some filters can introduce [[phase]]/timing shifts
   - capable of smearing [[transient]]s
 

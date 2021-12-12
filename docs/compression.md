@@ -29,7 +29,7 @@ e.g. compression ratio of 4:1
 
 Ratios of 8:1 and above are generally considered "extreme" compression
 
-- Can result in a perceptual distortion of [[transient]]s, noticeable changes in timbre, often described as a "squashed" sound
+- Can result in a perceptual distortion of [[transient]]s, noticeable changes in [[timbre]], often described as a "squashed" sound
 
 ## Makeup gain
 
@@ -40,7 +40,7 @@ After compression is applied, **makeup gain** is a normal amplification process 
 
 ## Multiband compression
 
-A **multi-band compressor** divides a full spectrum signal into discrete [[docs/frequency|frequency]] bands and applies compression uniquely to each band.
+A **multi-band compressor** divides a full [[spectrum]] signal into discrete [[docs/frequency|frequency]] bands and applies compression uniquely to each band.
 
 - allows for more detailed control of [[dynamic-range|dynamic range]]
 - compressed spectral bands are summed after compressions are applied

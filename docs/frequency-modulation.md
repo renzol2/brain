@@ -12,7 +12,7 @@ TODO: import 407 notes
 
 ## The C:M Ratio
 
-The **carrier to modulator ratio (C:M)** determines the harmonicity of the resulting spectrum
+The **carrier to modulator ratio (C:M)** determines the harmonicity of the resulting [[spectrum]]
 
 - for harmonic spectra, $M$ must have an integer relationship to $C$
 - Non integer ratios produce inharmonic spectra

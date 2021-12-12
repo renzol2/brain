@@ -11,7 +11,7 @@ Early developments at **Bell Telephone Laboratories**, NJ, early 1950s
 In 1957, **Max Mathews** created and oversaw the first sound-generating computer program, called **MUSIC**
 
 - triangle wave only
-- no control over [[envelope]] [[transient|transients]] or timbre
+- no control over [[envelope]] [[transient|transients]] or [[timbre]]
 - only [[pitch]], [[loudness]], and duration were controllable
 - "it was terrible" - Max Mathews
 - Max (1926-2011) is also namesake of eponymous Max/MSP software

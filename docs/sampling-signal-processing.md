@@ -66,7 +66,7 @@ Periodic signals exhibit a regular, predictable pattern of quantization error.
 
 - smooth signals take on a more square-like appearance
 - low [[amplitude]] signals have access to fewer resolution points, and are therefore particularly prone
-- results in additional high-frequency components in the spectrum, also called harmonic distortion
+- results in additional high-frequency components in the [[spectrum]], also called harmonic distortion
 
 **Dither** is a small amount of low-level noise added to an analog signal, prior to sampling/quantization, in order to randomize (and therefore eliminate) quantization error.
 

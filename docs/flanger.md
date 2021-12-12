@@ -22,7 +22,7 @@ Flanging can be implemented as follows:
 
 - delay time modulated by low-frequency [[sine-wave|sine wave]] (0.1-20 Hz)
 - delayed signal has subtle fluctuations in pitch
-- combined input + output has sweeping peaks and nulls in spectrum, resulting from [[wave-interference|constructive/destructive interference]]
+- combined input + output has sweeping peaks and nulls in [[spectrum]], resulting from [[wave-interference|constructive/destructive interference]]
 - peaks occur at integer multiples of $1/D$ Hz, where $D$ is the delay time in seconds
 - nulls occur linearly between peaks, at odd harmonics of $1/(2D)$ Hz
 

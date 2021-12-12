@@ -10,7 +10,7 @@ In ring modulation, two signals of [[docs/frequency|frequencies]] $f_1$ and $f_2
 
 There are two cases:
 
-1. If $f_1$ and $f_2$ are both [[sine-wave|sine waves]], then the output spectrum consists of two sidebands
+1. If $f_1$ and $f_2$ are both [[sine-wave|sine waves]], then the output [[spectrum]] consists of two sidebands
 2. Otherwise, the output spectrum consists of the sum and difference tones for each [[harmonic-series|harmonic]] in both signals
 
 This results in the following:

@@ -4,9 +4,7 @@ tags: mus-407 spectrum timbre sound
 
 # Fourier Theorem
 
-_Theorem_:
-
-> Any periodic waveform can be expressed as a sum of sinusoidal vibrations ([[sine-wave|sine waves]])
+The **Fourier theorem** states that any periodic waveform can be expressed as a sum of sinusoidal vibrations ([[sine-wave|sine waves]]).
 
 Every period wave consists of:
 
@@ -21,8 +19,10 @@ All these sine waves are collectively called **partials**
 - An overtone is a partial
 - A fundamental is _not_ an overtone
 
+The Fourier theorem also has an [[fourier-inversion-theorem|inverse theorem]], which is often used within applications of both theorems for modifying wave and signal data.
+
 ## In Sound
 
 The Fourier Theorem can be applied to [[sound-waves|sound waves]].
 
-> Any **sound** comprised of a periodic waveform can be expressed as a sum of ([[sine-wave|sine waves]])
+> Any **sound** comprised of a periodic waveform can be expressed as a sum of [[sine-wave|sine waves]]
