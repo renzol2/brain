@@ -1,5 +1,5 @@
 ---
-tags: music granular synthesis audio composition digital
+tags: music granular synthesis audio composition digital mus-305 ece-402
 ---
 
 # Granular Synthesis
