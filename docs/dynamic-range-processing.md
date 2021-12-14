@@ -102,4 +102,4 @@ See: [[side-chaining|Sidechaining]]
 
 ## Transfer Function Examples
 
-TODO: add transfer function examples
+All DRP effects can be represented through a [[transfer-function|transfer function]], a function between an input signal (in [[decibel|dB]]) and an output signal with a processed [[amplitude]].

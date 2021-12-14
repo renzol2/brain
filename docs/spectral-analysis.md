@@ -1,5 +1,5 @@
 ---
-tags: ece-402
+tags: ece-402 dsp spectral-analysis
 ---
 
 # Spectral Analysis
@@ -8,9 +8,10 @@ tags: ece-402
 
 ## Sound
 
-Spectral analysis is often used in [[sound-waves|sound]] analysis to represent sound across the [[frequency]] spectrum to represent [[timbre]]
+Spectral analysis is often used in [[sound-waves|sound]] analysis to represent sound across the [[frequency]] domain to produce a [[spectrum]] and represent [[timbre]]
 
 - a form of frequency domain analysis
+- often implemented with [[time-varying-spectral-analysis|time-varying spectral analysis]] techniques
 
 ## Sources
 

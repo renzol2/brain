@@ -1,5 +1,5 @@
 ---
-tags: ece-402
+tags: ece-402 dsp spectral-analysis
 ---
 
 # Time-Varying Spectral Analysis
@@ -19,10 +19,12 @@ Time-varying analysis methods offer various degrees of information on the [[part
   - frequency is derivative of phase
   - ex. glottal pulses in speech
 
+## Types
+
 There are 2 main types of time-varying spectral analysis:
 
-1. Long Window Time-Varying Spectral Analysis
-2. Short Window Time-Varying Spectral Analysis
+1. [[long-window-time-varying-spectral-analysis|Long Window Time-Varying Spectral Analysis]]
+2. [[short-window-time-varying-spectral-analysis|Short Window Time-Varying Spectral Analysis]]
 
 ## Sources
 
