@@ -6,7 +6,7 @@ tags: music synthesis frequency modulation mus-305 mus-407
 
 In **frequency modulation** (FM), the [[frequency]] of a _carrier_ signal is altered by a _modulator_ signal.
 
-Deviations of the carrier causes spectral sidebands at multiples of the modulator above and below the carrier.
+Deviations of the carrier causes spectral "sidebands" (additional frequencies) at multiples of the modulator above and below the carrier frequency.
 
 TODO: import 407 notes
 
@@ -14,8 +14,8 @@ TODO: import 407 notes
 
 The **carrier to modulator ratio (C:M)** determines the harmonicity of the resulting [[spectrum]]
 
-- for harmonic spectra, $M$ must have an integer relationship to $C$
-- Non integer ratios produce inharmonic spectra
+- for [[harmonic-series|harmonic]] spectra, $M$ must have an integer relationship to $C$
+- Non integer ratios produce [[inharmonicity|inharmonic]] spectra
 
 ## Composing with FM
 

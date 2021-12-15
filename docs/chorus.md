@@ -12,4 +12,4 @@ A **chorus effect** (in audio) has the goal of transforming a single voice into 
 No definitive [[algorithm]]: many different implementations exist.
 
 - most involve several [[variable-delay-effects|variable delays]] in parallel with or without [[feedback]]
-- delay times modulated using oscillators or noise generators
+- delay times modulated using oscillators or [[noise]] generators

@@ -11,8 +11,8 @@ Like a compressor ([[compression]]), an **expander** is an amplifier whose gain 
 
 Expanders are typically used to make quiet sounds even quieter. They
 
-- e.g. reducing noise in old analog recordings
-- noise gates and expanders often used for similar purposes
+- e.g. reducing [[noise]] in old analog recordings
+- [[noise-gate|noise gates]] and expanders often used for similar purposes
 
 Like compressors, ratio expressed as input change to output change
 

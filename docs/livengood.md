@@ -11,7 +11,7 @@ Livengood describes her personal style as a [[music-composition|composer]] throu
 - Openness
   - unforeseen possibilities, performer freedom
 - “Jankiness”
-  - noise, glitches, ill-conceived ideas, noisemakers, toys
+  - [[noise]], glitches, ill-conceived ideas, noisemakers, toys
 - Humor
   - purposeful or not
 - Self-deprecation

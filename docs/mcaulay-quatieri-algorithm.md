@@ -12,7 +12,7 @@ The **McAulay-Quatieri (MQ)** algorithm is an [[algorithm]] that converts a [[so
 
 Compared to other [[spectral-analysis|spectral analysis]] techniques:
 
-- uniquely capable of analyzing sounds without a stable [[harmonic-series|harmonic structure]], i.e. polyphonic or inharmonic sounds, instrument tones with large vibrato
+- uniquely capable of analyzing sounds without a stable [[harmonic-series|harmonic structure]], i.e. polyphonic or [[inharmonicity|inharmonic]] sounds, instrument tones with large vibrato
 - provides information to control a real-time [[additive-synthesis|additive synthesis]] engine
 - by default, generates an arbitrary number of sinusoidal tracks
 

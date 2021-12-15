@@ -42,7 +42,7 @@ See: [[aliasing]]
 The discrepancy between an analog signal's true value and its quantized approximation is called **quantization error.**
 
 - the amount of rounding we had to do to fit the samples into our digital recording system
-- quantization error is heard as noise in the digital signal
+- quantization error is heard as [[noise]] in the digital signal
   - quantization is effectively adding a small random value to the original value of a sample - over many samples, this comes off as noise
   - noise itself is just random values in the digital realm
 

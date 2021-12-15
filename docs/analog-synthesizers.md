@@ -57,7 +57,7 @@ Common modules:
 - **VCF**: voltage-controlled filter
 - **VCA**: voltage-controlled amplifier
 - **LFO**: low-[[docs/frequency|frequency]] oscillator
-- sequencers, [[envelope|envelopes]], mixers, noise generators, etc.
+- sequencers, [[envelope|envelopes]], mixers, [[noise]] generators, etc.
 
 ### Hardware
 

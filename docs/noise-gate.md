@@ -9,7 +9,7 @@ A **noise gate** (or simply **gate**) is a switch that opens/closes depending on
 - when signal $>$ threshold, the gate is "open" and allows signal to pass through
 - when signal level $\leq$ threshold, the gate is "closed" silencing the signal
 
-Gates are commonly used for removing low-level background noise.
+Gates are commonly used for removing low-level background [[noise]].
 
 - assumed that noise level is below signal level
 - for basic gates, not possible to remove noise while signal is present

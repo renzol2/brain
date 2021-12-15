@@ -65,7 +65,7 @@ An experience in one aspect can lead to revelations in the other. Ex. free divin
 - amplification resulting to electrified sonic entities
   - a different way to experience music
   - new sonic palette
-- threshold between noise and pitch
+- threshold between [[noise]] and pitch
 
 ### Main Points
 

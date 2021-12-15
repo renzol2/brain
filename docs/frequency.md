@@ -8,7 +8,7 @@ The **frequency** of a periodic waveform is the number of cycles that occur per 
 
 - **periodic waveform**: cyclic behavior, repeatedly exhibits the same pattern
 - **non-period/aperiodic** waveform: irregular, non-repeating pattern
-  - also called _noise, unwanted sound_
+  - also called _[[noise]], unwanted sound_
 
 **period:** duration, in seconds, of one full cycle of a periodic waveform
 

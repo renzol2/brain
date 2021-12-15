@@ -4,7 +4,7 @@ tags: mus-407 delay delay-line
 
 # Flanger
 
-The **flanger** effect is a [[variable-delay-effects|variable delay effect]] that derives from a phenomenon called _repetition pitch_ in which a noise source gains a sense of [[pitch]] when combined with a delayed copy of itself.
+The **flanger** effect is a [[variable-delay-effects|variable delay effect]] that derives from a phenomenon called _repetition pitch_ in which a [[noise]] source gains a sense of [[pitch]] when combined with a delayed copy of itself.
 
 - introduces a "spectral sweep" that colors the sound
 

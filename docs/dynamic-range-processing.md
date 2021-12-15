@@ -16,7 +16,7 @@ Applications include:
 - maintaining a constant signal level
 - increasing the overall level of a mix
 - creative [[transient]] and [[envelope]] shaping
-- noise reduction
+- [[noise]] reduction
 - preventing clipping/overloading
 - [[side-chaining|sidechaining]] (amplitude following, ducking)
 

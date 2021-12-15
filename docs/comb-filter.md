@@ -4,7 +4,7 @@ tags: mus-305 mus-407 filter
 
 # Comb Filter
 
-**Comb filters** are audio signal filters that filter out noise into discrete [[docs/frequency|frequencies]] and impose [[resonance]].
+**Comb filters** are audio signal filters that filter out [[noise]] into discrete [[docs/frequency|frequencies]] and impose [[resonance]].
 
 ## Implementation
 
