@@ -29,7 +29,7 @@ Two important academic centers founded ca. 1957-1958:
 
 - founded by Otto Luening & Vladimir Ussachevsky (Columbia), Milton Babbit & Roger Sessions (Princeton)
 - initially focused on analog tape-based composition, later expanding into computer music and other areas
-- notable collaboration with Bell Labs
+- notable collaboration with [[bell-laboratories|Bell Labs]]
 
 Two more computer music centers established in the 1970s:
 

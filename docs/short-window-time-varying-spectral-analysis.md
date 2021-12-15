@@ -11,7 +11,7 @@ tags: ece-402 dsp spectral-analysis
 - pitch-synchronous, results in good-time resolution and prevents temporal smearing
 - short-window artifacts include cross-talk between frequencies and "ripple" effects
 
-The proper way to extract a short signal segment is to multiply the longer, original signal by a window function.
+The proper way to extract a short signal segment is to multiply the longer, original signal by a [[spectrum-analysis-window|window function]].
 
 Short window analysis is best for monophonic, "quasi-harmonic" input sounds.
 

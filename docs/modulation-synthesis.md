@@ -6,7 +6,7 @@ tags: music modulation synthesis audio composition digital analog mus-407 synthe
 
 TODO: complete this section from previous notes
 TODO: link to [[granular-synthesis]]
-TODO: link to [[modulation-synthesis]]
+TODO: link to [[frequency-modulation]]
 TODO: link to [[analog-synthesizers]]
 TODO: link to [[digital-synthesizers]]
 
