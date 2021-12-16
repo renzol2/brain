@@ -25,3 +25,10 @@ The following topics are covered on the final exam for ECE 402: Electronic Music
 ## Sound Morphing and Cross Synthesis
 
 - [[linear-predictive-coding]]
+
+## Pitch Processing
+
+- [[cepstral-pitch-detection]]
+- [[quefrency]]
+- [[spectral-peak-labeling]]
+- [[string-inharmonicity]]

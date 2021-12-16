@@ -6,8 +6,18 @@ tags: ece-402 dsp
 
 A **pitch detection algorithm (PDA)** is an [[algorithm]] that estimates the fundamental [[pitch]] of a signal, usually that of a musical note or tone. There is no ideal PDA, so several algorithms exist.
 
-- within the [[frequency]] domain, [[fast-fourier-transform|FFTs]] are often used for their fast [[runtime]]
+## Algorithms
+
+- [[fast-fourier-transform|FFT]]: within the [[frequency]] domain, FFTs are often used for their fast [[runtime]]
+  - variations include [[short-time-fourier-transform|STFTs]]
 - **YAAPT** (yet another algorithm for pitch tracking) algorithm uses a combination of time and frequency domain processing combined with [[dynamic-programming|dynamic programming]] to find the most likely fundamental
+- [[cepstral-pitch-detection|Cepstral Pitch Detection]] uses the [[cepstrum]] of a signal to determine the fundamental even when it's quieter than other [[partial]]s
+
+## Harmonic Pitch Detection Problems
+
+Many methods assume equally spaced [[harmonic-series|harmonics]], where harmonic input models $f_n \approx n \cdot f_1$. However, many sounds do not strictly follow the harmonic series (ex: [[string-inharmonicity|stringed instruments]]).
+
+Methods like [[spectral-peak-labeling|spectral peak labeling]] aim to somewhat remedy this issue by detecting _perceived_ pitch rather than actual pitch.
 
 ## Sources
 
