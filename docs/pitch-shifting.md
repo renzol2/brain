@@ -1,32 +1,39 @@
 ---
-tags: mus-407 delay delay-line
+tags: ece-402 dsp pitch-shifting
 ---
 
-# Pitch-Shifting/Harmonization
+# Pitch Shifting
 
-**Pitch-shifting/harmonization** can be achieved using [[variable-delay-effects|variable delay lines]], because a dynamically changing delay time produces [[pitch]] variance.
+**Pitch shifting**, in this context, is the process of changing the [[pitch]] of some audio sample in playback.
 
-In our [[circular-queue|circular buffer]]:
+- there are methods to [[pitch-shifting-realtime|pitch shift in realtime]], which utilizes [[variable-delay-effects|variable delay lines]], but the process in this note is different
 
-- `W`/`R` pointers move at different speeds in the same direction
-- if `R` is faster than `W`, output pitch is higher than input
-- if `R` is slower than `W`, output pitch is lower than input
-- modulate the delay time with a sawtooth wave to simulate a constant increase/decrease in speed of `R`
-  - polarity (upward/downward slope) affects direction of pitch shift
-  - magnitude of slope affects affects interval/distance of pitch shift
+## Naïve Method
 
-Central problem: At different speeds, `R` and `W` will periodically "pass through" each other, where `R` is likely to encounter a waveform discontinuity (heard as a click)
+The naïve method to pitch shift is to play back a sample at a different rate.
 
-## Solution/Digital Implementation
+- a normal playback would be at rate 1.0
+- a faster playback would be at rates > 1.0 (ex. octave up would be rate 2.0)
+- a slower feedback would be at rates < 1.0 (ex. octave down would be rate 0.5)
 
-To solve the discontinuity problem:
+This method raises several problems:
 
-- create several `R` pointers spaced out along circular queue, all moving at the same speed
-- use [[amplitude-modulation|amplitude modulation]] on each `R` pointer
-- modulate the [[amplitude]] of each `R` pointer's output by unipolar [[sine-wave|sine]]/triangle wave
-- control initial [[phase]] of each oscillator so circular queue discontinuity aligns with zero crossing of modular signal
-- sum R pointer outputs together
+- any vibrato or tremolo changes speed
+- the onset time and [[transient]] shape changes with the sustain, changing the overall [[envelope]]
+- note length speeds up or slows down
+- the [[spectrum]] has large changes, causing the spectral envelope to shift and moving the [[resonance]]s/formants
+  - think "chipmunk" effect when going up or "inflated head" effect when going down
+- playing at a lower rate results in high energy buildup near the Nyquist frequency, resulting in artifacts
+- playing at a higher rate results in [[aliasing]]
 
-Summed signals (dry + wet) can have phase reinforcement/cancellation issues, but usually makes for a decent real-time harmonizer.
+![Pitch shifting issues](../attachments/pitch-shifting-issues.png)
 
-- caused by lining up delay time [[resonance]] with certain [[harmonic-series|harmonics]], boosting some while cancelling others through [[wave-interference|wave interference]] (constructive vs. destructive)
+There are a few fixes to these problems:
+
+- interpolating to fractional samples in sample file helps a little, but all problems persist
+- insert zeros (for speech) - adding zero samples before glottal pulses reflects mouth shape (resonances, decay rates), even at different pitches
+- use an entirely different algorithm, such as Lent's algorithm
+
+## Sources
+
+-

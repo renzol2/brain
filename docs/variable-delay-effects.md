@@ -27,4 +27,4 @@ Within the circular buffer:
 This variable delay creates varying levels of [[wave-interference|constructive and destructive interference]].
 
 - delay time can line up with various [[harmonic-series|harmonics]] to boost their [[resonance]]
-- through destructive interference, delayed wet signal can also remove odd harmonics - basis for [[pitch-shifting|pitch shifting]]
+- through destructive interference, delayed wet signal can also remove odd harmonics - basis for [[pitch-shifting-realtime|pitch shifting]]
