@@ -29,7 +29,7 @@ Compared to other [[spectral-analysis|spectral analysis]] techniques:
    - Different sounds have different trade-offs between these parameters
 2. Window and FFT the signal. Keep only peaks in [[spectrum]]: for each peak, store the bin frequency, magnitude, and [[phase]].
    - Modification: _improve frequency estimate of each peak_
-     - draw vertical parabola through peak magnitude and its left and right neighbor
+     - use [[quadratic-interpolation|quadratic phase interpolation]] draw vertical parabola through peak magnitude and its left and right neighbor ("Smith Interpolation")
      - improved frequency estimate is at the top of parabola
 3. Create [[partial]] frequency envelopes by stringing together peaks from consecutive FFTs
    - Handle birth of new partials and death of old partials (involves many threshold and hysteresis parameters)

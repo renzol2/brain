@@ -12,6 +12,7 @@ In [[spectral-analysis|spectral analysis]], the main lobe of a [[spectrum-analys
 
 - valid for any practical window transform in a sufficiently small neighborhood about the peak
 - quadratic spectral peak interpolation is _exact_ under the Gaussian window, although the infinitely long tails must be removed
+- utilized by Serra and Smith for SMS ("Smith Interpolation")
 
 ![Quadratic interpolation example](../attachments/quadratic-interpolation-example.png)
 
