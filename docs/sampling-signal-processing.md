@@ -11,8 +11,8 @@ Sampling involves taking periodic measurements of an analog signal and assigning
   - [Bit Depth](#bit-depth)
   - [The Nyquist Frequency](#the-nyquist-frequency)
   - [Aliasing](#aliasing)
-    - [Quantization Error and Dynamic Range](#quantization-error-and-dynamic-range)
-    - [Dither](#dither)
+  - [Quantization Error and Dynamic Range](#quantization-error-and-dynamic-range)
+  - [Dither](#dither)
   - [Digital Audio Standards](#digital-audio-standards)
   - [File Formats](#file-formats)
     - [Uncompressed File Formats](#uncompressed-file-formats)
@@ -37,30 +37,13 @@ See: [[nyquist-frequency|Nyquist Frequency]]
 
 See: [[aliasing]]
 
-### Quantization Error and Dynamic Range
+## Quantization Error and Dynamic Range
 
-The discrepancy between an analog signal's true value and its quantized approximation is called **quantization error.**
+See: [[quantization-error|quantization error]] and [[bit-depth|bit depth]]
 
-- the amount of rounding we had to do to fit the samples into our digital recording system
-- quantization error is heard as [[noise]] in the digital signal
-  - quantization is effectively adding a small random value to the original value of a sample - over many samples, this comes off as noise
-  - noise itself is just random values in the digital realm
+In general: greater bit depth --> higher sample resolution --> smaller quantization error --> better signal-to-noise ratio
 
-greater bit depth --> higher sample resolution --> smaller quantization error --> better signal-to-noise ratio
-
-Bit depth determines the maximum [[dynamic-range|dynamic range]] of a digital audio signal, resulting in the relative amount of [[decibel|dB]]s available.
-
-- `16`-bits gives us 96 dB to work
-- `24`-bits gives us 120-something dB
-- Our pain threshold goes up to 120-something dB, so we don't need to raise the bit depth past something like `16`-bits.
-
-`dynamic range (dB) ~= 6 x bit depth`, e.g. an 8-bit system provides 48 dB of dynamic range
-
-- signals at or below -48 dBFS will be unresolvable from the noise floor
-
-Reducing the bit depth, and therefore dynamic range, does _not_ reduce the number of samples taken (the sample rate). We can still represent high [[docs/frequency|frequency]] content, but reducing the bit depth reduces the dynamic range at which we can represent the audio content.
-
-### Dither
+## Dither
 
 Periodic signals exhibit a regular, predictable pattern of quantization error.
 

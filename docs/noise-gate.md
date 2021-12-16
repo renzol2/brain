@@ -4,7 +4,7 @@ tags: music mus-407 noise-gate noise gate production compression dynamics drp dy
 
 # Noise Gate
 
-A **noise gate** (or simply **gate**) is a switch that opens/closes depending on whether signal level is above/below an [[amplitude]] threshold
+A **noise gate** (or simply **gate**) is a type of [[dynamic-range-processing|DRP]] that acts as a switch that opens/closes depending on whether signal level is above/below an [[amplitude]] threshold
 
 - when signal $>$ threshold, the gate is "open" and allows signal to pass through
 - when signal level $\leq$ threshold, the gate is "closed" silencing the signal
@@ -18,7 +18,7 @@ Gates are commonly used for removing low-level background [[noise]].
 
 Basic noise gates only check amplitude; however, more advanced noise gates have additional features for more flexibility/utility:
 
-- use spectral analysis or frequency tracking to remove noise from _all_ parts of the signal, not just through amplitude thresholds
+- use [[spectral-analysis|spectral analysis]] or [[frequency]] tracking to remove noise from _all_ parts of the signal, not just through amplitude thresholds
 - allow for specific amount of [[decibel]] reduction, rather than just muting the signal
 - allow for an [[envelope]] for the gate: specific attack/release times on signal
 

@@ -8,7 +8,7 @@ tags: music mus-407 electroacoustic computer digital audio
 
 **sampling**: the process of periodically measuring the [[amplitude]] of an analog signal and assigning a digital value to each measurement (see [[sampling-signal-processing]])
 
-**sample rate**: number of samples taken per second
+**[[sample-rate|sample rate]]**: number of samples taken per second
 
 **quantization**: the process of approximating the measured analog value to the closest digital value
 
