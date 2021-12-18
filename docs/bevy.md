@@ -1,5 +1,5 @@
 ---
-tags: programming-languages game-engines frameworks computer-science
+tags: programming-languages game-engines frameworks computer-science rust
 ---
 
 # Bevy

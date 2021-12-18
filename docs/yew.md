@@ -1,5 +1,5 @@
 ---
-tags: framework web-dev computer-science
+tags: framework web-dev computer-science rust
 ---
 
 # Yew
@@ -8,7 +8,7 @@ tags: framework web-dev computer-science
 
 - features component-based framework, similar to React
 - minimizes [[DOM]] API calls to improve performance
-- can operate alongside JavaScript for use with npm packages
+- can operate alongside [[JavaScript]] for use with npm packages
 
 ## Sources
 

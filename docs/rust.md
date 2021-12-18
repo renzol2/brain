@@ -1,5 +1,5 @@
 ---
-tags: computer-science programming-languages
+tags: computer-science programming-languages rust
 ---
 
 # Rust
@@ -10,6 +10,8 @@ tags: computer-science programming-languages
 - prevents memory leaks and segmentation faults
 - guarantees thread safety
 - stresses performance and correctness
+
+Can be compiled down to [[WebAssembly]] for use in [[client-side-rendering|client-side]] web applications.
 
 ## Sources
 
