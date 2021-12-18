@@ -15,7 +15,7 @@ Mixing delayed output with input produces a variety of effects:
 - [[comb-filter|comb filters]] & resonators
 - [[phaser|phasing]] & [[flanger|flanging]]
 - [[chorus]]
-- [[pitch-shifting|pitch-shifting and harmonization]]
+- [[pitch-shifting-realtime|pitch-shifting and harmonization]]
 - [[reverb|reverberation]], simulation of room acoustics
 
 These effects are split between [[fixed-delay-effects|fixed delays]] and [[variable-delay-effects|variable delays]].

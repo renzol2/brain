@@ -4,7 +4,7 @@ tags: music mus-407 electroacoustic computer digital audio sampling  bit-depth d
 
 # Bit Depth
 
-**Bit depth** (or _sample width_) in a digital audio encoding system determines the number of bits used to represent each [[sampling-signal-processing|sample]].
+**Bit depth** (or _sample width_) in a [[digital-audio|digital audio]] encoding system determines the number of bits used to represent each [[sampling-signal-processing|sample]].
 
 - i.e. the number of available resolution points to which a measured analog value can be approximated
 - 1 byte = 8 bits

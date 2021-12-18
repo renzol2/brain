@@ -4,9 +4,10 @@ tags: music mus-407 electroacoustic computer digital audio sampling sample-rate 
 
 # Sampling (Signal Processing)
 
-Sampling involves taking periodic measurements of an analog signal and assigning a digital value to each measurement.
+Sampling involves taking periodic measurements of an analog signal and assigning a digital value to each measurement, facilitating the conversion from analog audio to [[digital-audio|digital audio]].
 
 - [Sampling (Signal Processing)](#sampling-signal-processing)
+
   - [Sample Rate](#sample-rate)
   - [Bit Depth](#bit-depth)
   - [The Nyquist Frequency](#the-nyquist-frequency)
@@ -21,42 +22,15 @@ Sampling involves taking periodic measurements of an analog signal and assigning
       - [Lossy Compression](#lossy-compression)
       - [Lossy Compression File Size](#lossy-compression-file-size)
 
-## Sample Rate
+## Terms
 
-See: [[sample-rate|Sample Rate]]
-
-## Bit Depth
-
-See: [[bit-depth|Bit Depth]]
-
-## The Nyquist Frequency
-
-See: [[nyquist-frequency|Nyquist Frequency]]
-
-## Aliasing
-
-See: [[aliasing]]
-
-## Quantization Error and Dynamic Range
-
-See: [[quantization-error|quantization error]] and [[bit-depth|bit depth]]
-
-In general: greater bit depth --> higher sample resolution --> smaller quantization error --> better signal-to-noise ratio
-
-## Dither
-
-Periodic signals exhibit a regular, predictable pattern of quantization error.
-
-- smooth signals take on a more square-like appearance
-- low [[amplitude]] signals have access to fewer resolution points, and are therefore particularly prone
-- results in additional high-frequency components in the [[spectrum]], also called harmonic distortion
-
-**Dither** is a small amount of low-level noise added to an analog signal, prior to sampling/quantization, in order to randomize (and therefore eliminate) quantization error.
-
-Think: _dithering_ option when exporting audio
-
-- spreads quantization noise more evenly throughout the spectrum
-- often used when converting from higher bit depths down to 16-bit
+- [[sample-rate|Sample Rate]]
+- [[bit-depth|Bit Depth]]
+- [[nyquist-frequency|Nyquist Frequency]]
+- [[Aliasing]]
+- [[quantization-error|Quantization error]] and [[bit-depth|Bit depth]]
+  - In general: greater bit depth means higher sample resolution, which means smaller quantization error, leading to better signal-to-[[noise]] ratio
+- [[Dither]]
 
 ## Digital Audio Standards
 
