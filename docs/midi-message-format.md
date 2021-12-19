@@ -4,13 +4,13 @@ tags: mus-407 midi
 
 # MIDI Message Format
 
-A [[MIDI]] message consists of one or more _bytes_ in the following format:
+A [[MIDI]] message consists of one or more _[[byte]]s_ in the following format:
 
 - a _status_ byte followed by zero, one, or two _data_ bytes
 - status bytes begin with a `1`, data bytes begin with a `0`
 
 - 1 byte = 8 bits
-- 1 bit = smallest digital unit, corresponding to zero or one ("off" or "on")
+- 1 [[bit]] = smallest digital unit, corresponding to zero or one ("off" or "on")
 - a UART chip (Universal Asynchronous Receiver/Transmitter) receives and processes binary signal into usable data
 - MIDI messages sent at 31,250 bits/sec
   - exact division of 1 mHz to facilitate synchronization with early CPUs

@@ -19,7 +19,7 @@ Rust has a strong, static type system. However, it also has type inference.
 
 Number types:
 
-- `i32`, a 32-bit number
+- `i32`, a 32-[[bit]] number
 - `u32`, an unsigned 32-bit number
   - useful for small, positive numbers
 - `i64`, a 64-bit number

@@ -4,7 +4,7 @@ tags: mus-407 sampling
 
 # Dither
 
-**Dither** is the process of adding low-[[amplitude]] noise to an analog signal, prior to [[sampling-signal-processing|sampling]] and quantization, to introduce randomness and reduce [[noise]] from [[quantization-error|quantization error]].
+**Dither** is the process of adding low-[[amplitude]] noise to an analog signal, prior to [[sampling-signal-processing|sampling]] and [[quantization]], to introduce randomness and reduce [[noise]] from [[quantization-error|quantization error]].
 
 Periodic signals exhibit a regular, predictable pattern of quantization error.
 
