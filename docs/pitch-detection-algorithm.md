@@ -15,7 +15,7 @@ A **pitch detection algorithm (PDA)** is an [[algorithm]] that estimates the fun
 
 ## Harmonic Pitch Detection Problems
 
-Many methods assume equally spaced [[harmonic-series|harmonics]], where harmonic input models $f_n \approx n \cdot f_1$. However, many sounds do not strictly follow the harmonic series (ex: [[string-inharmonicity|stringed instruments]]).
+Many methods assume equally spaced [[harmonic]]s, where harmonic input models $f_n \approx n \cdot f_1$. However, many sounds do not strictly follow the [[harmonic-series|harmonic series]] (ex: [[string-inharmonicity|stringed instruments]]).
 
 Methods like [[spectral-peak-labeling|spectral peak labeling]] aim to somewhat remedy this issue by detecting _perceived_ pitch rather than actual pitch.
 

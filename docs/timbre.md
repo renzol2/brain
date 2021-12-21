@@ -28,3 +28,4 @@ There are several ways of analyzing timbre, including
 
 - <https://asastandards.org/Terms/timbre/>
 - <https://ccrma.stanford.edu/files/papers/stanm2.pdf>
+- [MUS 407 Sound, Acoustics, & Psychoacoustics](https://prezi.com/view/ZcqvwosFJCFJQtQrbP75/)

@@ -4,7 +4,7 @@ tags: music tuning
 
 # Just Tuning
 
-A tuning system based on the [[harmonic-series|harmonic series]], comprised of mathematically simple (integer) intervals.
+A [[tuning-systems|tuning system]] based on the [[harmonic-series|harmonic series]], comprised of mathematically simple (integer) intervals.
 
 ## Frequency Ratios
 

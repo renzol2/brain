@@ -28,3 +28,7 @@ In Western notation, pitch is often notated within the [[tet|twelve equal temper
 
 - each individual pitch falls within one of 12 [[pitch-class|pitch classes]] and some octave
 - also commonly used with [[midi|MIDI]], equating certain key number values to pitch
+
+## Sources
+
+- [MUS 407 Sound, Acoustics, & Psychoacoustics](https://prezi.com/view/ZcqvwosFJCFJQtQrbP75/)

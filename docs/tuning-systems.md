@@ -4,7 +4,7 @@ tags: music tuning mus-305
 
 # Tuning Systems
 
-Much of the history of (Western) music was figuring out tuning systems that would facilitate modulation.
+Much of the history of (Western) music was figuring out tuning systems that would facilitate key modulation.
 
 - [[just-tuning|just tuning]] is based on the naturally occurring [[harmonic-series]].
 

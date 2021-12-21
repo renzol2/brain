@@ -26,3 +26,7 @@ The Fourier theorem also has an [[fourier-inversion-theorem|inverse theorem]], w
 The Fourier Theorem can be applied to [[sound-waves|sound waves]] to pick out specific frequencies present in a [[spectrum]].
 
 > Any **sound** comprised of a periodic waveform can be expressed as a sum of [[sine-wave|sine waves]]
+
+## Sources
+
+- [MUS 407 Sound, Acoustics, & Psychoacoustics](https://prezi.com/view/ZcqvwosFJCFJQtQrbP75/)

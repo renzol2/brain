@@ -10,7 +10,7 @@ There are three general categories:
 
 1. **short delay** (<10 ms)
    - filtering, spectral coloration, comb filtering
-   - can affect the higher harmonics of a sound, depending on the delay time and the [[sample-rate|sample rate]]
+   - can affect the higher [[harmonic]]s of a sound, depending on the delay time and the [[sample-rate|sample rate]]
 2. **medium delay** (10 ms to 50 ms)
    - emphasis, bolstering, impression of increased loudness
    - still some spectral coloration from [[phase|phasing]]

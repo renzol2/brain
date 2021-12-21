@@ -8,7 +8,7 @@ A **square wave** is a periodic waveform characterized by its square-like shape 
 
 ## Sound
 
-A square wave is formed by summing only the odd [[partial]]s of the [[harmonic-series|harmonic series]], where each of the odd harmonic's [[amplitude]] is inversely proportional to its frequency.
+A square wave is formed by summing only the odd [[partial]]s of the [[harmonic-series|harmonic series]], where each of the odd harmonic's [[amplitude]] is inversely proportional to its [[frequency]].
 
 The [[timbre]] of a square wave is distinctly hollow, like a clarinet or closed-end organ pipe
 

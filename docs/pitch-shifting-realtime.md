@@ -29,4 +29,4 @@ To solve the discontinuity problem:
 
 Summed signals (dry + wet) can have phase reinforcement/cancellation issues, but usually makes for a decent real-time harmonizer.
 
-- caused by lining up delay time [[resonance]] with certain [[harmonic-series|harmonics]], boosting some while cancelling others through [[wave-interference|wave interference]] (constructive vs. destructive)
+- caused by lining up delay time [[resonance]] with certain [[harmonic]]s, boosting some while cancelling others through [[wave-interference|wave interference]] (constructive vs. destructive)
