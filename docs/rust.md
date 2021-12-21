@@ -4,6 +4,16 @@ tags: computer-science programming-languages rust
 
 # Rust
 
+- [Rust](#rust)
+  - [Types](#types)
+  - [Standard library (`std`)](#standard-library-std)
+  - [Variables](#variables)
+  - [Associated Functions](#associated-functions)
+  - [References](#references)
+  - [Enums](#enums)
+  - [`match` expression](#match-expression)
+  - [Sources](#sources)
+
 **Rust** is a programming language focused on delivering high performance with low-level access alongside an improved developer experience compared to existing low-level languages like C and C++.
 
 - runs very fast
@@ -37,16 +47,7 @@ Rust imports some packages automatically into every Rust program in the _prelude
 
 ## Variables
 
-Variables in Rust are immutable by default. You must _explicitly_ declare a variable to be mutable.
-
-```rust
-let apples = 5;  // immutable
-let mut bananas = 5;  // mutable
-```
-
-We can _shadow_ variables by declaring the variable again, oftentimes with a different type. Shadowing is often used to convert a value from one type to another.
-
-- lets us reuse variable names rather than forcing us to create two unique variables, causing confusion
+See: [[variables-rust|Variables (Rust)]]
 
 ## Associated Functions
 
