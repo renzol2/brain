@@ -4,7 +4,7 @@ tags: music hyperpop genre production
 
 # Hyperpop
 
-Hyperpop is a "microgenre" focusing on exaggerating elements from popular music. Some hyperpop artists include:
+**Hyperpop** is a "microgenre" focusing on exaggerating elements from popular music. Some hyperpop artists include:
 
 - 100 gecs
 - Sophie

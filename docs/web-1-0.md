@@ -4,7 +4,7 @@ tags: web-dev computer computer-science internet
 
 # Web 1.0
 
-A period of the internet from 1991-2004 where much of the content was "read-only", statically served from server filesystems and linked together solely through hyperlinks.
+**Web 1.0** is a period of the [[internet]] from 1991-2004 where much of the content was "read-only", statically served from server filesystems and linked together solely through hyperlinks.
 
 - Users were primarily **consumers**
 - No authentication, log-in, analytics, etc.

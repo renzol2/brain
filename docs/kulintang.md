@@ -4,9 +4,13 @@ tags: philippines music instrument kulintang culture
 
 # Kulintang
 
-The **kulintang** is an instrument consisting of a set of eight bossed-gongs in graduated sizes arranged from lowest to highest [[pitch]] and laid over a (typically) wooden frame.
+**Kulintang** refers to one of two things:
 
-- played by striking the knob of the gong with wooden sticks
+1. an instrument consisting of a set of eight bossed-gongs in graduated sizes arranged from lowest to highest [[pitch]] and laid over a (typically) wooden frame.
+2. the form of [[traditional-music|traditional music]] originating in the [[Philippines]] that utilizes the kulintang instrument
+
+The kulintang is played by striking the knob of the gong with wooden sticks
+
 - played at moderate to fast tempos with little to no rests and no sustained notes
 
 The kulintang is the main part of an instrumental [[palabunibunyan|ensemble]] along with other gongs and a skin drum, which are common among the [[Mindanao]] region of southern [[Philippines]].
