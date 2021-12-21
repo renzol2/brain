@@ -5,4 +5,4 @@ type: music-review
 
 # title
 
-[Link](youtube.com/)
+[Link](https://www.youtube.com/)
