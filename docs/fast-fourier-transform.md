@@ -11,7 +11,7 @@ A **fast Fourier transform (FFT)** is an [[algorithm]] that computes the [[discr
 
 ## Applications
 
-FFTs are important in many applications since it makes working in the frequency domain as easy as working in the time domain. This has numerous applications in mathematics, science, music and other fields.
+FFTs are important in many applications since it makes working in the [[frequency-domain|frequency domain]] as easy as working in the [[time-domain|time domain]]. This has numerous applications in mathematics, science, music and other fields.
 
 For music:
 

@@ -10,7 +10,7 @@ A **pitch detection algorithm (PDA)** is an [[algorithm]] that estimates the fun
 
 - [[fast-fourier-transform|FFT]]: within the [[frequency]] domain, FFTs are often used for their fast [[runtime]]
   - variations include [[short-time-fourier-transform|STFTs]]
-- **YAAPT** (yet another algorithm for pitch tracking) algorithm uses a combination of time and frequency domain processing combined with [[dynamic-programming|dynamic programming]] to find the most likely fundamental
+- **YAAPT** (yet another algorithm for pitch tracking) algorithm uses a combination of [[time-domain]] and [[frequency-domain]] processing combined with [[dynamic-programming|dynamic programming]] to find the most likely fundamental
 - [[cepstral-pitch-detection|Cepstral Pitch Detection]] uses the [[cepstrum]] of a signal to determine the fundamental even when it's quieter than other [[partial]]s
 
 ## Harmonic Pitch Detection Problems

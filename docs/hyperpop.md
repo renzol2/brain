@@ -4,7 +4,7 @@ tags: music hyperpop genre production
 
 # Hyperpop
 
-**Hyperpop** is a "microgenre" focusing on exaggerating elements from popular music. Some hyperpop artists include:
+**Hyperpop** is a "microgenre" focusing on exaggerating elements from [[popular-music|popular music]]. Some hyperpop artists include:
 
 - 100 gecs
 - Sophie
@@ -15,10 +15,10 @@ tags: music hyperpop genre production
 
 Since hyperpop serves as an exaggerated take on popular music, it uses many fundamental elements found in popular music but in "exaggerated ways":
 
-- **Piano, guitar**: usually samples, spliced or [[pitch]]-shifted drastically (see: [[sampling-composition]])
-- **Drums**: hip-hop/pop drums, sampled and distorted/saturated
+- **Piano, guitar**: usually [[sampling-composition|samples]], spliced or [[pitch]]-shifted drastically
+- **Drums**: [[hip-hop]]/[[pop-music|pop]] drums, sampled and distorted/saturated
 - **808s**: distorted/saturated, often to an extent most radio pop music would avoid
-- "Earworm" **vocals** with heavy effects, heavily layered and pitch-shifted beyond realism
+- "Earworm" **vocals** with heavy effects, heavily layered and [[pitch-shifting|pitch-shifted]] beyond realism
 
 ## Form
 
@@ -34,8 +34,8 @@ Elements used:
 
 - piano/guitar
 - synths
-  - simple [[sine-wave|sine]]/square waves
-  - atmospheric, reverb/delay-heavy pads
+  - simple [[sine-wave|sine]]/[[square-wave|square]] waves
+  - atmospheric, [[reverb]]/[[digital-delay-line|delay]]-heavy pads
 - vocals
 
 ### Chorus

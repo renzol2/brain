@@ -4,6 +4,16 @@ tags: music mus-407 electroacoustic dynamic-range dynamics
 
 # Dynamic Range Processing
 
+- [Dynamic Range Processing](#dynamic-range-processing)
+  - [Key Concepts](#key-concepts)
+  - [Types](#types)
+  - [More Terms & Techniques](#more-terms--techniques)
+    - [DRP Considerations](#drp-considerations)
+    - [Attack, Hold, Release](#attack-hold-release)
+    - [Upward/Downward Compression & Expansion](#upwarddownward-compression--expansion)
+    - [Side-Chaining](#side-chaining)
+  - [Transfer Function Examples](#transfer-function-examples)
+
 Dynamic range processing transforms the amplitude of signals. A _dynamic range process_ (DRP) changes a signal's [[dynamic-range|dynamic range]] by altering its [[amplitude]].
 
 - measuring signal amplitude
@@ -61,7 +71,7 @@ DRPs may involve a "look ahead" time to properly anticipate signal levels
 
 DRPs generally have more applications in recording/live sound.
 
-In electroacoustic [[music-composition|composition]], traditional application of DRP is less useful
+In [[electroacoustic-music|electroacoustic]] [[music-composition|composition]], traditional application of DRP is less useful
 
 - composer has complete control over levels during compositional process
 - can usually go back and adjust levels as necessary

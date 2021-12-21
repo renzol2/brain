@@ -4,7 +4,7 @@ tags: music production composition composer composers-forum rhythmicity hybridit
 
 # Rhythmicity and Hybridity
 
-An illusory duality between the acoustic and the electroacoustic
+An illusory duality between the acoustic and the [[electroacoustic-music|electroacoustic]]
 
 - affects the way we perceive acoustic vs electro acoustic writing
 

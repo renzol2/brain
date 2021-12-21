@@ -16,9 +16,9 @@ $$
 
 ## Steps
 
-1. Begin with an original signal, measured in the time domain
+1. Begin with an original signal, measured in the [[time-domain|time domain]]
 2. [[spectrum-analysis-window|Window]] the signal in preparation for [[fast-fourier-transform|FFT]]
-3. Use FFT to get the magnitude [[spectrum]] $|X(e^{j\omega})|$ of the signal in the frequency domain
+3. Use FFT to get the magnitude [[spectrum]] $|X(e^{j\omega})|$ of the signal in the [[frequency-domain|frequency domain]]
 4. Get the log magnitude spectrum, $log|X(e^{j\omega})|$ (measured in dB)
 5. Take the [[fourier-inversion-theorem|inverse Fourier transform]] to obtain the real cepstrum $c_x[n]$
 

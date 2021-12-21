@@ -11,7 +11,7 @@ In our [[circular-queue|circular buffer]]:
 - `W`/`R` pointers move at different speeds in the same direction
 - if `R` is faster than `W`, output pitch is higher than input
 - if `R` is slower than `W`, output pitch is lower than input
-- modulate the delay time with a sawtooth wave to simulate a constant increase/decrease in speed of `R`
+- modulate the delay time with a [[sawtooth-wave|sawtooth wave]] to simulate a constant increase/decrease in speed of `R`
   - polarity (upward/downward slope) affects direction of pitch shift
   - magnitude of slope affects affects interval/distance of pitch shift
 
@@ -23,7 +23,7 @@ To solve the discontinuity problem:
 
 - create several `R` pointers spaced out along circular queue, all moving at the same speed
 - use [[amplitude-modulation|amplitude modulation]] on each `R` pointer
-- modulate the [[amplitude]] of each `R` pointer's output by unipolar [[sine-wave|sine]]/triangle wave
+- modulate the [[amplitude]] of each `R` pointer's output by unipolar [[sine-wave|sine]]/[[triangle-wave|triangle]] wave
 - control initial [[phase]] of each oscillator so circular queue discontinuity aligns with zero crossing of modular signal
 - sum R pointer outputs together
 

@@ -34,7 +34,7 @@ Each FFT has a different purpose:
 
 1. "Normal" window function :$h(t)$. Used for computing [[spectrum]] magnitudes, and for **normalizing** time and frequency correction values from FFT #2 and #3
 2. Time-weighted window function: $t \cdot h(t)$. Values early in window are scaled negative, while those late the in window are scaled positive. The FFT integral of these scaled values leads to time correction.
-3. Frequency-weighted window function: $dh(t)/dt$. _Derivative_ is the frequency domain equivalent of FFT #2's time correction. FFT integral of these values leads to frequency correction.
+3. Frequency-weighted window function: $dh(t)/dt$. _Derivative_ is the [[frequency-domain|frequency domain]] equivalent of FFT #2's time correction. FFT integral of these values leads to frequency correction.
 
 This method of reassignment leads to better interpolation than [[quadratic-interpolation|quadratic "Smith Interpolation"]]
 

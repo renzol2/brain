@@ -13,7 +13,7 @@ There are many practical applications to frequency decomposition, including:
 - deconstructing earthquake vibrations of different speeds and strengths to optimize architectural designs to withstand earthquakes
 - deconstructing computer data for use in file compression, to ignore less important frequencies and keep important ones
 
-To perform frequency decomposition, [[fourier-transform|Fourier transforms]] are used to deconstruct a continuous signal in the time domain into a signal in the frequency domain.
+To perform frequency decomposition, [[fourier-transform|Fourier transforms]] are used to deconstruct a continuous signal in the [[time-domain|time domain]] into a signal in the frequency domain.
 
 In digital signal processing, a [[discrete-fourier-transform|Discrete Fourier Transform (DFT)]] is used to convert a digital representation of a signal (finite sequence of equally-spaced samples) into a function of frequency. In practical applications, the DFT is implemented using Fast Fourier Transform (FFT).
 

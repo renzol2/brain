@@ -8,7 +8,7 @@ tags: mus-407 sampling
 
 Periodic signals exhibit a regular, predictable pattern of quantization error.
 
-- smooth signals take on a more square-like appearance
+- smooth signals take on a more [[square-wave|square]]-like appearance
 - low [[amplitude]] signals have access to fewer resolution points, and are therefore particularly prone
 - results in additional high-[[frequency]] components in the [[spectrum]], also called harmonic distortion
 - **dithering** is the solution to spreading the noise across the spectrum
