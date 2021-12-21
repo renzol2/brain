@@ -24,3 +24,7 @@ $10^{12}$ → the ratio of the greatest intensity we can tolerate to the smalles
 - annoyingly large range of numbers to work with, resulting in the [[decibel]] unit
 
 [[envelope|Envelopes]] are used to describe amplitude over time.
+
+## Sources
+
+- [MUS 407 Sound, Acoustics, & Psychoacoustics](https://prezi.com/view/ZcqvwosFJCFJQtQrbP75/)

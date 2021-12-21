@@ -15,6 +15,11 @@ A **sound spectrum** is a representation of [[sound-waves|sound]] in terms of [[
 
 Almost all sounds are _complex_ vibrations; they can be periodic, but most are not simply [[sine-wave|sinusoidal]].
 
+In some contexts, spectra can be considered _harmonic_ or _[[inharmonicity|inharmonic]]_:
+
+- **harmonic spectrum:** only harmonic partials are present
+- **inharmonic spectrum:** at least one inharmonic partial is present
+
 ## Sources
 
 - <https://newt.phys.unsw.edu.au/jw/sound.spectrum.html>

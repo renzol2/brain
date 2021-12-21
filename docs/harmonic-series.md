@@ -12,6 +12,10 @@ A sound is _harmonic_ if its [[spectrum]] exhibits characteristics of the harmon
 - some instruments are harmonically rich and produce harmonic spectra
 - others are [[inharmonicity|inharmonic]] and produce [[noise]]-like spectra, or produce both at the same time
 
+The first 16 harmonics of the harmonic series can be closely approximated with standard musical notation:
+
+![Harmonic series approximation](../attachments/harmonic-series-approximation.png)
+
 ## Sources
 
 - <https://en.wikipedia.org/wiki/Harmonic_series_(music)>

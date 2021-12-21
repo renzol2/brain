@@ -4,7 +4,7 @@ tags: ece-402 dsp synthesis
 
 # Band Limited Sawtooth
 
-A **band-limited sawtooth** is a sawtooth wave that has been [[bandlimiting|band-limited]], i.e. it has no [[frequency]] content above a certain threshold (in this case, $SR/2$).
+A **band-limited sawtooth** is a [[sawtooth-wave|sawtooth wave]] that has been [[bandlimiting|band-limited]], i.e. it has no [[frequency]] content above a certain threshold (in this case, $SR/2$).
 
 - called "Engineer's Sawtooth" by Haken; a perfect, [[digital-audio|digital audio]] sawtooth
   - contrast to the "Noob's sawtooth", which is just the naïve implementation of a sawtooth that causes [[aliasing]] due to no bandlimiting
