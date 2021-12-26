@@ -9,7 +9,7 @@ A **preamplifier** is a circuit designed to _specifically_ boost [[mic-level|mic
 - USB mics have a preamp and an analog-digital converter built in
 - preamplifiers (and many other audio definitions) are generalizations
   - implementations vary widely
-- preamps can be standalone units, but are often built into other hardware (mixers, audio interfaces, handheld recorders)
+- preamps can be standalone units, but are often built into other hardware ([[mixer]]s, audio interfaces, handheld recorders)
 - labels on [[audio-hardware|audio hardware]] specify expected I/O level standards
 
 ## Sources

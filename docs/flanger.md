@@ -14,7 +14,7 @@ Early notable use in _Mammy's Boogie_, Les Paul (1945)
 
 - two tape recorders with identical input
 - pressure applied to flange (edge of tape reel) to vary speed slightly
-- mixer combines two inputs
+- [[mixer]] combines two inputs
 
 ## Digital Implementation
 

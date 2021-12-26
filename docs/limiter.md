@@ -8,7 +8,7 @@ A **limiter** is a [[docs/compression|compressor]] with an extremely high ratio,
 
 Limiters are used when preventing clipping/overloading has top priority, e.g.:
 
-- operating in a volatile digital system, such as live coding or a no-input mixer performance
+- operating in a volatile digital system, such as live coding or a no-input [[mixer]] performance
 - recording in a live concert setting to prevent overloading the absolute dynamic range of any component in the recording chain
 - to prevent damage to irreplaceable equipment
 - when there is only one opportunity to capture a unique recording

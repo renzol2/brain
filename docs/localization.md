@@ -4,7 +4,7 @@ tags: mus-407 audio
 
 # Localization
 
-If two equidistant loud speakers reproduce the same signal, source "image" appears in-between.
+If two equidistant [[loudspeakers]] reproduce the same [[audio-signal|signal]], source "image" appears in-between.
 
 ![localization](../attachments/localization-baseline.png)
 

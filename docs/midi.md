@@ -52,7 +52,7 @@ MIDI messages consisted of a very small amount of binary data - an overall very 
 
 MIDI is **still widely used today**.
 
-- applications in DAWs and [[digital-synthesizers|digital synths]], mixers, effects units, recording gear (MIDI Machine Control or MMC), video software, theatre/live events, lighting boards, water fountains, pyrotechnics, etc.
+- applications in DAWs and [[digital-synthesizers|digital synths]], [[mixer]]s, effects units, recording gear (MIDI Machine Control or MMC), video software, theatre/live events, lighting boards, water fountains, pyrotechnics, etc.
 
 ## Hardware
 

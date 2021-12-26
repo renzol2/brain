@@ -11,7 +11,7 @@ A **compressor** is an amplifier whose gain is determined by an input [[audio-si
 Frequently used to regulate a "peaky" signal during recording, i.e. to provide a more constant and predictable level
 
 - e.g. rock drum set, swaying vocalist
-- essentially, automates mixer input faders to avoid manual adjustment
+- essentially, automates [[mixer]] input faders to avoid manual adjustment
 
 Compression is also used during mixing/mastering to provide a higher overall mix level.
 

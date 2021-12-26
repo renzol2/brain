@@ -10,8 +10,10 @@ tags: mus-407 sound-reproduction-systems
 
 Certain [[audio-hardware]] devices act as transducers:
 
-- Microphones are **input transducers:** acoustic to electrical energy
-- Loudspeakers are **output transducers:** electrical to acoustic energy
+- [[Microphones]] are **input transducers:** acoustic to electrical energy
+- [[Loudspeakers]] are **output transducers:** electrical to acoustic energy
+
+In this case, "electrical energy" refers to [[electrical-current]], while "acoustic energy" refers to [[sound-waves]]
 
 ## Sources
 
