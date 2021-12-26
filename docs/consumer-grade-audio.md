@@ -6,7 +6,7 @@ tags: mus-407 sound-reproduction-systems
 
 **Consumer-grade audio** is an [[audio-signal|audio signal]] [[audio-signal-specifications|specification]] with the following characteristics:
 
-- lower [[audio-level-standards|line level]]:
+- lower [[line-level|line level]]:
   - peak 0.42 V, average 0.3 V
 - two conductor audio cables
 - long cable runs are susceptible to electromagnetic interference
