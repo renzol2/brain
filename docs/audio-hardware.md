@@ -8,7 +8,7 @@ tags: mus-407 sound-reproduction-systems
 
 Audio hardware includes the following:
 
-1. microphones
+1. [[Microphones]]
 2. [[connectors-audio|Connectors]]
 3. loudspeakers
 4. mixers

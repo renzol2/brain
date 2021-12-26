@@ -2,7 +2,7 @@
 tags: mus-407 sound-reproduction-systems
 ---
 
-# MUS 407 Notes
+# Sound Reproduction Systems
 
 ## Sources
 

@@ -15,7 +15,7 @@ There are four main standard levels, from lowest to highest average voltage:
 
 ## Mic Level
 
-Output from microphones & instrument pickups are usually at **mic level**.
+Output from [[microphones]] & instrument pickups are usually at **mic level**.
 
 - weakest level by many magnitudes
 - requires reamplification to line level for further signal processing
