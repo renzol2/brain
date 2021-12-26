@@ -4,7 +4,7 @@ tags: ece-402 dsp synthesis spectral-analysis
 
 # Spectral Modeling Synthesis
 
-**Spectral modeling synthesis (SMS)** is a [[sound-waves|sound]] analysis/[[sound-synthesis|synthesis]] model for analyzing and synthesizing speech and other signals. SMS assumes that any audio signal can be split into two parts: a [[harmonic-series|harmonic]] and [[inharmonicity|inharmonic]] component.
+**Spectral modeling synthesis (SMS)** is a [[sound-waves|sound]] analysis/[[sound-synthesis|synthesis]] model for analyzing and synthesizing speech and other [[audio-signal|signal]]s. SMS assumes that any audio signal can be split into two parts: a [[harmonic-series|harmonic]] and [[inharmonicity|inharmonic]] component.
 
 The harmonic component is represented by peaks in the [[frequency]] [[spectrum]]
 

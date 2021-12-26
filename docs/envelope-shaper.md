@@ -4,7 +4,7 @@ tags: music mus-407 electroacoustic dynamic-range envelope-shaper envelope trans
 
 # Envelope Shaper
 
-An **envelope shaper** (also **enveloper** or **transient shaper**) modifies a signal's [[amplitude]] by applying an [[envelope]].
+An **envelope shaper** (also **enveloper** or **transient shaper**) modifies an [[audio-signal|signal]]'s [[amplitude]] by applying an [[envelope]].
 
 - a threshold is used to detect [[transient|transients]] and determine when to apply an envelope
 - according to Fieldsteel, basically a [[compression|compressor]]

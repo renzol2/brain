@@ -4,7 +4,7 @@ tags: mus-407 digital-audio delay
 
 # Digital Delay Line
 
-A **digital delay line (DDL)** stores a sequence of [[sampling-signal-processing|audio samples]] in memory and outputs them after a period of time.
+A **digital delay line (DDL)** is a type of [[audio-signal|audio signal]] processing that stores a sequence of [[sampling-signal-processing|audio samples]] in memory and outputs them after a period of time.
 
 - can be _any_ period of time
 
@@ -50,7 +50,7 @@ Basic DDL (inherently stable):
 
 ![Basic DDL Signal Flow](../attachments/basic-ddl-signal-flow.png)
 
-Basic DDL with [[feedback]] (unstable if delayed signal amplitude > 1):
+Basic DDL with [[feedback]] (unstable if delayed signal [[amplitude]] > 1):
 
 ![Basic DDL with feedback](../attachments/basic-ddl-with-feedback-signal-flow.png)
 

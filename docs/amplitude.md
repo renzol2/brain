@@ -10,7 +10,7 @@ tags: mus-407 sound sound-properties amplitude
 
 Acoustic **power**, measured in Watts (W) measures the rate at which energy is converted (Joules per second)
 
-- commonly indicated on signal amplifiers
+- commonly indicated on [[audio-signal|signal]] amplifiers
 
 [[sound-waves|Sound]] **intensity** measures power distributed over a unit area
 

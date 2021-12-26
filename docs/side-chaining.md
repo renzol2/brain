@@ -4,7 +4,7 @@ tags: music production mus-407 side-chaining drp dynamics dynamic-range dynamic-
 
 # Side-Chaining
 
-**Side-chaining** refers to a signal routing configuration in which a _source_ signal controls an effect, while the results are applied to a different, _target_ signal
+**Side-chaining** refers to a [[audio-signal|signal]] routing configuration in which a _source_ signal controls an effect, while the results are applied to a different, _target_ signal
 
 - frequently used with [[dynamic-range-processing|DRP]], can be used with other types of effects
 - can be viewed as a type of [[modulation-synthesis]]

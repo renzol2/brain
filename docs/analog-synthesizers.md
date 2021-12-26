@@ -37,10 +37,10 @@ Development partly driven by frustration with magnetic tape and its tedious meth
 
 The earliest synthesizers were:
 
-- **analog**: all information represented as continuous electrical - signals
+- **analog**: all information represented as [[alternating-current|continuous electrical signals]]
   - initially, no [[digital-audio|digital audio]] or digital technology
 - **modular**: consisting of multiple, independent units, each with a dedicated task
-- **voltage-controlled**: all modules receive, process, and output signals based on AC or DC voltages of electrical currents
+- **voltage-controlled**: all modules receive, process, and output signals based on AC or [[direct-current|DC]] voltages of [[electrical-current|electrical currents]]
 
 ### Modular
 

@@ -4,7 +4,7 @@ tags: ece-402 dsp
 
 # Pitch Detection Algorithm
 
-A **pitch detection algorithm (PDA)** is an [[algorithm]] that estimates the fundamental [[pitch]] of a signal, usually that of a musical note or tone. There is no ideal PDA, so several algorithms exist.
+A **pitch detection algorithm (PDA)** is an [[algorithm]] that estimates the fundamental [[pitch]] of a [[audio-signal|signal]], usually that of a musical note or tone. There is no ideal PDA, so several algorithms exist.
 
 ## Algorithms
 

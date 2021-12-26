@@ -11,7 +11,7 @@ tags: music mus-407 electroacoustic computer digital audio
   - [File Formats](#file-formats)
   - [Sources](#sources)
 
-**Digital audio** is the representation of [[sound-waves|sound]] in a digital realm. Digital audio represents sound as a sequence of discrete values, each value representing a measurement of air pressure at a given point in time.
+**Digital audio** is the representation of [[sound-waves|sound]] in a digital realm. Digital audio represents sound as a finite sequence of discrete values within an [[audio-signal|audio signal]], with each value representing a measurement of air pressure at a given point in time.
 
 ## Key Terms
 

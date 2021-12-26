@@ -24,7 +24,7 @@ tags: midi music mus-407 mus-305 electroacoustic
 - electrically transmitted as binary data
 - capable of representing/recreating a musical performance
 
-MIDI is **_not_** an audio signal
+MIDI is **_not_** an [[audio-signal|audio signal]]
 
 - It knows _nothing_ about the actual [[sound-waves|sound]] it is playing - it simply knows the names of the instruments it is representing
 - MIDI is _just data_, fully divorced from sound and can be extracted from musical performance to other use cases

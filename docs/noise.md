@@ -4,7 +4,7 @@ tags: mus-407 ece-402 audio signal-processing dsp
 
 # Noise
 
-In audio and signal processing, **noise** refers to a a [[sound-waves|sound]] with a broadband [[spectrum]] of [[frequency|frequencies]].
+In [[audio-signal|audio signal]] processing, **noise** refers to a a [[sound-waves|sound]] with a broadband [[spectrum]] of [[frequency|frequencies]].
 
 - on its own, sounds like a hiss (usually high frequency but can be low as well)
 - considered [[inharmonicity|inharmonic]]

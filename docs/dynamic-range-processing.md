@@ -14,7 +14,7 @@ tags: music mus-407 electroacoustic dynamic-range dynamics
     - [Side-Chaining](#side-chaining)
   - [Transfer Function Examples](#transfer-function-examples)
 
-Dynamic range processing transforms the amplitude of signals. A _dynamic range process_ (DRP) changes a signal's [[dynamic-range|dynamic range]] by altering its [[amplitude]].
+Dynamic range processing transforms the amplitude of [[audio-signal|audio signals]]. A _dynamic range process_ (DRP) changes a signal's [[dynamic-range|dynamic range]] by altering its [[amplitude]].
 
 - measuring signal amplitude
 - adjusts signal amplitude based on measured value

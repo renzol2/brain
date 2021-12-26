@@ -4,7 +4,7 @@ tags: mus-407
 
 # Quantization
 
-**Quantization** is the process of approximating a measured analog value from an analog signal to the closest digital value.
+**Quantization** is the process of approximating a measured analog value from an analog [[audio-signal|signal]] to the closest digital value.
 
 - used in ADC (analog-to-digital conversion)
 

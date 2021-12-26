@@ -4,7 +4,7 @@ tags: music compression mus-407 production dynamics drp dynamic-range-compressio
 
 # Compression
 
-A **compressor** is an amplifier whose gain is determined by an input signal level
+A **compressor** is an amplifier whose gain is determined by an input [[audio-signal|signal]] level
 
 - when signal level > [[amplitude]] threshold, compression effect becomes active and attenuates a signal
 
@@ -48,4 +48,4 @@ A **multi-band compressor** divides a full [[spectrum]] signal into discrete [[d
 
 ## Parallel Compression
 
-[[parallel-compression|Parallel compression]] involves blending an original dry signal with a compressed duplicate of the original signal (wet).
+[[parallel-compression|Parallel compression]] involves blending an original [[dry-wet-signal|dry signal]] with a compressed duplicate of the original signal (wet).

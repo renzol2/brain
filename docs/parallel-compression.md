@@ -4,7 +4,7 @@ tags: compression dynamic-range production music
 
 # Parallel Compression
 
-Parallel compression is a [[docs/compression|compression]] technique that involves blending an original dry signal with a compressed duplicate of the original signal (wet)
+Parallel compression is a [[docs/compression|compression]] technique that involves blending an original [[dry-wet-signal|dry signal]] with a compressed duplicate of the original signal (wet)
 
 - offers a "best of both worlds" between the [[dynamic-range|dynamic range]] of an uncompressed track and the control of a compressed track by applying compression "in parallel".
 

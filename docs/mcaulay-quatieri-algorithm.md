@@ -27,7 +27,7 @@ Compared to other [[spectral-analysis|spectral analysis]] techniques:
      - Main Lobe Width: minimum frequency separation between partials
      - Side Lobe Attenuation: usually around -90 dB
    - Different sounds have different trade-offs between these parameters
-2. Window and FFT the signal. Keep only peaks in [[spectrum]]: for each peak, store the bin frequency, magnitude, and [[phase]].
+2. Window and FFT the [[audio-signal|signal]]. Keep only peaks in [[spectrum]]: for each peak, store the bin frequency, magnitude, and [[phase]].
    - Modification: _improve frequency estimate of each peak_
      - use [[quadratic-interpolation|quadratic phase interpolation]] draw vertical parabola through peak magnitude and its left and right neighbor ("Smith Interpolation")
      - improved frequency estimate is at the top of parabola

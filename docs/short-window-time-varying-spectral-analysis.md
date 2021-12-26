@@ -4,7 +4,7 @@ tags: ece-402 dsp spectral-analysis
 
 # Short Window Time-Varying Spectral Analysis
 
-**Short Window Time-Varying Spectral Analysis** is a form of [[time-varying-spectral-analysis|time-varying spectral analysis]] that analyzes only a short segment of a signal, rather than the entire signal.
+**Short Window Time-Varying Spectral Analysis** is a form of [[time-varying-spectral-analysis|time-varying spectral analysis]] that analyzes only a short segment of a [[audio-signal|signal]], rather than the entire signal.
 
 - models how the human ear analyzes [[frequency|frequencies]] over short segments of [[sound-waves|sound]] (about 10-20 ms in length)
 - used to perform [[spectral-analysis|spectral analysis]] comparable to human hearing

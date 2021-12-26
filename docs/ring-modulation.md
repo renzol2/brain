@@ -4,7 +4,7 @@ tags: mus-305
 
 # Ring Modulation
 
-In ring modulation, two signals of [[docs/frequency|frequencies]] $f_1$ and $f_2$ are multiplied, which results in *sum* and *difference* tones: $f_1+f_2$ and $|f_1-f_2|$.
+In ring modulation, two [[audio-signal|signal]]s of [[docs/frequency|frequencies]] $f_1$ and $f_2$ are multiplied, which results in *sum* and *difference* tones: $f_1+f_2$ and $|f_1-f_2|$.
 
 ![Ring modulation example](../attachments/ring-modulation-example.png)
 

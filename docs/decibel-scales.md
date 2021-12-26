@@ -17,6 +17,8 @@ There are **two** distinct cases of the [[decibel]] scale for use of measurement
 
 ## Electrical signal level
 
+Decibels are often used to describe [[audio-signal|audio signal]] levels.
+
 - **analog**: `dBV` (voltage) , `dBu` (unloaded)
 - **digital**: `dBFS` (relative to _full scale_)
 - What does 0 dB mean?

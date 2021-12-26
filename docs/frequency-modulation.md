@@ -4,7 +4,7 @@ tags: music synthesis frequency modulation mus-305 mus-407
 
 # Frequency Modulation
 
-In **frequency modulation** (FM), the [[frequency]] of a _carrier_ signal is altered by a _modulator_ signal.
+In **frequency modulation** (FM), the [[frequency]] of a _carrier_ [[audio-signal|signal]] is altered by a _modulator_ signal.
 
 Deviations of the carrier causes spectral "sidebands" (additional frequencies) at multiples of the modulator above and below the carrier frequency.
 

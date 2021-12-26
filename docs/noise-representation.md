@@ -4,7 +4,7 @@ tags: ece-402 dsp
 
 # Noise Representation
 
-In DSP, **noise representation** refers to the methods in which [[noise]] in a signal is both [[spectral-analysis|analyzed]] and [[sound-synthesis|synthesized]].
+In DSP, **noise representation** refers to the methods in which [[noise]] in a [[audio-signal|signal]] is both [[spectral-analysis|analyzed]] and [[sound-synthesis|synthesized]].
 
 Within [[mcaulay-quatieri-algorithm|McAulay-Quatieri]] analysis, noise is modeled by short & jittery [[partial]]s.
 

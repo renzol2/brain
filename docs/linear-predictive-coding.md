@@ -8,7 +8,7 @@ tags: ece-402 dsp cross-synthesis
 
 LCP is used in a variety of contexts:
 
-- audio signal processing
+- [[audio-signal|audio signal]] processing
 - speech processing
 - speech analysis
 - speech coding

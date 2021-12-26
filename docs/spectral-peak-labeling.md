@@ -18,7 +18,7 @@ Spectral peak labeling attempts to distinguish between the following:
 
 ## Steps
 
-- Take a [[long-window-time-varying-spectral-analysis|long window]] of the signal
+- Take a [[long-window-time-varying-spectral-analysis|long window]] of the [[audio-signal|signal]]
 - After [[spectrum-analysis-window|windowing]] (with something like [[kaiser-window|Kaiser]]), perform time-frequency analysis utilizing [[time-frequency-reassignment|TFR]]
 - Calculate _perceived_ pitch based on measured partials
 - Calculate how flat/sharp each partial is based on the perceived pitch

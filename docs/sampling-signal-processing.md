@@ -4,7 +4,7 @@ tags: music mus-407 electroacoustic computer digital audio sampling sample-rate 
 
 # Sampling (Signal Processing)
 
-Sampling involves taking periodic measurements of an analog signal and assigning a digital value to each measurement, facilitating the conversion from analog audio to [[digital-audio|digital audio]].
+Sampling involves taking periodic measurements of an analog [[audio-signal|signal]] and assigning a digital value to each measurement, facilitating the conversion from analog audio to [[digital-audio|digital audio]].
 
 - [Sampling (Signal Processing)](#sampling-signal-processing)
   - [Concepts](#concepts)

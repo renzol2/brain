@@ -4,7 +4,7 @@ tags: mus-407 digital-audio
 
 # Quantization Error
 
-The discrepancy between an analog signal's true value and its [[quantization|quantized]] approximation is called **quantization error.**
+The discrepancy between an analog [[audio-signal|signal]]'s true value and its [[quantization|quantized]] approximation is called **quantization error.**
 
 - the amount of rounding we had to do to fit the [[sampling-signal-processing|samples]] into our [[digital-audio|digital]] recording system
 - quantization error is heard as [[noise]] in the digital signal

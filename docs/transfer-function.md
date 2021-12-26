@@ -4,7 +4,7 @@ tags: dynamic-range-processing mus-407 compression expansion
 
 # Transfer Function
 
-A **transfer function** converts a signal input to an output, usually applying some change. In [[dynamic-range-processing|DRP]], the signals are measured in [[decibel|dB]], and the shape of the transfer function determines the effect.
+A **transfer function** converts a [[audio-signal|signal]] input to an output, usually applying some change. In [[dynamic-range-processing|DRP]], the signals are measured in [[decibel|dB]], and the shape of the transfer function determines the effect.
 
 Example with downward [[compression]]:
 

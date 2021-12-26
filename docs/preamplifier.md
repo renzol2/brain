@@ -1,0 +1,17 @@
+---
+tags: mus-407 sound-reproduction-systems
+---
+
+# Preamplifier
+
+A **preamplifier** is a circuit designed to _specifically_ boost [[audio-level-standards|mic level to line level]] with maximal preservation of [[audio-signal|signal]] integrity.
+
+- USB mics have a preamp and an analog-digital converter built in
+- preamplifiers (and many other audio definitions) are generalizations
+  - implementations vary widely
+- preamps can be standalone units, but are often built into other hardware (mixers, audio interfaces, handheld recorders)
+- labels on audio hardware specify expected I/O level standards
+
+## Sources
+
+- MUS 407 Sound Reproduction Systems

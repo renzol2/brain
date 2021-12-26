@@ -11,7 +11,7 @@ A **compander** combines the functionality of a compressor ([[docs/compression|c
 
 Companders are historically used in analog tape recording.
 
-- input signal is compressed to allow recording at high levels while avoiding tape saturation
+- input [[audio-signal|signal]] is compressed to allow recording at high levels while avoiding tape saturation
 - output signal is expanded on reproduction to attenuate tape [[noise]] and return peaks and [[transient]]s to original level
 - result is a low-noise but wide [[dynamic-range|dynamic range]] recording
 
