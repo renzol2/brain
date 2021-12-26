@@ -41,7 +41,8 @@
     "particleWidth": 1.2,
     "highlightedForeground": "#CC6577",
     "node": {
-      "music-review": "teal"
+      "music-review": "teal",
+      "daily-note": "purple"
     }
   },
   "editor.lineNumbers": "off",
