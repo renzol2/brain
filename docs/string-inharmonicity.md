@@ -6,7 +6,7 @@ tags: ece-402 dsp pitch-detection
 
 **String inharmonicity** refers to the phenomenon of stringed instruments, like piano and guitar, having its higher [[harmonic]]s deviate from the [[harmonic-series|harmonic series]].
 
-Most spectrally harmonic instruments have [[partial]]s that follow the harmonic series, i.e. [[partial]] $n$ has the following [[frequency]] $f_n$ based on the fundamental frequency $f_1$:
+Most spectrally harmonic instruments have [[partial]]s that follow the harmonic series, i.e. [[partial]] $n$ has the following [[frequency]] $f_n$ based on the [[fundamental]] frequency $f_1$:
 
 $$
 f_n = n \cdot f_1

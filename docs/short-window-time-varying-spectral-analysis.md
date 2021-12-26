@@ -15,7 +15,7 @@ The proper way to extract a short signal segment is to multiply the longer, orig
 
 Short window analysis is best for monophonic, "quasi-harmonic" input sounds.
 
-- **quasi-harmonic**: [[partial]]s of the sound should be very close to integer multiples of the fundamental
+- **quasi-harmonic**: [[partial]]s of the sound should be very close to integer multiples of the [[fundamental]]
 - for best results, recording should have as little [[reverb]] as possible
 - for the sake of analysis, reverb makes a monophonic sound polyphonic!
 

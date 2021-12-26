@@ -8,10 +8,10 @@ The **Fourier theorem** states that any periodic waveform can be expressed as a 
 
 Every period wave consists of:
 
-- a fundamental [[frequency]]
+- a [[fundamental]] [[frequency]]
   - the fundamental is the lowest frequency that is present in a complex vibration
   - if the fundamental is the _only_ frequency present in the waveform, we are dealing with a [[sine-wave|sine wave]]
-- some number of **overtones**
+- some number of [[overtone|overtones]]
 
 All these sine waves are collectively called [[partial]]s
 

@@ -12,7 +12,7 @@ For example, spectral peak labeling can help in piano tuning, where low piano st
 
 Spectral peak labeling attempts to distinguish between the following:
 
-- $F_0$: the fundamental frequency/first partial
+- $F_0$: the [[fundamental]] frequency/first [[partial]]
 - **Pitch detect**: the _perceived_ [[pitch]]
 - **Strike note**: the pitch from a particular point in the sound onset/[[transient]], after which the sound changes to another or indeterminate pitch and the initial pitch disappears
 

@@ -4,7 +4,7 @@ tags: history analog synthesizers music mus-407 electroacoustic midi
 
 # Analog Synthesizers
 
-An **analog synthesizer** is a device used to [[sound-synthesis|synthesize sound]] electronically using analog circuits.
+An **analog synthesizer** is a [[synthesizer]] device used to [[sound-synthesis|synthesize sound]] electronically using analog circuits.
 
 - [Analog Synthesizers](#analog-synthesizers)
   - [History](#history)

@@ -4,7 +4,7 @@ tags: mus-407 harmonic-series
 
 # Harmonic
 
-A **harmonic** is an overtone/[[partial]] whose [[frequency]] is an integer multiple of the fundamental.
+A **harmonic** is an overtone/[[partial]] whose [[frequency]] is an integer multiple of the [[fundamental]].
 
 - central component of the [[harmonic-series|harmonic series]]
 

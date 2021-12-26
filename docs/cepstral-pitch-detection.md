@@ -4,7 +4,7 @@ tags: ece-402 dsp pitch-detection
 
 # Cepstral Pitch Detection
 
-**Cepstral pitch detection** is the process of analyzing the [[cepstrum]] of an [[audio-signal|audio signal]] to determine the signal's fundamental [[frequency]]/[[pitch]], usually that of an instrument or vocalist.
+**Cepstral pitch detection** is the process of analyzing the [[cepstrum]] of an [[audio-signal|audio signal]] to determine the signal's [[fundamental]] [[frequency]]/[[pitch]], usually that of an instrument or vocalist.
 
 ## Equation
 

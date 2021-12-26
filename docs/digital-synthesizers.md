@@ -4,7 +4,7 @@ tags: synthesizers music mus-407 electroacoustic midi
 
 # Digital Synthesizers
 
-An **digital synthesizer** is a device used to [[sound-synthesis|synthesize sound]] digitally using DSP.
+An **digital synthesizer** is a [[synthesizer]] device used to [[sound-synthesis|synthesize sound]] digitally using DSP.
 
 ## History
 
