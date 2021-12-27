@@ -10,7 +10,7 @@ Timeline of recording technologies:
 
 - [[mechanical-recording|Mechanical recording]] (1877)
 - [[electro-mechanical-recording|Electro-mechanical recording]] (1925-1945)
-- magnetic-recording|Magnetic recording (1945-1975)
+- [[magnetic-recording|Magnetic recording]] (1945-1975)
 - digital-recording|Digital recording (1975-)
 
 ## Sources

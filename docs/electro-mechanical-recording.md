@@ -17,7 +17,16 @@ Electro-mechanical recording led to
 - the integrated electrical recording system, introduced by **Western Electric** ca. 1925
   - supply/research branch at AT&T
   - co-founded [[bell-laboratories|Bell Telephone Laboratories]], 1925
-- concept of **_audio engineering_**
+- concept of [[audio-engineering|audio engineering]]
+
+## Mechanical vs. Electro-mechanical recording
+
+Electro-mechanical recording solved some of the shortcomings of mechanical recording:
+
+- _mechanical recording_: musicians had to crowd in a small room around a large, bulky recording horn
+- _electro-mechanical recording_: musicians could sit at their normal positions and play towards the microphone
+
+TODO: add pictures from slides
 
 ## Sources
 
