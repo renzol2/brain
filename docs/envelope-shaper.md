@@ -13,6 +13,6 @@ Creative applications are largely focused on transient customization.
 
 - enhancing or altering a sound's natural envelope shape
 - can create interesting effects by removing or modifying important [[psychoacoustics|psychoacoustic]] cues
-- related to early music concrète research by Pierre Schaeffer
+- related to early [[musique-concrete|music concrète]] research by [[pierre-schaeffer|Pierre Schaeffer]]
 
 DAW volume automation is a form of envelope shaping, but in a [[dynamic-range-processing|DRP]] context, transient modification is assumed to be the area of interest.

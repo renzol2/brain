@@ -37,7 +37,7 @@ Operating principles include:
 In general, all these instruments work to achieve the same thing; creative expression through manipulation of recorded audio.
 
 - [[light-tone-organ|Light Tone Organ]] (Licht-Tone Organ) - Edwin Welte, Germany, ca. 1936
-- [[phonogene|Phonogène]] - Pierre Schaeffer, Paris, ca. 1950s
+- [[phonogene|Phonogène]] - [[pierre-schaeffer|Pierre Schaeffer]], Paris, ca. 1950s
 - [[special-purpose-tape-recorder|Special Purpose Tape Recorder]] - [Hugh Le Caine](https://hughlecaine.com/en/), 1955
 - [[mellotron|Mellotron]] - Birmingham, England, 1963
 
