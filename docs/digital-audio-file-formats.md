@@ -84,12 +84,7 @@ In _lossy_ compressed audio, file size is reduced, and original data is permanen
 
 Lossy compression relies on _perceptual encoding_, where the nuance of human perception determines which data is removed.
 
-_Masking_ is a phenomenon in which one sound conceals or obscures another
-
-- e.g. electric guitar momentarily drowned out by crash cymbal
-- conversation obscured by running water
-
-Perpetual encoding [[algorithm]]s identify masked regions and assign fewer bits to these samples.
+Perpetual encoding [[algorithm]]s identify regions imperceivable by [[masking]] and assign fewer bits to these samples.
 
 ### Lossy Compression File Size
 
