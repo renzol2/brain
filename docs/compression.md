@@ -51,7 +51,10 @@ After compression is applied, **makeup gain** is a normal amplification process 
 - [[multiband-compression|Multiband compression]]
 - [[parallel-compression|Parallel compression]]
 - [[buss-compression|Buss compression]]
+- [[side-chaining|Sidechain compression]]
+- Serial compression
 
 ## Sources
 
 - MUS 407 Dynamic Range Processing
+- <https://www.blackghostaudio.com/blog/the-ultimate-guide-to-compression>

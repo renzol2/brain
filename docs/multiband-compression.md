@@ -26,3 +26,4 @@ OTT (Over The Top) is a preset for Ableton's multiband compressor
 ## Sources
 
 - MUS 407 Dynamic Range Processing
+- <https://www.blackghostaudio.com/blog/the-ultimate-guide-to-compression>
