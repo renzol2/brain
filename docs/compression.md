@@ -4,7 +4,7 @@ tags: music compression mus-407 production dynamics drp dynamic-range-compressio
 
 # Compression
 
-A **compressor** is an amplifier whose gain is determined by an input [[audio-signal|signal]] level
+**Compression** is a form of [[dynamic-range-processing|dynamic range control]] that (generally) reduces the [[dynamic-range|dynamic range]] of a signal. A _compressor_ is an amplifier whose gain is determined by an input [[audio-signal|signal]] level
 
 - when signal level > [[amplitude]] threshold, compression effect becomes active and attenuates a signal
 
@@ -15,37 +15,43 @@ Frequently used to regulate a "peaky" signal during recording, i.e. to provide a
 
 Compression is also used during mixing/mastering to provide a higher overall mix level.
 
-Compressor behavior is modeled using a graph of its [[transfer-function|transfer function]].
+Compressor behavior is modeled using a graph of its [[transfer-function|transfer function]], which is generally comprised of these parameters:
+
+- [[ratio-drp|ratio]]
+- [[threshold-drp|threshold]]
+- makeup gain
+- attack/release
+
+Compressors can also feature the following additional parameters:
+
+- auto mode
+- lookahead
+- stereo linking
 
 ## Ratio
 
-The severity of signal attenuation is determined by a _compression ratio_.
+The severity of signal attenuation is determined by a _compression [[ratio-drp|ratio]]_.
 
-- Represents change in input signal (dB) compared to change in output signal (dB)
+Downward compression ratios of 8:1 and above are generally considered "extreme" compression
 
-e.g. compression ratio of 4:1
-
-- above threshold, if input signal increases by 4 dB, output signal is attenuated so that the increase is only 1 dB
-
-Ratios of 8:1 and above are generally considered "extreme" compression
-
-- Can result in a perceptual distortion of [[transient]]s, noticeable changes in [[timbre]], often described as a "squashed" sound
+- Can result in a perceptual distortion of [[transient|transients]], noticeable changes in [[timbre]], often described as a "squashed" sound
+- A compressors with ratios above 10:1 would generally be considered a [[limiter]]
 
 ## Makeup gain
 
 After compression is applied, **makeup gain** is a normal amplification process used to compensate for the loss in overall level
 
-- typically used to restore peaks to their original level
-- content below threshold undergoes a net level increases
+- typically used to restore peaks to their original level after compression creates more [[headroom]]
+- content below threshold, including the [[noise-floor|noise floor]], undergoes a net level increases
 
-## Multiband compression
+## Types of Compression
 
-A **multi-band compressor** divides a full [[spectrum]] signal into discrete [[docs/frequency|frequency]] bands and applies compression uniquely to each band.
+- [[limiter|Limiting]]
+- [[upward-compression|Upward compression]]
+- [[multiband-compression|Multiband compression]]
+- [[parallel-compression|Parallel compression]]
+- [[buss-compression|Buss compression]]
 
-- allows for more detailed control of [[dynamic-range|dynamic range]]
-- compressed spectral bands are summed after compressions are applied
-- often used to affect different parts of a drum set, e.g. compress only the [[kick]] drum if the whole drum set is recorded on a single track
+## Sources
 
-## Parallel Compression
-
-[[parallel-compression|Parallel compression]] involves blending an original [[dry-wet-signal|dry signal]] with a compressed duplicate of the original signal (wet).
+- MUS 407 Dynamic Range Processing

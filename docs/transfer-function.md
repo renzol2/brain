@@ -57,7 +57,7 @@ _Hard/soft_ knee refers to the smoothness of the transfer function graph across 
 
 ## Upward Compression Shape
 
-![Upward Compression Shape](../attachments/upward-compression-shape.png)
+[[upward-compression]]
 
 ## Downward Expansion Shape
 

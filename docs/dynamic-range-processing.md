@@ -32,7 +32,7 @@ Applications include:
 
 ## Key Concepts
 
-All forms of DRP rely on an amplitude **threshold**.
+All forms of DRP rely on an amplitude [[threshold-drp|threshold]].
 
 - determines signal level above or below which DRP take effect, depending on the type of effect
 
@@ -103,7 +103,7 @@ Likewise, it is possible to boost signal above a threshold - a form of expansion
 
 This technique is infrequently used:
 
-- upward compression raises the noise floor
+- upward compression raises the [[noise-floor|noise floor]]
 - upward expansion makes peaks even [[loudness|louder]]
 
 ### Side-Chaining

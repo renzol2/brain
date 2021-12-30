@@ -51,7 +51,7 @@ Hyperpop choruses are characterized by **808s**, heavy **distortion**, and **exa
 **Vocals**: hyperpop vocals utilize heavy layering and effects, forgoing realism and transparency for stylistic flair and exaggeration
 
 - vocals are often layered; if not, they employ heavy effect chains:
-  - multiband [[compression]]
+  - [[multiband-compression|multiband compression]]
   - distortion
   - autotune
   - [[reverb]]
