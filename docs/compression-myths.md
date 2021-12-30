@@ -1,0 +1,1 @@
+https://www.attackmagazine.com/features/columns/gregory-scott-demolishing-the-myths-of-compression/2/

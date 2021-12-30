@@ -1,0 +1,1 @@
+https://www.blackghostaudio.com/blog/the-ultimate-guide-to-compression
