@@ -22,3 +22,8 @@ The **carrier to modulator ratio (C:M)** determines the harmonicity of the resul
 In [[spectral-composition|spectral composition]], FM is a powerful [[algorithm]] for generating spectral note sets!
 
 - can generate inharmonic (dissonant) or [[harmonic-series|harmonic]] (consonant) sets
+
+## Sources
+
+- MUS 305 Lecture
+- MUS 407 The Studio Age: Musique Concrète

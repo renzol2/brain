@@ -4,7 +4,7 @@ tags: mus-407 musique-concrete electroacoustic music
 
 # John Cage
 
-**John Cage** (1912-1992) was a composer who focused on the conceptual expansion of music.
+**John Cage** (1912-1992) was a [[music-composition|composer]] who focused on the conceptual expansion of music.
 
 - use of silence
 - works for percussion ensemble

@@ -11,7 +11,7 @@ Additive synthesis is the process of generating [[sound-waves|sound]] by adding 
 
 ## History
 
-Additive synthesis is used within [[electroacoustic-music|electroacoustic music]] for creating complex spectra by summing individual sine waves at specific frequencies
+Additive synthesis was used within early [[electroacoustic-music|electroacoustic music]] for creating complex spectra by summing individual sine waves at specific frequencies
 
 - achieved through [[fourier-theorem|Fourier]] synthesis
 - tedious process with 1950s equipment:
@@ -22,4 +22,5 @@ Additive synthesis is used within [[electroacoustic-music|electroacoustic music]
 
 ## Sources
 
+- MUS 407 The Studio Age: Musique Concrète
 - TODO: add sources

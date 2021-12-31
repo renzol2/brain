@@ -4,6 +4,15 @@ tags: mus-407 musique-concrete electroacoustic music
 
 # Musique Concrète
 
+- [Musique Concrète](#musique-concrète)
+  - [History](#history)
+  - [Areas of interest](#areas-of-interest)
+  - [Early compositions and innovations](#early-compositions-and-innovations)
+    - [**Cinq etudes des bruits**, 1948 (five noise studies)](#cinq-etudes-des-bruits-1948-five-noise-studies)
+    - [Symphonie pour un homme seul (1949-50), Schaeffer & Henry](#symphonie-pour-un-homme-seul-1949-50-schaeffer--henry)
+  - [Equipment and techniques](#equipment-and-techniques)
+  - [Sources](#sources)
+
 **Musique Concrète** refers to a creative practice of working _directly_ with [[recording|recorded]] sound, first introduced in 1948.
 
 - in contrast to the _subjective_ practice of notating musical symbols for performer interpretation
@@ -56,7 +65,25 @@ Explorations into how recorded material could be used for music composition
 - locked-groove disc cuts to create sound [[looping|loops]]
 - at first, no [[electrical-current|electrical signal]] generation/process equipment (philosophical choice, not determined by equipment availability)
 
-## Early compositions
+## Early compositions and innovations
+
+### **Cinq etudes des bruits**, 1948 (five noise studies)
+
+- concrete compositions using recordings of trains, toy tops, piano, spinning plates, voice, etc.
+- problems of association; sounds largely retained their original characteristics (which Schaeffer considered undesirable)
+  - wanted to synthesize, blend, abstract the material into something new and "art"-like
+  - brought upon the development of the [[sound-object|"objet sonore"]]
+
+### Symphonie pour un homme seul (1949-50), Schaeffer & Henry
+
+- first large-scale work of musique concrete
+- technical problems in performance, under-rehearsed, multichannel diffusion, unwieldy disc players
+
+Some innovations:
+
+- the [[sound-object|object sonore]]
+- development of primitive notation system, music concrete solfege
+- heavily based on Western notation, largely inadequate
 
 ## Equipment and techniques
 
@@ -66,7 +93,7 @@ Around 1951, Studio d'Essai acquired new funds, prompting the acquisition of new
 - [[tape-delay|Tape delay]]
 - [[tape-loops|Tape loops]]
 - [[additive-synthesis|Additive synthesis]]
-- [[subtractive-synthesis]]
+- [[subtractive-synthesis|Subtractive synthesis]]
 - [[modulation-synthesis]]
   - [[amplitude-modulation]]
   - [[frequency-modulation]]

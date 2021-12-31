@@ -4,7 +4,7 @@ tags: mus-305
 
 # Ring Modulation
 
-In ring modulation, two [[audio-signal|signal]]s of [[docs/frequency|frequencies]] $f_1$ and $f_2$ are multiplied, which results in *sum* and *difference* tones: $f_1+f_2$ and $|f_1-f_2|$.
+**Ring modulation** is a form of [[modulation-synthesis|modulation synthesis]] in which two [[audio-signal|signal]]s of [[docs/frequency|frequencies]] $f_1$ and $f_2$ are multiplied, which results in _sum_ and _difference_ tones: $f_1+f_2$ and $|f_1-f_2|$.
 
 ![Ring modulation example](../attachments/ring-modulation-example.png)
 
@@ -18,3 +18,10 @@ This results in the following:
 - the output spectrum is unrelated to the inputs by [[harmonic-series|harmonic relationship]]
 - $f_1$ and $f_2$ do not appear in the resulting spectrum
 - each [[partial]] in $f_1$ produces the sum and difference with all partials in $f_2$, which often results in dense sound
+
+Ring modulation is the [[sound-synthesis|sound synthesis]] equivalent of the [[heterodyne-principle|Heterodyne principle]].
+
+## Sources
+
+- MUS 305 Lecture
+- MUS 407 The Studio Age: Musique Concrète
