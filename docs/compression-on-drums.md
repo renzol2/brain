@@ -1,5 +1,5 @@
 ---
-tags: music production compression
+tags: music production compression drums kick
 ---
 
 # Compression on Drums
