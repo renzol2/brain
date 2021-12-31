@@ -12,6 +12,7 @@ TLDR: All myths are related to the behavior of a compressor's **attack** and **r
 2. Release is the time it takes a compressor to restore two-thirds of the reduced gain to the compressed signal
 3. Once a signal is over the threshold, both attack and release are _constantly_ at play; it's not only when the signal crosses the threshold
 4. While compressors generally reduce dynamic range, the attack and release parameters can be adjusted to do the exact opposite effect (for creative and practical use).
+5. Compression make sounds _denser_. Density can be used to make sounds both big and small; the goal is make each sound as dense "as necessary to transmit emotion... and no denser".
 
 ## Myth 1
 
