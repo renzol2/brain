@@ -10,7 +10,7 @@ The **trautonium** is an early electronic instrument invented by Friedrich Traut
 - wired suspended over metal rail
 - depressing wire closes circuit with particular resistance, affecting voltage of tube oscillator
 
-[[sawtooth-wave|sawtooth]]-like waveform routed through resonant filters
+[[sawtooth-wave|sawtooth]]-like waveform routed through resonant [[filter|filters]]
 
 - early form of [[subtractive-synthesis|subtractive synthesis]]
   Paul Hindemith, **_Concerto for Trautonium (1930)_**

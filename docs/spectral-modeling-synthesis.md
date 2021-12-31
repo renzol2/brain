@@ -15,7 +15,7 @@ The inharmonic component is represented everything that is not the harmonic comp
 
 - referred to as "stochastic" and "residual"
 - can be modeled in several ways:
-  - as white noise passed through a time-varying filter (i.e. [[subtractive-synthesis|subtractive synthesis]])
+  - as white noise passed through a time-varying [[filter]] (i.e. [[subtractive-synthesis|subtractive synthesis]])
   - in tandem with the harmonic components using [[bandwidth-enhanced-oscillator|BEOs]]
 
 ![Spectral modeling synthesis diagram](../attachments/spectral-modeling-synthesis-diagram.png)

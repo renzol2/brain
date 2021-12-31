@@ -6,7 +6,7 @@ tags: mus-407 recording-technology
 
 **Electro-Mechanical Recording** is the hybrid [[recording]] process that combines [[mechanical-recording|mechanical recording]] techniques with technological advances in electronics.
 
-- technological advances enable amplification and filtering of sound via electronic means
+- technological advances enable amplification and [[filter|filtering]] of sound via electronic means
 - availability of [[microphones]] for more sensitive/accurate capture
   - ([[condenser-microphones|condenser microphones]], ca. 1916)
 - disc-cutting; electrically driven mechanical process

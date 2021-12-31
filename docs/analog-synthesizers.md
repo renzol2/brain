@@ -54,7 +54,7 @@ Modular design led to the introduction of [[modulation-synthesis|modulation synt
 Common modules:
 
 - **VCO**: voltage-controlled oscillator
-- **VCF**: voltage-controlled filter
+- **VCF**: voltage-controlled [[filter]]
 - **VCA**: voltage-controlled amplifier
 - **LFO**: low-[[docs/frequency|frequency]] oscillator
 - sequencers, [[envelope|envelopes]], [[mixer]]s, [[noise]] generators, etc.

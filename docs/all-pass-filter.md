@@ -4,7 +4,7 @@ tags: mus-407 ece-402
 
 # All-Pass Filter
 
-An **all-pass filter** is a [[sampling-signal-processing|signal processing]] filter that passes all [[frequency|frequencies]] equally in gain but changes the [[phase]] relationship among various frequencies.
+An **all-pass filter** is a [[sampling-signal-processing|signal processing]] [[filter]] that passes all [[frequency|frequencies]] equally in gain but changes the [[phase]] relationship among various frequencies.
 
 ## Within reverb
 

@@ -11,7 +11,7 @@ tags:
 
 Much of 2Pac's music addresses contemporary social issues that plagued inner cities
 
-- he is considered a symbol of activism against equality
+- he is considered a symbol of activism against inequality
 - credited for bringing [[political-hip-hop|political hip hop]] to the mainstream [[popular-music|popular music]] scene
 - central figure in West Coast [[hip-hop]] for his conscious lyrics
 

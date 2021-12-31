@@ -39,7 +39,7 @@ Notes from Holden:
 - Rhythmic elements should be panned center
 - Not everything should be center panned
 - Use automation to change parameters over time
-- Use **subtractive EQ** to sculpt a sound
+- Use [[subtractive-eq|subtractive EQ]] to sculpt a sound
   - For synthesized sounds, be generous in subtractive EQ
   - For organic sounds, cut less to keep organic feel
 - _Mixing as you go_ (i.e. sound designing your instruments and beat as you compose) can make the beat feel more complete and iterative throughout the process

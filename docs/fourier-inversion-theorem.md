@@ -20,7 +20,7 @@ The application of the Fourier inversion theorem is very common through this bas
 
 Applying the Fourier inverse theorem in sound and audio relies on the above basic strategy. For ex:
 
-- identifying unwanted [[frequency|frequencies]] in a [[dry-wet-signal|dry signal]] using Fourier transform, removing those unwanted frequencies with EQ, and applying inverse Fourier transform to obtain the wet signal
+- identifying unwanted [[frequency|frequencies]] in a [[dry-wet-signal|dry signal]] using Fourier transform, removing those unwanted frequencies with [[equalization|EQ]], and applying inverse Fourier transform to obtain the wet signal
 
 ## Sources
 

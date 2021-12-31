@@ -14,7 +14,7 @@ An **input channel** is a modular strip on a [[mixer]] that typically contains a
 - low [[frequency]] rolloff toggle
 - mute/solo buttons
 - routing options for main/aux outs
-- EQ
+-[[equalization|EQ]]
 - stereo balance control (pan)
 - input channel fader
 

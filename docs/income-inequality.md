@@ -16,6 +16,7 @@ Income inequality is driven by several factors since 1970:
 - globalization
 - decline of unions
 - eroding value of the minimum wage
+- [[capitalism]]
 
 These drivers have a disproportionate impact on differing racial and ethnic groups, caused by
 

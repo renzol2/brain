@@ -13,7 +13,7 @@ Bessel functions have applications in
 - signal processing
 - [[frequency-modulation|FM synthesis]]
 - developing [[kaiser-window|Kaiser windows]]
-- developing filters, like the Bessel filter
+- developing [[filter|filters]], like the Bessel filter
 
 TODO: look up relationship to [[harmonic-series]]
 

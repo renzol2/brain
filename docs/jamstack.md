@@ -7,7 +7,7 @@ tags: web-dev architecture computer-science
 **Jamstack** is a web development architecture pattern for building websites. Sometimes stylized as "JAMstack", where:
 
 - **J**: [[JavaScript]]
-- **A**: APIs
+- **A**: [[application-programming-interface|APIs]]
 - **M**: Markup
 
 Jamstack is used for the following design features:

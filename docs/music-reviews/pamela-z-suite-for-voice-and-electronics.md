@@ -17,6 +17,6 @@ _Badagada_ uses a more rhythmic, looping ostinato sampled at the beginning of th
 
 _Typewriter_ uses the electronic device to simulate a physical object through [[sound-waves|sound]] and gesture alone, which was both amusing and interesting. \*\*This piece really highlights the versatility and creative freedom of the sensor that Pamela Z uses.
 
-_Breathing_ seemed to focus a lot more on the manipulation of recorded samples through more electronic devices, like gloves with gyroscope sensors to sense the angle of Pamela Z's voice to control filtering and looping parameters. Like _Badagada_, _Breathing_ highlights live recorded samples primarily.
+_Breathing_ seemed to focus a lot more on the manipulation of recorded samples through more electronic devices, like gloves with gyroscope sensors to sense the angle of Pamela Z's voice to control [[filter|filtering]] and looping parameters. Like _Badagada_, _Breathing_ highlights live recorded samples primarily.
 
 Overall, I really enjoyed Pamela Z's use of live performance through her voice and the manipulation of live recorded samples with electronics. Having a sensor to sense delicate hand movements seems to offer an amazing level of control, similar to a theremin. I think this method of performance can definitely be explored more, and it pushed my boundaries of what I thought live performance with [[electroacoustic-music|electroacoustic music]] could be.

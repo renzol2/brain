@@ -9,7 +9,7 @@ type: music-review
 
 - water-like sounds, bubbly, underwater
 - tonal, use of drone (saw-like), focusing on C
-- sequenced [[sound-synthesis|synth]] sounds, noisy/filtered, almost [[inharmonicity|inharmonic]]
+- sequenced [[sound-synthesis|synth]] sounds, noisy/[[filter|filtered]], almost [[inharmonicity|inharmonic]]
 - piano
 - string/string-pad
 - overhead noise or dense inharmonic [[spectrum]]

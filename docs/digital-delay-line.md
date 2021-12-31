@@ -75,14 +75,14 @@ Uses a [[circular-queue|circular queue]] or **circular buffer**
 
 ## Digital Filters vs. Digital Delays
 
-In terms of design, digital filters & delays are essentially distinguishable
+In terms of design, digital [[filter|filters]] & delays are essentially distinguishable
 
 - delay an input signal by some amount
 - mix delayed output with input
 
 Filters require delay/mixing in order to cancel/reinforce certain [[frequency|frequencies]].
 
-Consider a simple lowpass filter:
+Consider a simple [[low-pass-filter|lowpass filter]]:
 
 $$y[n] = 0.5 \times x[n] + 0.5 \times x[n-1]$$
 
@@ -98,7 +98,7 @@ Creates a slight smoothing effect on waveform shape, thus attenuating higher fre
 
 For a waveform at [[nyquist-frequency|Nyquist frequency]], waveform will be completely nullified (consecutive samples are equal and opposite, yielding a zero average)
 
-Longer-term averaging function (ten incremental sample delays in parallel) creates a stronger smoothing effect, lowering the cutoff frequency:
+Longer-term averaging function (ten incremental sample delays in parallel) creates a stronger smoothing effect, lowering the [[cutoff-frequency|cutoff frequency]]:
 
 $$y[n] = 0.1 \times x[n] + 0.1 \times x[n-1] + ... + 0.1 \times x[n-9]$$
 
