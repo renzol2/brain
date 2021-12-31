@@ -1,5 +1,5 @@
 ---
-tags:
+tags: rust
 ---
 
 # Slices (Rust)
