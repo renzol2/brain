@@ -28,14 +28,14 @@ TLDR:
 Decolonization is often preached without practice as a BIPOC lifestyle brand or personality trait (Quevedo)
 
 - misguided attempts at connecting with "pre-colonial roots" often results in cultural appropriation, anti-indigeneity, and anti-Blackness
-- citizens of settler colonial states fail to challenge their participation in settler colonialism
+- citizens of settler colonial states fail to challenge their participation in settler [[colonialism]]
 - they import non-local foods and goods whose farming and production practices exploit indigenous and native communities elsewhere
 
 > [Decolonization] is often confused with any social justice endeavor, including diversity, equity, and inclusion and often devoid of a critical analysis of power, history, and sociopolitics (Ijeoma Nnodim Opara, MD)
 
 "Decolonization" as a term has been diluted in popular culture
 
-- used by neoliberals who are co-opting abolitionist language to appear "woke"
+- used by [[neoliberalism|neoliberals]] who are co-opting abolitionist language to appear "woke"
   - includes "lumpia liberals" in the FilAm/PilAm community
 - accompanies performative statements and gestures
 - pacifies the revolutionary nature of decolonization
@@ -43,11 +43,11 @@ Decolonization is often preached without practice as a BIPOC lifestyle brand or 
 
 ## In the Right
 
-"Decolonization" and other Critical Race Theory terms (including variants of "colonization") have become contentious buzzwords for white fragility in right-leaning communities
+"Decolonization" and other [[critical-race-theory|Critical Race Theory]] terms (including variants of "colonization") have become contentious buzzwords for white fragility in right-leaning communities
 
 - contentious among those empowered by their adjacency to whiteness
 - some claiming "colonizer" as a racial slur
-  - false basis: not all colonizers have been white, and reverse racism isn't real
+  - false basis: not all colonizers have been white, and [[reverse-racism|reverse racism]] isn't real
 
 ## 1. Decolonization is not a metaphor
 
@@ -68,7 +68,7 @@ Decolonization is violent because colonization is violent in many ways:
 
 - enforcing legal, military, and political authority
 - exploiting land and labor
-- spreading colonial mentality and controlling thoughts
+- spreading [[colonial-mentality|colonial mentality]] and controlling thoughts
 
 Colonial power does not give up authority willingly or easily - undoing colonization is inevitably a struggle, but a necessary one.
 
@@ -79,17 +79,17 @@ Colonial power does not give up authority willingly or easily - undoing coloniza
 White supremacist institutions are dependent on colonial systems and structures, including
 
 - gatekeeping power and authority from colonized communities
-- upholding Eurocentrism
+- upholding [[Eurocentrism]]
 - inherently reliant on exploitation
 
-Removing all traces of colonialism from their structures prevents institutions from supporting themselves.
+Removing all traces of [[colonialism]] from their structures prevents institutions from supporting themselves.
 
 ## 4. Decolonization is communal
 
 In many pre-colonial, indigenous, and native societies, _community_ is survival
 
-- "rugged individualism" and competitive capitalism are colonizer's tools
-- removal of colonial control means removing **toxic individualism**
+- "[[rugged-individualism|rugged individualism]]" and competitive [[capitalism]] are colonizer's tools
+- removal of colonial control means removing [[toxic-individualism|toxic individualism]]
   - leads to easy exploitation due to being weaker while divided
 
 Moving forward in solidarity means engaging with and uplifting each other through processes of decolonization: dismantle the power together, heal together, grow together, build together.
@@ -102,15 +102,15 @@ Decolonization is about removing colonial authority and control.
 
 "Pre-colonial" is impossible: many lands and peoples are irrevocably changed by colonization
 
-- ex. diasporas created by colonial displacement who can neither support (nor be supported by) their now destabilized homelands if they _repatriated_ them
+- ex. diasporas created by colonial displacement who can neither support (nor be supported by) their now destabilized homelands if they [[repatriation|repatriated]] them
 
 ## 6. Decolonization is ongoing
 
 > If colonization made the modern world, decolonization cannot be complete until the world - including Europe - is remade." - Adom Getachew
 
-Colonialism is a structure, not an event.
+[[Colonialism]] is a structure, not an event.
 
-- anyone who participates in a settler colonial state benefits from colonialism
+- anyone who participates in a settler colonial state benefits from [[colonialism]]
   - citizens, military and law enforcement, political leadership
 - many current global powers exist through colonial exploitation and regional destabilization, which is _still ongoing_
 - until we stop operating on both the consequences of historical colonization and its current incarnations, decolonization will continue

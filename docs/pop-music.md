@@ -13,7 +13,7 @@ tags: music genre
 
 Pop music often borrows elements from other styles, including rock, urban ([[hip-hop]]), dance, Latin, and country.
 
-Some scholars and professionals characterize pop music as a product of capitalism, commercialization, enterprise, and profit.
+Some scholars and professionals characterize pop music as a product of [[capitalism]], commercialization, enterprise, and profit.
 
 - professionally produced and packaged - differs from "indie pop"?
 
